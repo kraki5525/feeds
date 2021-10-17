@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-17T13:49:46.255Z</updated>
+    <updated>2021-10-17T14:08:19.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[a conspicuous depiction of a common fly (Wikipedia — did you know?)]]></title>
@@ -61,57 +61,87 @@
         <content type="html"><![CDATA[... that chemist <b><a href="/wiki/R._Nelson_Smith" title="R. Nelson Smith">R.&nbsp;Nelson Smith</a></b> replaced his colleague's desk chair with a porcelain toilet?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Central Dongcheng (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Beijing/Central_Dongcheng</id>
-        <link href="https://en.wikivoyage.org/wiki/Beijing/Central_Dongcheng"/>
-        <updated>2021-10-01T17:44:48.997Z</updated>
-        <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r3732050">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output .interactiveIcon{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style>
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
-<p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
-</p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:40%">
-		<h2><span class="mw-headline" id="Central_Dongcheng"><a href="/wiki/Beijing/Central_Dongcheng" title="Beijing/Central Dongcheng">Central Dongcheng</a></span></h2>
-		<h3><span class="mw-headline" id="Destination_of_the_month"><a href="/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Destination of the month</a></span></h3>
-		<div class="quote"><a href="/wiki/Beijing/Central_Dongcheng" title="Beijing/Central Dongcheng">From Tiananmen Square to Wangfujing street, much that draws visitors to Beijing can be found in Dongcheng.</a></div>
-	</div>
-<p>	<img alt="Beijing/Central Dongcheng" src="//upload.wikimedia.org/wikivoyage/en/thumb/0/04/DongchengBanner1.jpg/1700px-DongchengBanner1.jpg" decoding="async" title="Beijing/Central Dongcheng" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/0/04/DongchengBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570" width="1700" height="567">
-</p>
-	<a href="/wiki/Beijing/Central_Dongcheng" title="Beijing/Central Dongcheng"><img alt="Beijing/Central Dongcheng" src="//upload.wikimedia.org/wikivoyage/en/thumb/0/04/DongchengBanner1.jpg/1700px-DongchengBanner1.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/0/04/DongchengBanner1.jpg 1.5x" data-file-width="1710" data-file-height="570" width="1700" height="567"></a></div>]]></content>
+        <title type="html"><![CDATA[Short Questions and Answers Vol. 8 (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://kraki5525.github.io/feeds/all.xml</id>
+        <link href="https://kraki5525.github.io/feeds/all.xml"/>
+        <updated>2021-07-29T12:30:58.000Z</updated>
+        <content type="html"><![CDATA[I’ve been sitting on some questions and comments submitted by readers in 2020. They don’t fall into the normal category of questions, so in order […]]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chavín de Huántar (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar</id>
-        <link href="https://en.wikivoyage.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar"/>
-        <updated>2021-10-11T17:46:01.781Z</updated>
-        <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
-<p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
-</p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:40%">
-		<h2><span id="Chav.C3.ADn_de_Hu.C3.A1ntar"></span><span class="mw-headline" id="Chavín_de_Huántar"><a href="/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar" title="Chavín de Huántar">Chavín de Huántar</a></span></h2>
-		<h3><span class="mw-headline" id="Off_the_Beaten_Path"><a href="/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Off the Beaten Path</a></span></h3>
-		<div class="quote"><a href="/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar" title="Chavín de Huántar">Explore the ancient Chavín culture and the Andean cuisine and admire great views in this little town that millenia ago was an important ceremonial site.</a></div>
-	</div>
-<p>	<img alt="Chavín de Huántar" src="//upload.wikimedia.org/wikipedia/commons/d/d2/Chav%C3%ADn_de_Hu%C3%A1ntar_main_page_banner.jpg" decoding="async" title="Chavín de Huántar" class="nolink" data-file-width="1700" data-file-height="567" width="1700" height="567">
-</p>
-	<a href="/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar" title="Chavín de Huántar"><img alt="Chavín de Huántar" src="//upload.wikimedia.org/wikipedia/commons/d/d2/Chav%C3%ADn_de_Hu%C3%A1ntar_main_page_banner.jpg" decoding="async" data-file-width="1700" data-file-height="567" width="1700" height="567"></a></div>]]></content>
+        <title type="html"><![CDATA[Did Tolkien Explain Seasons before the Changing of the World? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://kraki5525.github.io/feeds/all.xml</id>
+        <link href="https://kraki5525.github.io/feeds/all.xml"/>
+        <updated>2021-07-26T12:30:05.000Z</updated>
+        <content type="html"><![CDATA[Q: Did Tolkien Explain Seasons before the Changing of the World? ANSWER: A reader sent in the following interesting question in July 2020: Did Tolkien […]]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Game of Thrones tourism (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Game_of_Thrones_tourism</id>
-        <link href="https://en.wikivoyage.org/wiki/Game_of_Thrones_tourism"/>
-        <updated>2021-09-21T05:40:27.901Z</updated>
-        <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
-<p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
-</p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:40%">
-		<h2><span class="mw-headline" id="Game_of_Thrones_tourism"><a href="/wiki/Game_of_Thrones_tourism" title="Game of Thrones tourism">Game of Thrones tourism</a></span></h2>
-		<h3><span class="mw-headline" id="Featured_Travel_Topic"><a href="/wiki/Previous_Featured_Travel_Topics" class="mw-redirect" title="Previous Featured Travel Topics">Featured Travel Topic</a></span></h3>
-		<div class="quote"><a href="/wiki/Game_of_Thrones_tourism" title="Game of Thrones tourism">An exceedingly popular TV series with more Emmy awards than any other. Much of it was shot on location in places that are interesting in their own right as well as to fans.</a></div>
-	</div>
-<p>	<img alt="Game of Thrones tourism" src="//upload.wikimedia.org/wikivoyage/en/thumb/e/e9/GoTBanner1.jpg/1700px-GoTBanner1.jpg" decoding="async" title="Game of Thrones tourism" class="nolink" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/e/e9/GoTBanner1.jpg/2550px-GoTBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/e/e9/GoTBanner1.jpg/3400px-GoTBanner1.jpg 2x" data-file-width="3600" data-file-height="1200" width="1700" height="567">
-</p>
-	<a href="/wiki/Game_of_Thrones_tourism" title="Game of Thrones tourism"><img alt="Game of Thrones tourism" src="//upload.wikimedia.org/wikivoyage/en/thumb/e/e9/GoTBanner1.jpg/1700px-GoTBanner1.jpg" decoding="async" srcset="//upload.wikimedia.org/wikivoyage/en/thumb/e/e9/GoTBanner1.jpg/2550px-GoTBanner1.jpg 1.5x, //upload.wikimedia.org/wikivoyage/en/thumb/e/e9/GoTBanner1.jpg/3400px-GoTBanner1.jpg 2x" data-file-width="3600" data-file-height="1200" width="1700" height="567"></a></div>]]></content>
+        <title type="html"><![CDATA[What Did Gandalf Do before He Met Bilbo Baggins? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://kraki5525.github.io/feeds/all.xml</id>
+        <link href="https://kraki5525.github.io/feeds/all.xml"/>
+        <updated>2021-07-12T12:30:04.000Z</updated>
+        <content type="html"><![CDATA[Q: What Did Gandalf Do before He Met Bilbo Baggins? ANSWER: According to the Tale of Years in the LoTR Appendices, Gandalf lived in Middle-earth […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Were the Other Evils Gandalf Mentioned? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://kraki5525.github.io/feeds/all.xml</id>
+        <link href="https://kraki5525.github.io/feeds/all.xml"/>
+        <updated>2021-07-08T12:30:40.000Z</updated>
+        <content type="html"><![CDATA[Q: What Were the Other Evils Gandalf Mentioned? ANSWER: A reader submitted this question: What could the “other evils” be that Gandalf warned could come […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could Weakened Ainur Regain Their Former Strength? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://kraki5525.github.io/feeds/all.xml</id>
+        <link href="https://kraki5525.github.io/feeds/all.xml"/>
+        <updated>2021-07-05T12:30:21.000Z</updated>
+        <content type="html"><![CDATA[Q: Could Weakened Ainur Regain Their Former Strength? ANSWER: Received the following comment and question: I’ve always been fascinated by the concept of Ainur such […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could Tolkien Dwarves Swim? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://kraki5525.github.io/feeds/all.xml</id>
+        <link href="https://kraki5525.github.io/feeds/all.xml"/>
+        <updated>2021-02-22T13:30:58.000Z</updated>
+        <content type="html"><![CDATA[Could Tolkien Dwarves Swim? ANSWER: Yes. Well, in the sense that it wasn’t physically impossible for them to, that’s the short answer. Convincing people that […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could Aragorn and Boromir have Helped Gandalf against the Balrog? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://kraki5525.github.io/feeds/all.xml</id>
+        <link href="https://kraki5525.github.io/feeds/all.xml"/>
+        <updated>2021-02-18T13:30:03.000Z</updated>
+        <content type="html"><![CDATA[Q: Could Aragorn and Boromir have Helped Gandalf against the Balrog? ANSWER: This is one of those questions that invites speculation. While I don’t recall […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does It Mean to Cast Up A Sword? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://kraki5525.github.io/feeds/all.xml</id>
+        <link href="https://kraki5525.github.io/feeds/all.xml"/>
+        <updated>2021-02-15T13:30:38.000Z</updated>
+        <content type="html"><![CDATA[Q: What Does It Mean to Cast Up A Sword? ANSWER: Tolkien often used obscure meanings for common, everyday English words. Deciphering what he meant […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Releases 1st Official Summary for Lord of the Rings TV Show (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://kraki5525.github.io/feeds/all.xml</id>
+        <link href="https://kraki5525.github.io/feeds/all.xml"/>
+        <updated>2021-01-13T03:51:11.000Z</updated>
+        <content type="html"><![CDATA[Per TheOneRing.Net: Amazon Studios’ forthcoming series brings to screens for the very first time the heroic legends of the fabled Second Age of Middle-earth’s history. […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Did Aragorn Forget Thranduil’s Name in the “Two Towers” Movie? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://kraki5525.github.io/feeds/all.xml</id>
+        <link href="https://kraki5525.github.io/feeds/all.xml"/>
+        <updated>2020-12-21T13:30:34.000Z</updated>
+        <content type="html"><![CDATA[Q: Why Did Aragorn Forget Thranduil’s Name in the “Two Towers” Movie? ANSWER: A fan-made video uploaded to YouTube has been circulating for years, claiming […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Didn’t Sauron Know that Aragorn Existed? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://kraki5525.github.io/feeds/all.xml</id>
+        <link href="https://kraki5525.github.io/feeds/all.xml"/>
+        <updated>2020-12-10T13:30:30.000Z</updated>
+        <content type="html"><![CDATA[Q: Why Didn’t Sauron Know that Aragorn Existed? ANSWER: I received the following question in July 2020: Could Sauron have discovered from Saruman that Isildur’s […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random Questions from a Single Reader (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://kraki5525.github.io/feeds/all.xml</id>
+        <link href="https://kraki5525.github.io/feeds/all.xml"/>
+        <updated>2020-12-07T13:30:30.000Z</updated>
+        <content type="html"><![CDATA[Q: Random Questions from a Single Reader ANSWER: Normally when people submit multiple questions I try to space out the answers for them across multiple […]]]></content>
     </entry>
 </feed>
