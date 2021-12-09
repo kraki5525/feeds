@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2021-12-09T05:38:44.844Z</updated>
+    <updated>2021-12-09T17:48:03.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What Was the Course of Ar-Pharazôn’s Last Campaign Against Sauron?]]></title>
+        <id>https://middle-earth.xenite.org/what-was-the-course-of-ar-pharazons-last-campaign-against-sauron/</id>
+        <link href="https://middle-earth.xenite.org/what-was-the-course-of-ar-pharazons-last-campaign-against-sauron/"/>
+        <updated>2021-12-09T17:48:02.961Z</updated>
+        <content type="html"><![CDATA[Q: What Was the Course of Ar-Pharazôn’s Last Campaign Against Sauron? ANSWER: This question has nothing to do with the Amazon production. A blog reader […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Possible within the Confines of Tolkien’s World?]]></title>
         <id>https://middle-earth.xenite.org/what-is-possible-within-the-confines-of-tolkiens-world/</id>
@@ -81,12 +88,5 @@
         <link href="https://middle-earth.xenite.org/why-did-aragorn-forget-thranduils-name-in-the-two-towers-movie/"/>
         <updated>2021-11-27T17:43:21.075Z</updated>
         <content type="html"><![CDATA[Q: Why Did Aragorn Forget Thranduil’s Name in the “Two Towers” Movie? ANSWER: A fan-made video uploaded to YouTube has been circulating for years, claiming […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Didn’t Sauron Know that Aragorn Existed?]]></title>
-        <id>https://middle-earth.xenite.org/why-didnt-sauron-know-that-aragorn-existed/</id>
-        <link href="https://middle-earth.xenite.org/why-didnt-sauron-know-that-aragorn-existed/"/>
-        <updated>2021-11-27T17:43:21.076Z</updated>
-        <content type="html"><![CDATA[Q: Why Didn’t Sauron Know that Aragorn Existed? ANSWER: I received the following question in July 2020: Could Sauron have discovered from Saruman that Isildur’s […]]]></content>
     </entry>
 </feed>
