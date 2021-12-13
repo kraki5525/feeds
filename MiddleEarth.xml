@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2021-12-13T05:38:27.767Z</updated>
+    <updated>2021-12-13T17:44:49.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Could the Dwarves of Ered Luin Have Reclaimed Belegost?]]></title>
+        <id>https://middle-earth.xenite.org/could-the-dwarves-of-ered-luin-have-reclaimed-belegost/</id>
+        <link href="https://middle-earth.xenite.org/could-the-dwarves-of-ered-luin-have-reclaimed-belegost/"/>
+        <updated>2021-12-13T17:44:48.767Z</updated>
+        <content type="html"><![CDATA[Q: Could the Dwarves of Ered Luin Have Reclaimed Belegost? ANSWER: I received the following question from a blog reader in March 2020. Spending some […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Was the Course of Ar-Pharazôn’s Last Campaign Against Sauron?]]></title>
         <id>https://middle-earth.xenite.org/what-was-the-course-of-ar-pharazons-last-campaign-against-sauron/</id>
@@ -81,12 +88,5 @@
         <link href="https://middle-earth.xenite.org/amazon-releases-1st-official-summary-for-lord-of-the-rings-tv-show/"/>
         <updated>2021-11-27T17:43:21.074Z</updated>
         <content type="html"><![CDATA[Per TheOneRing.Net: Amazon Studios’ forthcoming series brings to screens for the very first time the heroic legends of the fabled Second Age of Middle-earth’s history. […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Did Aragorn Forget Thranduil’s Name in the “Two Towers” Movie?]]></title>
-        <id>https://middle-earth.xenite.org/why-did-aragorn-forget-thranduils-name-in-the-two-towers-movie/</id>
-        <link href="https://middle-earth.xenite.org/why-did-aragorn-forget-thranduils-name-in-the-two-towers-movie/"/>
-        <updated>2021-11-27T17:43:21.075Z</updated>
-        <content type="html"><![CDATA[Q: Why Did Aragorn Forget Thranduil’s Name in the “Two Towers” Movie? ANSWER: A fan-made video uploaded to YouTube has been circulating for years, claiming […]]]></content>
     </entry>
 </feed>
