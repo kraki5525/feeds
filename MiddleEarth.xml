@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2021-12-16T05:38:08.075Z</updated>
+    <updated>2021-12-16T17:45:49.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Did J.R.R. Tolkien Think The Lord of The Rings Was “English”?]]></title>
+        <id>https://middle-earth.xenite.org/did-j-r-r-tolkien-think-the-lord-of-the-rings-was-english/</id>
+        <link href="https://middle-earth.xenite.org/did-j-r-r-tolkien-think-the-lord-of-the-rings-was-english/"/>
+        <updated>2021-12-16T17:45:49.092Z</updated>
+        <content type="html"><![CDATA[Q: Did J.R.R. Tolkien Think The Lord of The Rings was “English”? ANSWER: The Book of Lost Tales was J.R.R. Tolkien’s self-styled “mythology for England”, […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Could the Dwarves of Ered Luin Have Reclaimed Belegost?]]></title>
         <id>https://middle-earth.xenite.org/could-the-dwarves-of-ered-luin-have-reclaimed-belegost/</id>
@@ -81,12 +88,5 @@
         <link href="https://middle-earth.xenite.org/what-does-it-mean-to-cast-up-a-sword/"/>
         <updated>2021-11-27T17:43:21.069Z</updated>
         <content type="html"><![CDATA[Q: What Does It Mean to Cast Up A Sword? ANSWER: Tolkien often used obscure meanings for common, everyday English words. Deciphering what he meant […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Releases 1st Official Summary for Lord of the Rings TV Show]]></title>
-        <id>https://middle-earth.xenite.org/amazon-releases-1st-official-summary-for-lord-of-the-rings-tv-show/</id>
-        <link href="https://middle-earth.xenite.org/amazon-releases-1st-official-summary-for-lord-of-the-rings-tv-show/"/>
-        <updated>2021-11-27T17:43:21.074Z</updated>
-        <content type="html"><![CDATA[Per TheOneRing.Net: Amazon Studios’ forthcoming series brings to screens for the very first time the heroic legends of the fabled Second Age of Middle-earth’s history. […]]]></content>
     </entry>
 </feed>
