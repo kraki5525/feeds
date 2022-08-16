@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-08-16T05:37:10.466Z</updated>
+    <updated>2022-08-16T17:42:56.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>https://en.wikipedia.org/wiki/This_Tender_Land</id>
         <link href="https://en.wikipedia.org/wiki/This_Tender_Land"/>
         <updated>2022-08-16T05:37:05.096Z</updated>
-        <content type="html"><![CDATA[... that <i><b><a href="/wiki/This_Tender_Land" title="This Tender Land">This Tender Land</a></b></i> is a retelling of <i>Huckleberry Finn</i> set in the 1930s and incorporating elements of Homer's <i>Odyssey</i><span style="padding-left:0.15em;">?</span>]]></content>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/This_Tender_Land" title="This Tender Land">This Tender Land</a></b></i> is a retelling of <i>Adventures of Huckleberry Finn</i> set in the 1930s and incorporating elements of Homer's <i>Odyssey</i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Russell Strong]]></title>
