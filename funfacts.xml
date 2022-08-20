@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-08-20T05:39:06.039Z</updated>
+    <updated>2022-08-20T17:39:19.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/wiki/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://en.wikipedia.org/wiki/Seminole_burning</id>
         <link href="https://en.wikipedia.org/wiki/Seminole_burning"/>
         <updated>2022-08-20T05:39:01.735Z</updated>
-        <content type="html"><![CDATA[... that dozens of men were indicted in the <b><a href="/wiki/Seminole_burning" title="Seminole burning">lynching-by-fire deaths</a></b> of two <a href="/wiki/Seminole" title="Seminole">Seminole</a> boys in 1898?]]></content>
+        <content type="html"><![CDATA[... that dozens of men were indicted for the <b><a href="/wiki/Seminole_burning" title="Seminole burning">lynching-by-fire deaths</a></b> of two <a href="/wiki/Seminole" title="Seminole">Seminole</a> boys in 1898?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Richard Peck]]></title>
