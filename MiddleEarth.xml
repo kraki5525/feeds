@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2022-10-17T06:38:54.708Z</updated>
+    <updated>2022-10-17T18:06:45.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Faithful is Amazon’s Rings of Power to J.R.R. Tolkien’s Books?]]></title>
+        <id>https://middle-earth.xenite.org/how-faithful-is-amazons-rings-of-power-to-j-r-r-tolkiens-books/</id>
+        <link href="https://middle-earth.xenite.org/how-faithful-is-amazons-rings-of-power-to-j-r-r-tolkiens-books/"/>
+        <updated>2022-10-17T18:06:45.318Z</updated>
+        <content type="html"><![CDATA[Q: How Faithful is Amazon’s Rings of Power to J.R.R. Tolkien’s Books? ANSWER: Amazon Prime’s show is not very faithful to J.R.R. Tolkien at all. […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Were Tolkien’s Notes Exhaustively Worked Through?]]></title>
         <id>https://middle-earth.xenite.org/were-tolkiens-notes-exhaustively-worked-through/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/was-iluvatars-response-to-ar-pharazons-invasion-of-valinor-too-extreme/"/>
         <updated>2022-07-21T03:02:10.794Z</updated>
         <content type="html"><![CDATA[Q: Was Ilúvatar’s Response to Ar-Pharazôn’s Invasion of Valinor Too Extreme? ANSWER: Well, someone finally put a question to me to explain Tolkien’s ending to […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Did Elwing Give the Ring of Barahir to Elros and Not to Elrond the Older Brother?]]></title>
-        <id>https://middle-earth.xenite.org/why-did-elwing-give-the-ring-of-barahir-to-elros-and-not-to-elrond-the-older-brother/</id>
-        <link href="https://middle-earth.xenite.org/why-did-elwing-give-the-ring-of-barahir-to-elros-and-not-to-elrond-the-older-brother/"/>
-        <updated>2022-07-21T03:02:10.795Z</updated>
-        <content type="html"><![CDATA[Q: Why Did Elwing Give the Ring of Barahir to Elros and Not to Elrond the Older Brother? ANSWER: As unanswerable questions go, this one […]]]></content>
     </entry>
 </feed>
