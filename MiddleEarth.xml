@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2022-10-24T06:43:38.658Z</updated>
+    <updated>2022-10-24T18:01:37.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Could Amazon Have Covered 3,441 Years of Second Age History In 5 Seasons?]]></title>
+        <id>https://middle-earth.xenite.org/could-amazon-have-covered-3441-years-of-second-age-history-in-5-seasons/</id>
+        <link href="https://middle-earth.xenite.org/could-amazon-have-covered-3441-years-of-second-age-history-in-5-seasons/"/>
+        <updated>2022-10-24T18:01:36.903Z</updated>
+        <content type="html"><![CDATA[Q: Could Amazon Have Covered 3,441 Years of Second Age History In 5 Seasons? ANSWER: Yes, Amazon could easily have covered 3,000 years of history […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Faithful is Amazon’s Rings of Power to J.R.R. Tolkien’s Books?]]></title>
         <id>https://middle-earth.xenite.org/how-faithful-is-amazons-rings-of-power-to-j-r-r-tolkiens-books/</id>
@@ -38,7 +45,7 @@
         <id>https://middle-earth.xenite.org/could-gwindor-and-finduilas-fall-in-love-again/</id>
         <link href="https://middle-earth.xenite.org/could-gwindor-and-finduilas-fall-in-love-again/"/>
         <updated>2022-07-21T03:02:10.775Z</updated>
-        <content type="html"><![CDATA[Q: Could Gwindor and Finduilas Fall In Love Again? ANSWER: I’m not sure where I got this question from. It’s been sitting my queue for […]]]></content>
+        <content type="html"><![CDATA[Q: Could Gwindor and Finduilas Fall In Love Again? ANSWER: I’m not sure where I got this question from. It’s been sitting in my queue […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why Did J.R.R. Tolkien Write So Little about the Second Age?]]></title>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/why-did-saruman-use-white-runes-for-his-symbol/"/>
         <updated>2022-07-21T03:02:10.793Z</updated>
         <content type="html"><![CDATA[Q: Why Did Saruman Use White Runes for His Symbol? ANSWER: I received the following question at the end of November 2020. Why did Saruman […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Was Ilúvatar’s Response to Ar-Pharazôn’s Invasion of Valinor Too Extreme?]]></title>
-        <id>https://middle-earth.xenite.org/was-iluvatars-response-to-ar-pharazons-invasion-of-valinor-too-extreme/</id>
-        <link href="https://middle-earth.xenite.org/was-iluvatars-response-to-ar-pharazons-invasion-of-valinor-too-extreme/"/>
-        <updated>2022-07-21T03:02:10.794Z</updated>
-        <content type="html"><![CDATA[Q: Was Ilúvatar’s Response to Ar-Pharazôn’s Invasion of Valinor Too Extreme? ANSWER: Well, someone finally put a question to me to explain Tolkien’s ending to […]]]></content>
     </entry>
 </feed>
