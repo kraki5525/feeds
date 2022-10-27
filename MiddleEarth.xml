@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2022-10-27T05:47:07.897Z</updated>
+    <updated>2022-10-27T17:46:37.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Can The Lord of the Rings Be Set to Thriller?]]></title>
+        <id>https://middle-earth.xenite.org/can-the-lord-of-the-rings-be-set-to-thriller/</id>
+        <link href="https://middle-earth.xenite.org/can-the-lord-of-the-rings-be-set-to-thriller/"/>
+        <updated>2022-10-27T17:46:37.168Z</updated>
+        <content type="html"><![CDATA[Q: Can The Lord of the Rings Be Set to Thriller? ANSWER: Why, yes. Yes, it can. I don’t know who made it but this […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Could Amazon Have Covered 3,441 Years of Second Age History In 5 Seasons?]]></title>
         <id>https://middle-earth.xenite.org/could-amazon-have-covered-3441-years-of-second-age-history-in-5-seasons/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/what-happened-to-the-west-gate-after-eregion-fell-to-sauron/"/>
         <updated>2022-07-21T03:02:10.792Z</updated>
         <content type="html"><![CDATA[Q: What Happened to the West-gate after Eregion Fell to Sauron? ANSWER: The Second Age is on many people’s minds now that we know the […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Did Saruman Use White Runes for His Symbol?]]></title>
-        <id>https://middle-earth.xenite.org/why-did-saruman-use-white-runes-for-his-symbol/</id>
-        <link href="https://middle-earth.xenite.org/why-did-saruman-use-white-runes-for-his-symbol/"/>
-        <updated>2022-07-21T03:02:10.793Z</updated>
-        <content type="html"><![CDATA[Q: Why Did Saruman Use White Runes for His Symbol? ANSWER: I received the following question at the end of November 2020. Why did Saruman […]]]></content>
     </entry>
 </feed>
