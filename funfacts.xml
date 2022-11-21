@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2022-11-21T05:38:18.680Z</updated>
+    <updated>2022-11-21T17:40:24.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Brogan_Rafferty</id>
         <link href="https://en.wikipedia.org/wiki/Brogan_Rafferty"/>
         <updated>2022-11-21T05:38:13.979Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Brogan_Rafferty" title="Brogan Rafferty">Brogan Rafferty</a></b> <i>(pictured)</i> was told he would never play professional hockey due to his <a href="/wiki/Amblyopia" title="Amblyopia">amblyopia</a> and <a href="/wiki/Scoliosis" title="Scoliosis">scoliosis</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Brogan_Rafferty" title="Brogan Rafferty">Brogan Rafferty</a></b> <i>(pictured)</i> was told he would never play professional ice hockey due to his <a href="/wiki/Amblyopia" title="Amblyopia">amblyopia</a> and <a href="/wiki/Scoliosis" title="Scoliosis">scoliosis</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[hundreds of German and Austrian communists]]></title>
