@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2023-07-27T05:35:27.761Z</updated>
+    <updated>2023-07-27T17:35:51.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Short Questions and Answers Volume 9]]></title>
+        <id>https://middle-earth.xenite.org/short-questions-and-answers-volume-9/</id>
+        <link href="https://middle-earth.xenite.org/short-questions-and-answers-volume-9/"/>
+        <updated>2023-07-27T17:35:50.787Z</updated>
+        <content type="html"><![CDATA[Short Questions and Answers, Volume 9 While I lay recuperating from my heart surgery last year, people kindly left many questions for the blog. I […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Well Populated Was Pre-Plague Eriador?]]></title>
         <id>https://middle-earth.xenite.org/how-well-populated-was-pre-plague-eriador/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/were-there-glass-window-panes-in-middle-earth/"/>
         <updated>2023-07-27T05:35:27.063Z</updated>
         <content type="html"><![CDATA[Q: Were There Glass Window Panes in Middle-earth? ANSWER: A long time ago, in a place far, far away, someone once asked me if there […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Yavanna Create Hobbits Like Aulë Created Dwarves?]]></title>
-        <id>https://middle-earth.xenite.org/did-yavanna-create-hobbits-like-aule-created-dwarves/</id>
-        <link href="https://middle-earth.xenite.org/did-yavanna-create-hobbits-like-aule-created-dwarves/"/>
-        <updated>2023-07-27T05:35:27.066Z</updated>
-        <content type="html"><![CDATA[Q: Did Yavanna Create Hobbits Like Aulë Created Dwarves? ANSWER: In August 2021 a reader asked me: There’s a theory that’s popular in the fandom […]]]></content>
     </entry>
 </feed>
