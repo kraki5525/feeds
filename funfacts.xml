@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.wikipedia.org/wiki/Main_Page</id>
     <title>Wikipedia — did you know?</title>
-    <updated>2023-08-10T05:35:45.690Z</updated>
+    <updated>2023-08-10T17:36:06.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://en.wikipedia.org/wiki/Thomas_Carlyle</id>
         <link href="https://en.wikipedia.org/wiki/Thomas_Carlyle"/>
         <updated>2023-08-10T05:35:41.084Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Thomas_Carlyle" title="Thomas Carlyle">Thomas Carlyle</a></b> <i>(pictured)</i> was the first writer to use the expression "<a href="/wiki/Meaning_of_life" title="Meaning of life">meaning of life</a>"?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Thomas_Carlyle" title="Thomas Carlyle">Thomas Carlyle</a></b> <i>(pictured)</i> was the first writer to use the expression "<a href="/wiki/Meaning_of_life" title="Meaning of life">meaning of life</a>" in English?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[T Express]]></title>
