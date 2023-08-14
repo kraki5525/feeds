@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2023-08-14T05:35:56.054Z</updated>
+    <updated>2023-08-14T17:36:06.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[When Did Hobbits become Divided into Fallohides, Stoors, and Harfoots?]]></title>
+        <id>https://middle-earth.xenite.org/when-did-hobbits-become-divided-into-fallohides-stoors-and-harfoots/</id>
+        <link href="https://middle-earth.xenite.org/when-did-hobbits-become-divided-into-fallohides-stoors-and-harfoots/"/>
+        <updated>2023-08-14T17:36:05.668Z</updated>
+        <content type="html"><![CDATA[Q: When Did Hobbits become Divided into Fallohides, Stoors, and Harfoots? ANSWER: This is an amalgam of questions I’ve been receiving going back to at […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Was Galadriel A Warrior?]]></title>
         <id>https://middle-earth.xenite.org/was-galadriel-a-warrior/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/is-amazons-lord-of-the-rings-based-on-the-silmarillion/"/>
         <updated>2023-08-13T17:35:34.438Z</updated>
         <content type="html"><![CDATA[Q: Is Amazon’s Lord of the Rings Based on The Silmarillion? ANSWER: Although some parts of the first season mention events described in The Silmarillion, […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could Gwindor and Finduilas Fall In Love Again?]]></title>
-        <id>https://middle-earth.xenite.org/could-gwindor-and-finduilas-fall-in-love-again/</id>
-        <link href="https://middle-earth.xenite.org/could-gwindor-and-finduilas-fall-in-love-again/"/>
-        <updated>2023-08-13T17:35:34.439Z</updated>
-        <content type="html"><![CDATA[Q: Could Gwindor and Finduilas Fall In Love Again? ANSWER: I’m not sure where I got this question from. It’s been sitting in my queue […]]]></content>
     </entry>
 </feed>
