@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2023-09-11T05:35:41.084Z</updated>
+    <updated>2023-09-11T17:35:39.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Were the Men of Lake-town Related to the Gondorians?]]></title>
+        <id>https://middle-earth.xenite.org/were-the-men-of-lake-town-related-to-the-gondorians/</id>
+        <link href="https://middle-earth.xenite.org/were-the-men-of-lake-town-related-to-the-gondorians/"/>
+        <updated>2023-09-11T17:35:38.544Z</updated>
+        <content type="html"><![CDATA[Q: Were the Men of Lake-town Related to the Gondorians? ANSWER: The Men of Lake-town were closely related to the Men of Dale and the […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Couldn’t Anduril Have Hurt Gandalf As Narsil Had Harmed Sauron?]]></title>
         <id>https://middle-earth.xenite.org/why-couldnt-anduril-have-hurt-gandalf-as-narsil-had-harmed-sauron/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/how-many-edain-entered-beleriand/"/>
         <updated>2023-09-11T05:35:40.360Z</updated>
         <content type="html"><![CDATA[Q: How Many Edain Entered Beleriand? ANSWER: I received this question in the Fall of 2022. I don’t believe I responded even by email (which […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did J.R.R. Tolkien Write about Any Happy Marriages?]]></title>
-        <id>https://middle-earth.xenite.org/did-j-r-r-tolkien-write-about-any-happy-marriages/</id>
-        <link href="https://middle-earth.xenite.org/did-j-r-r-tolkien-write-about-any-happy-marriages/"/>
-        <updated>2023-09-11T05:35:40.361Z</updated>
-        <content type="html"><![CDATA[Q: Did J.R.R. Tolkien Write about Any Happy Marriages? ANSWER: A reader asked this question a couple of years ago. It seems like all of […]]]></content>
     </entry>
 </feed>
