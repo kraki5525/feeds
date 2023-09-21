@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-21T05:35:37.378Z</updated>
+    <updated>2023-09-21T17:35:49.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Christian "Chrigel" Maurer (Wikipedia — did you know?)]]></title>
@@ -51,7 +51,7 @@
         <id>https://en.wikipedia.org/wiki/Wade_Meckler</id>
         <link href="https://en.wikipedia.org/wiki/Wade_Meckler"/>
         <updated>2023-09-21T05:35:32.192Z</updated>
-        <content type="html"><![CDATA[... that Major League Baseball player <b><a href="/wiki/Wade_Meckler" title="Wade Meckler">Wade Meckler</a></b> was 4 feet 10 inches (1.47 metres) tall, and weighed 75 pounds (34 kilograms), as a high-school freshman?]]></content>
+        <content type="html"><![CDATA[... that Major League Baseball player <b><a href="/wiki/Wade_Meckler" title="Wade Meckler">Wade Meckler</a></b> was 4 feet 10 inches (1.47 metres) tall and weighed 75 pounds (34 kilograms) when he was a high-school freshman?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jergins Trust Building (Wikipedia — did you know?)]]></title>
@@ -59,6 +59,13 @@
         <link href="https://en.wikipedia.org/wiki/Jergins_Trust_Building"/>
         <updated>2023-09-21T05:35:32.193Z</updated>
         <content type="html"><![CDATA[... <i><a href="/wiki/Did_You_Know_That_There%27s_a_Tunnel_Under_Ocean_Blvd_(song)" title="Did You Know That There's a Tunnel Under Ocean Blvd (song)">That There's a Tunnel Under Ocean Blvd</a></i> that once led to the <b><a href="/wiki/Jergins_Trust_Building" title="Jergins Trust Building">Jergins Trust Building</a></b> in <a href="/wiki/Long_Beach,_California" title="Long Beach, California">Long Beach, California</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Any Orcs and Trolls Fight against Sauron in the War of the last Alliance? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/did-any-orcs-and-trolls-fight-against-sauron-in-the-war-of-the-last-alliance/</id>
+        <link href="https://middle-earth.xenite.org/did-any-orcs-and-trolls-fight-against-sauron-in-the-war-of-the-last-alliance/"/>
+        <updated>2023-09-21T17:35:49.078Z</updated>
+        <content type="html"><![CDATA[Q: Did Any Orcs and Trolls Fight against Sauron in the War of the last Alliance? ANSWER: I have rephrased a question I received in […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[What Was the Significance of Height in Tolkien’s Stories? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -164,12 +171,5 @@
         <link href="https://middle-earth.xenite.org/were-the-rohirrim-the-southernmost-group-of-northmen/"/>
         <updated>2023-09-20T17:35:50.474Z</updated>
         <content type="html"><![CDATA[Q: Were the Rohirrim the Southernmost Group of Northmen? ANSWER: I received this question in December of 2020. I apologize for waiting so long to […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Short Questions and Answers Volume 9 (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/short-questions-and-answers-volume-9/</id>
-        <link href="https://middle-earth.xenite.org/short-questions-and-answers-volume-9/"/>
-        <updated>2023-09-20T17:35:50.475Z</updated>
-        <content type="html"><![CDATA[Short Questions and Answers, Volume 9 While I lay recuperating from my heart surgery last year, people kindly left many questions for the blog. I […]]]></content>
     </entry>
 </feed>
