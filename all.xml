@@ -2,174 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-15T17:35:29.204Z</updated>
+    <updated>2023-10-16T05:36:02.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Lycorma meliae (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Lycorma_meliae</id>
-        <link href="https://en.wikipedia.org/wiki/Lycorma_meliae"/>
-        <updated>2023-10-15T05:36:33.767Z</updated>
-        <content type="html"><![CDATA[... that the wings of <i><b><a href="/wiki/Lycorma_meliae" title="Lycorma meliae">Lycorma meliae</a></b></i> <i>(example pictured)</i> undergo multiple color changes throughout their lives?]]></content>
+        <title type="html"><![CDATA[Diplobune (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Diplobune</id>
+        <link href="https://en.wikipedia.org/wiki/Diplobune"/>
+        <updated>2023-10-16T05:35:57.630Z</updated>
+        <content type="html"><![CDATA[... that the three-toed species of <i><b><a href="/wiki/Diplobune" title="Diplobune">Diplobune</a></b></i> <i>(fossils pictured)</i> were mammals of the order of "<a href="/wiki/Artiodactyl" title="Artiodactyl">even-toed ungulates</a>"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeLancey W. Gill (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/DeLancey_W._Gill</id>
-        <link href="https://en.wikipedia.org/wiki/DeLancey_W._Gill"/>
-        <updated>2023-10-15T05:36:33.767Z</updated>
-        <content type="html"><![CDATA[... that despite having no professional training or experience, <b><a href="/wiki/DeLancey_W._Gill" title="DeLancey W. Gill">DeLancey W. Gill</a></b> was appointed to take thousands of photographs for the Smithsonian Institution?]]></content>
+        <title type="html"><![CDATA[John F. Quirk (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/John_F._Quirk</id>
+        <link href="https://en.wikipedia.org/wiki/John_F._Quirk"/>
+        <updated>2023-10-16T05:35:57.631Z</updated>
+        <content type="html"><![CDATA[... that as president of <a href="/wiki/Loyola_University_Maryland" title="Loyola University Maryland">Loyola College in Maryland</a>, <b><a href="/wiki/John_F._Quirk" title="John F. Quirk">John F. Quirk</a></b> became close friends with <a href="/wiki/James_Gibbons" title="James Gibbons">the cardinal</a> who ordained him a <a href="/wiki/Priesthood_in_the_Catholic_Church" title="Priesthood in the Catholic Church">priest</a> ten years earlier?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UCLA Bruins won the NCAA Division I basketball championship (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/1975_NCAA_Division_I_basketball_championship_game</id>
-        <link href="https://en.wikipedia.org/wiki/1975_NCAA_Division_I_basketball_championship_game"/>
-        <updated>2023-10-15T05:36:33.770Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/John_Wooden" title="John Wooden">John Wooden</a>'s <b><a href="/wiki/1975_NCAA_Division_I_basketball_championship_game" title="1975 NCAA Division I basketball championship game">UCLA Bruins won the NCAA Division&nbsp;I basketball championship</a></b> in his last game as head coach?]]></content>
+        <title type="html"><![CDATA[elected team president (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/List_of_Green_Bay_Packers_presidents</id>
+        <link href="https://en.wikipedia.org/wiki/List_of_Green_Bay_Packers_presidents"/>
+        <updated>2023-10-16T05:35:57.632Z</updated>
+        <content type="html"><![CDATA[... that contrary to <a href="/wiki/National_Football_League" title="National Football League">NFL</a> rules, the <a href="/wiki/Green_Bay_Packers" title="Green Bay Packers">Green Bay Packers</a> do not have a <a href="/wiki/List_of_NFL_franchise_owners" title="List of NFL franchise owners">franchise owner</a> and are instead led by an <b><a href="/wiki/List_of_Green_Bay_Packers_presidents" title="List of Green Bay Packers presidents">elected team president</a></b>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sarah Cox (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Sarah_Wentworth</id>
-        <link href="https://en.wikipedia.org/wiki/Sarah_Wentworth"/>
-        <updated>2023-10-15T05:36:33.775Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Sarah_Wentworth" title="Sarah Wentworth">Sarah Cox</a></b> brought the first <a href="/wiki/Breach_of_promise" title="Breach of promise">breach of promise</a> suit in Australia, during which she was represented by her future husband <a href="/wiki/William_Wentworth" title="William Wentworth">William Wentworth</a>?]]></content>
+        <title type="html"><![CDATA[Czesław Lewicki (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Czes%C5%82aw_Lewicki</id>
+        <link href="https://en.wikipedia.org/wiki/Czes%C5%82aw_Lewicki"/>
+        <updated>2023-10-16T05:35:57.634Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Czes%C5%82aw_Lewicki" title="Czesław Lewicki">Czesław Lewicki</a></b>, Polish composer and conductor, was recognized as <a href="/wiki/Righteous_Among_the_Nations" title="Righteous Among the Nations">Righteous Among the Nations</a> for aiding the Polish-Jewish composer <a href="/wiki/W%C5%82adys%C5%82aw_Szpilman" title="Władysław Szpilman">Władysław Szpilman</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monster Hunter Now (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Monster_Hunter_Now</id>
-        <link href="https://en.wikipedia.org/wiki/Monster_Hunter_Now"/>
-        <updated>2023-10-15T05:36:33.776Z</updated>
-        <content type="html"><![CDATA[... that players of <i><b><a href="/wiki/Monster_Hunter_Now" title="Monster Hunter Now">Monster Hunter Now</a></b></i> have just 75 seconds to defeat large monsters?]]></content>
+        <title type="html"><![CDATA[The Sims 2: Seasons (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Sims_2:_Seasons</id>
+        <link href="https://en.wikipedia.org/wiki/The_Sims_2:_Seasons"/>
+        <updated>2023-10-16T05:35:57.637Z</updated>
+        <content type="html"><![CDATA[... that PlantSims, human–plant hybrids in <i><b><a href="/wiki/The_Sims_2:_Seasons" title="The Sims 2: Seasons">The Sims 2: Seasons</a></b></i>, have been studied as examples of <a href="/wiki/Ecofeminism" title="Ecofeminism">ecofeminism</a> and <a href="/wiki/Deep_ecology" title="Deep ecology">deep ecology</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a sinkhole opened up in Massachusetts in September 2023 (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/September_2023_northeastern_U.S._floods</id>
-        <link href="https://en.wikipedia.org/wiki/September_2023_northeastern_U.S._floods"/>
-        <updated>2023-10-15T05:36:34.094Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/September_2023_northeastern_U.S._floods" title="September 2023 northeastern U.S. floods">a sinkhole opened up in Massachusetts in September 2023</a></b>, damaging cars?]]></content>
+        <title type="html"><![CDATA[Richard Worley (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Richard_Worley_(police_officer)</id>
+        <link href="https://en.wikipedia.org/wiki/Richard_Worley_(police_officer)"/>
+        <updated>2023-10-16T05:35:57.639Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Richard_Worley_(police_officer)" title="Richard Worley (police officer)">Richard Worley</a></b> played in minor baseball leagues and is now the <a href="/wiki/List_of_commissioners_of_the_Baltimore_Police_Department" title="List of commissioners of the Baltimore Police Department">commissioner of the Baltimore Police Department</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Potato King of Colorado (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Rufus_Clark</id>
-        <link href="https://en.wikipedia.org/wiki/Rufus_Clark"/>
-        <updated>2023-10-15T05:36:34.094Z</updated>
-        <content type="html"><![CDATA[... that "<b><a href="/wiki/Rufus_Clark" title="Rufus Clark">The Potato King of Colorado</a></b>" survived a shipwreck, mined for gold in Australia, and helped establish <b><a href="/wiki/South_Denver,_Colorado" title="South Denver, Colorado">an alcohol-free Methodist colony</a></b>?]]></content>
+        <title type="html"><![CDATA[temporary public holiday (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Queen_Elizabeth_II_Memorial_Day</id>
+        <link href="https://en.wikipedia.org/wiki/Queen_Elizabeth_II_Memorial_Day"/>
+        <updated>2023-10-16T05:35:57.642Z</updated>
+        <content type="html"><![CDATA[... that during a <b><a href="/wiki/Queen_Elizabeth_II_Memorial_Day" title="Queen Elizabeth II Memorial Day">temporary public holiday</a></b> to mourn the death of <a href="/wiki/Elizabeth_II" title="Elizabeth II">Elizabeth&nbsp;II</a>, New Zealand had another public holiday on the same day?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brontosaurus (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Brontosaurus</id>
-        <link href="https://en.wikipedia.org/wiki/Brontosaurus"/>
-        <updated>2023-10-15T05:36:34.094Z</updated>
-        <content type="html"><![CDATA[... that a <i><b><a href="/wiki/Brontosaurus" title="Brontosaurus">Brontosaurus</a></b></i> stamp led to the <a href="/wiki/United_States_Postal_Service" title="United States Postal Service">United States Postal Service</a> being accused of "fostering scientific illiteracy"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Would Shire Coins Look Like? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/what-would-shire-coins-look-like/</id>
-        <link href="https://middle-earth.xenite.org/what-would-shire-coins-look-like/"/>
-        <updated>2023-10-15T17:35:28.432Z</updated>
-        <content type="html"><![CDATA[#middleearth #tolkien Q: What Would Shire Coins Look Like? ANSWER: I received the following questions in September 2022: Have you ever thought about whose likeness […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Can Be Inferred from Bladorthin’s Spears? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/what-can-be-inferred-from-bladorthins-spears/</id>
-        <link href="https://middle-earth.xenite.org/what-can-be-inferred-from-bladorthins-spears/"/>
-        <updated>2023-10-15T17:35:28.434Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth Q: What Can Be Inferred from Bladorthin’s Spears? ANSWER: I’ve only ever been asked a few questions about King Bladorthin, and I’ve answered […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Did Eriador Become Deserted? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/when-did-eriador-become-deserted/</id>
-        <link href="https://middle-earth.xenite.org/when-did-eriador-become-deserted/"/>
-        <updated>2023-10-15T17:35:28.440Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth Q: When Did Eriador Become Deserted? ANSWER: The question inspiring this article wasn’t so much about when Eriador became deserted as how deserted […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Turin Fight in the War of Wrath and Dagor Dagorath? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/does-turin-fight-war-of-wrath-and-dagor-dagorath/</id>
-        <link href="https://middle-earth.xenite.org/does-turin-fight-war-of-wrath-and-dagor-dagorath/"/>
-        <updated>2023-10-15T17:35:28.442Z</updated>
-        <content type="html"><![CDATA[Q: Will Túrin Fight in Dagor Dagorath? #tolkien #middleearth ANSWER: This question was submitted by a reader in September 2021: Can we assume that Túrin […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could Smaug or the Balrog of Moria Have Mastered the One Ring? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/could-smaug-or-the-balrog-of-moria-have-mastered-the-one-ring/</id>
-        <link href="https://middle-earth.xenite.org/could-smaug-or-the-balrog-of-moria-have-mastered-the-one-ring/"/>
-        <updated>2023-10-15T17:35:28.444Z</updated>
-        <content type="html"><![CDATA[Q: Could Smaug or the Balrog of Moria Have Mastered the One Ring? #tolkien #middleearth ANSWER: I received the following request in February 2022: I’m […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Studied Enemy Arts and ‘Fell’? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/who-studied-enemy-arts-and-fell/</id>
-        <link href="https://middle-earth.xenite.org/who-studied-enemy-arts-and-fell/"/>
-        <updated>2023-10-15T17:35:28.446Z</updated>
-        <content type="html"><![CDATA[Q: Who Studied Enemy Arts and ‘Fell’? ANSWER: A reader submitted this question in March 2021: In FOTR, after Gandalf relates his capture and escape […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Any Orcs and Trolls Fight against Sauron in the War of the last Alliance? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/did-any-orcs-and-trolls-fight-against-sauron-in-the-war-of-the-last-alliance/</id>
-        <link href="https://middle-earth.xenite.org/did-any-orcs-and-trolls-fight-against-sauron-in-the-war-of-the-last-alliance/"/>
-        <updated>2023-10-15T17:35:28.450Z</updated>
-        <content type="html"><![CDATA[Q: Did Any Orcs and Trolls Fight against Sauron in the War of the last Alliance? ANSWER: I have rephrased a question I received in […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Was the Significance of Height in Tolkien’s Stories? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/what-was-the-significance-of-height-in-tolkiens-stories/</id>
-        <link href="https://middle-earth.xenite.org/what-was-the-significance-of-height-in-tolkiens-stories/"/>
-        <updated>2023-10-15T17:35:28.452Z</updated>
-        <content type="html"><![CDATA[Q: What Was the Significance of Height in Tolkien’s Stories? ANSWER: A long-time blog reader submitted the following question in December 2020: In Tolkiens writings […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Faded Elvish Spirits Make Their Ways to Valinor? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/did-faded-elvish-spirits-make-their-ways-to-valinor/</id>
-        <link href="https://middle-earth.xenite.org/did-faded-elvish-spirits-make-their-ways-to-valinor/"/>
-        <updated>2023-10-15T17:35:28.454Z</updated>
-        <content type="html"><![CDATA[Q: Did Faded Elvish Spirits Make Their Ways to Valinor? ANSWER: In December 2020 a reader submitted the following question about faded Elvish spirits: I […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Were the Men of Lake-town Related to the Gondorians? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/were-the-men-of-lake-town-related-to-the-gondorians/</id>
-        <link href="https://middle-earth.xenite.org/were-the-men-of-lake-town-related-to-the-gondorians/"/>
-        <updated>2023-10-15T17:35:28.458Z</updated>
-        <content type="html"><![CDATA[Q: Were the Men of Lake-town Related to the Gondorians? ANSWER: The Men of Lake-town were closely related to the Men of Dale and the […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Couldn’t Anduril Have Hurt Gandalf As Narsil Had Harmed Sauron? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/why-couldnt-anduril-have-hurt-gandalf-as-narsil-had-harmed-sauron/</id>
-        <link href="https://middle-earth.xenite.org/why-couldnt-anduril-have-hurt-gandalf-as-narsil-had-harmed-sauron/"/>
-        <updated>2023-10-15T17:35:28.460Z</updated>
-        <content type="html"><![CDATA[Q: Why Couldn’t Anduril Have Hurt Gandalf As Narsil Had Harmed Sauron? ANSWER: I received the following question in January 2023: When Gandalf meets Aragorn, […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Dorwinion A Part of Rhûn? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/is-dorwinion-a-part-of-rhun/</id>
-        <link href="https://middle-earth.xenite.org/is-dorwinion-a-part-of-rhun/"/>
-        <updated>2023-10-15T17:35:28.462Z</updated>
-        <content type="html"><![CDATA[Q: Is Dorwinion A Part of Rhûn? ANSWER: Short answer: no, Dorwinion is not “a part of Rhûn”. I received the following question in March […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Well Did Tolkien Imagine Longevity? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/how-well-did-tolkien-imagine-longevity/</id>
-        <link href="https://middle-earth.xenite.org/how-well-did-tolkien-imagine-longevity/"/>
-        <updated>2023-10-15T17:35:28.464Z</updated>
-        <content type="html"><![CDATA[Q: How Well Did Tolkien Imagine Longevity? ANSWER: I received this stream of questions from a reader in June 2021: I would really love to […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Allegations Did Michael Martinez Make Against Tolkien In His Biography? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/what-allegations-did-michael-martinez-make-against-tolkien-in-his-biography/</id>
-        <link href="https://middle-earth.xenite.org/what-allegations-did-michael-martinez-make-against-tolkien-in-his-biography/"/>
-        <updated>2023-10-15T17:35:28.466Z</updated>
-        <content type="html"><![CDATA[Q: What Allegations Did Michael Martinez Make Against Tolkien In His Biography? ANSWER: This is a real question, though not submitted directly to me. Apparently […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Tolkien Ever Use the Phrase ‘Mythology for England’? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/did-tolkien-ever-use-the-phrase-mythology-for-england/</id>
-        <link href="https://middle-earth.xenite.org/did-tolkien-ever-use-the-phrase-mythology-for-england/"/>
-        <updated>2023-10-15T17:35:28.473Z</updated>
-        <content type="html"><![CDATA[Q: Did Tolkien Ever Use the Phrase ‘Mythology for England’? ANSWER: This question is an amalgam of questions people ask almost continually. The issue of […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could The One Ring Have Influenced Bill Ferny in Bree? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/could-the-one-ring-have-influenced-bill-ferny-in-bree/</id>
-        <link href="https://middle-earth.xenite.org/could-the-one-ring-have-influenced-bill-ferny-in-bree/"/>
-        <updated>2023-10-15T17:35:28.474Z</updated>
-        <content type="html"><![CDATA[Q: Could The One Ring Have Influenced Bill Ferny in Bree? ANSWER: A reader submitted this question in April 2021: Could the One Ring have […]]]></content>
+        <title type="html"><![CDATA[Michael Vinson (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Michael_Vinson</id>
+        <link href="https://en.wikipedia.org/wiki/Michael_Vinson"/>
+        <updated>2023-10-16T05:35:57.645Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Michael_Vinson" title="Michael Vinson">Michael Vinson</a></b> wasn't yet cheese, so he became milk instead?]]></content>
     </entry>
 </feed>
