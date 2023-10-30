@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2023-10-30T05:35:35.647Z</updated>
+    <updated>2023-10-30T17:36:04.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Is Middle-earth a Country or A World?]]></title>
+        <id>https://middle-earth.xenite.org/is-middle-earth-a-country-or-a-world/</id>
+        <link href="https://middle-earth.xenite.org/is-middle-earth-a-country-or-a-world/"/>
+        <updated>2023-10-30T17:36:03.903Z</updated>
+        <content type="html"><![CDATA[Q: Is Middle-earth a Country or A World? ANSWER: This is a variation on a question I’ve received and answered many times. Google recently suggested […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Questions about the Valar]]></title>
         <id>https://middle-earth.xenite.org/questions-about-the-valar/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/how-well-did-tolkien-imagine-longevity/"/>
         <updated>2023-10-30T05:35:34.806Z</updated>
         <content type="html"><![CDATA[Q: How Well Did Tolkien Imagine Longevity? ANSWER: I received this stream of questions from a reader in June 2021: I would really love to […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Allegations Did Michael Martinez Make Against Tolkien In His Biography?]]></title>
-        <id>https://middle-earth.xenite.org/what-allegations-did-michael-martinez-make-against-tolkien-in-his-biography/</id>
-        <link href="https://middle-earth.xenite.org/what-allegations-did-michael-martinez-make-against-tolkien-in-his-biography/"/>
-        <updated>2023-10-30T05:35:34.811Z</updated>
-        <content type="html"><![CDATA[Q: What Allegations Did Michael Martinez Make Against Tolkien In His Biography? ANSWER: This is a real question, though not submitted directly to me. Apparently […]]]></content>
     </entry>
 </feed>
