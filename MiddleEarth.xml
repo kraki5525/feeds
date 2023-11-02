@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2023-11-02T05:36:09.721Z</updated>
+    <updated>2023-11-02T17:35:15.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Did Frodo’s Blood Innocence Help Him Fight the One Ring?]]></title>
+        <id>https://middle-earth.xenite.org/did-frodos-blood-innocence-help-him-fight-the-one-ring/</id>
+        <link href="https://middle-earth.xenite.org/did-frodos-blood-innocence-help-him-fight-the-one-ring/"/>
+        <updated>2023-11-02T17:35:15.120Z</updated>
+        <content type="html"><![CDATA[Q: Did Frodo’s Blood Innocence Help Him Fight the One Ring? ANSWER: I received the following question from a reader in October 2021: Could Frodo’s […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Middle-earth A Country or A World?]]></title>
         <id>https://middle-earth.xenite.org/is-middle-earth-a-country-or-a-world/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/is-dorwinion-a-part-of-rhun/"/>
         <updated>2023-11-01T05:35:58.545Z</updated>
         <content type="html"><![CDATA[Q: Is Dorwinion A Part of Rhûn? ANSWER: Short answer: no, Dorwinion is not “a part of Rhûn”. I received the following question in March […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Well Did Tolkien Imagine Longevity?]]></title>
-        <id>https://middle-earth.xenite.org/how-well-did-tolkien-imagine-longevity/</id>
-        <link href="https://middle-earth.xenite.org/how-well-did-tolkien-imagine-longevity/"/>
-        <updated>2023-11-01T05:35:58.546Z</updated>
-        <content type="html"><![CDATA[Q: How Well Did Tolkien Imagine Longevity? ANSWER: I received this stream of questions from a reader in June 2021: I would really love to […]]]></content>
     </entry>
 </feed>
