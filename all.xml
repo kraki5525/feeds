@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-06T05:35:38.799Z</updated>
+    <updated>2023-11-06T17:35:31.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Jimmie Rodgers (Wikipedia — did you know?)]]></title>
@@ -61,25 +61,32 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/Decarbonization_of_shipping" title="Decarbonization of shipping">maritime shipping is making the ocean more acidic</a></b>?]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How Many Númenórean Colonies Were There in Middle-earth? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/how-many-numenorean-colonies-were-there-in-middle-earth/</id>
+        <link href="https://middle-earth.xenite.org/how-many-numenorean-colonies-were-there-in-middle-earth/"/>
+        <updated>2023-11-06T17:35:31.144Z</updated>
+        <content type="html"><![CDATA[#tolkien #fantasy #middleearth Q: How Many Númenórean Colonies Were There in Middle-earth? ANSWER: To the best of my knowledge, J.R.R. Tolkien never attempted to provide […]]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Did Frodo’s Blood Innocence Help Him Fight the One Ring? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
         <id>https://middle-earth.xenite.org/did-frodos-blood-innocence-help-him-fight-the-one-ring/</id>
         <link href="https://middle-earth.xenite.org/did-frodos-blood-innocence-help-him-fight-the-one-ring/"/>
         <updated>2023-11-02T17:35:15.120Z</updated>
-        <content type="html"><![CDATA[Q: Did Frodo’s Blood Innocence Help Him Fight the One Ring? ANSWER: I received the following question from a reader in October 2021: Could Frodo’s […]]]></content>
+        <content type="html"><![CDATA[#tolkien #fantasy #middleearth Q: Did Frodo’s Blood Innocence Help Him Fight the One Ring? ANSWER: I received the following question from a reader in October […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Is Middle-earth A Country or A World? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
         <id>https://middle-earth.xenite.org/is-middle-earth-a-country-or-a-world/</id>
         <link href="https://middle-earth.xenite.org/is-middle-earth-a-country-or-a-world/"/>
         <updated>2023-11-01T05:35:58.504Z</updated>
-        <content type="html"><![CDATA[Q: Is Middle-earth a Country or A World? ANSWER: This is a variation on a question I’ve received and answered many times. Google recently suggested […]]]></content>
+        <content type="html"><![CDATA[#tolkien #fantasy #middleearth Q: Is Middle-earth a Country or A World? ANSWER: This is a variation on a question I’ve received and answered many times. […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Questions about the Valar (Middle-earth & J.R.R. Tolkien Blog)]]></title>
         <id>https://middle-earth.xenite.org/questions-about-the-valar/</id>
         <link href="https://middle-earth.xenite.org/questions-about-the-valar/"/>
         <updated>2023-11-01T05:35:58.519Z</updated>
-        <content type="html"><![CDATA[#middleearth #tolkien Q: Questions about the Valar ANSWER: A reader submitted the following list of questions about the Valar in August 2021: Why did the […]]]></content>
+        <content type="html"><![CDATA[#tolkien #fantasy #middleearth Q: Questions about the Valar ANSWER: A reader submitted the following list of questions about the Valar in August 2021: Why did […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Questions about the Maiar (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -164,12 +171,5 @@
         <link href="https://middle-earth.xenite.org/why-couldnt-anduril-have-hurt-gandalf-as-narsil-had-harmed-sauron/"/>
         <updated>2023-11-01T05:35:58.541Z</updated>
         <content type="html"><![CDATA[Q: Why Couldn’t Anduril Have Hurt Gandalf As Narsil Had Harmed Sauron? ANSWER: I received the following question in January 2023: When Gandalf meets Aragorn, […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Dorwinion A Part of Rhûn? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/is-dorwinion-a-part-of-rhun/</id>
-        <link href="https://middle-earth.xenite.org/is-dorwinion-a-part-of-rhun/"/>
-        <updated>2023-11-01T05:35:58.545Z</updated>
-        <content type="html"><![CDATA[Q: Is Dorwinion A Part of Rhûn? ANSWER: Short answer: no, Dorwinion is not “a part of Rhûn”. I received the following question in March […]]]></content>
     </entry>
 </feed>
