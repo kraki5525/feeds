@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2023-11-16T05:35:17.118Z</updated>
+    <updated>2023-11-16T17:35:16.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Was Helm Hammerhand’s Daughter Named Hera?]]></title>
+        <id>https://middle-earth.xenite.org/was-helm-hammerhands-daughter-named-hera/</id>
+        <link href="https://middle-earth.xenite.org/was-helm-hammerhands-daughter-named-hera/"/>
+        <updated>2023-11-16T17:35:15.580Z</updated>
+        <content type="html"><![CDATA[Q: Was Helm Hammerhand’s Daughter Named Hera? ANSWER: She was not named by J.R.R. Tolkien or Christopher Tolkien. Helm Hammerhand had 3 children, according to […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can Elves and Humans Meet again Beyond Eä?]]></title>
         <id>https://middle-earth.xenite.org/can-elves-and-humans-meet-again-beyond-ea/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/did-faded-elvish-spirits-make-their-ways-to-valinor/"/>
         <updated>2023-11-15T05:35:23.605Z</updated>
         <content type="html"><![CDATA[Q: Did Faded Elvish Spirits Make Their Ways to Valinor? ANSWER: In December 2020 a reader submitted the following question about faded Elvish spirits: I […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Were the Men of Lake-town Related to the Gondorians?]]></title>
-        <id>https://middle-earth.xenite.org/were-the-men-of-lake-town-related-to-the-gondorians/</id>
-        <link href="https://middle-earth.xenite.org/were-the-men-of-lake-town-related-to-the-gondorians/"/>
-        <updated>2023-11-15T05:35:23.606Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth Q: Were the Men of Lake-town Related to the Gondorians? ANSWER: The Men of Lake-town were closely related to the Men of Dale […]]]></content>
     </entry>
 </feed>
