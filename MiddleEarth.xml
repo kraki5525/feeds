@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2023-11-27T05:35:13.098Z</updated>
+    <updated>2023-11-27T17:35:24.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Was Lúthien Tinúviel Able To Sing Morgoth and His Minions To Sleep?]]></title>
+        <id>https://middle-earth.xenite.org/how-was-luthien-tinuviel-able-to-sing-morgoth-and-his-minions-to-sleep/</id>
+        <link href="https://middle-earth.xenite.org/how-was-luthien-tinuviel-able-to-sing-morgoth-and-his-minions-to-sleep/"/>
+        <updated>2023-11-27T17:35:23.962Z</updated>
+        <content type="html"><![CDATA[Q: How Was Lúthien Tinúviel Able To Sing Morgoth and His Minions To Sleep? ANSWER: In The Silmarillion, Lúthien Tinúviel was said to be the […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Was Helm Hammerhand’s Daughter Named Hera?]]></title>
         <id>https://middle-earth.xenite.org/was-helm-hammerhands-daughter-named-hera/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/what-was-the-significance-of-height-in-tolkiens-stories/"/>
         <updated>2023-11-25T05:35:10.445Z</updated>
         <content type="html"><![CDATA[Q: What Was the Significance of Height in Tolkien’s Stories? ANSWER: A long-time blog reader submitted the following question in December 2020: In Tolkiens writings […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Faded Elvish Spirits Make Their Ways to Valinor?]]></title>
-        <id>https://middle-earth.xenite.org/did-faded-elvish-spirits-make-their-ways-to-valinor/</id>
-        <link href="https://middle-earth.xenite.org/did-faded-elvish-spirits-make-their-ways-to-valinor/"/>
-        <updated>2023-11-25T05:35:10.447Z</updated>
-        <content type="html"><![CDATA[Q: Did Faded Elvish Spirits Make Their Ways to Valinor? ANSWER: In December 2020 a reader submitted the following question about faded Elvish spirits: I […]]]></content>
     </entry>
 </feed>
