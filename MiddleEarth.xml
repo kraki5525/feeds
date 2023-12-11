@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2023-12-11T05:35:33.261Z</updated>
+    <updated>2023-12-11T17:35:29.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Can We Tell How Tall Tolkien’s Characters Were?]]></title>
+        <id>https://middle-earth.xenite.org/can-we-tell-how-tall-tolkiens-characters-were/</id>
+        <link href="https://middle-earth.xenite.org/can-we-tell-how-tall-tolkiens-characters-were/"/>
+        <updated>2023-12-11T17:35:29.286Z</updated>
+        <content type="html"><![CDATA[Q: Can We Tell How Tall Tolkien’s Characters Were? ANSWER: There are ways to estimate the height of characters in the stories but they are […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Review of ‘The Wisdom of Hobbits’ by Matthew J. DiStefano]]></title>
         <id>https://middle-earth.xenite.org/a-review-of-the-wisdom-of-hobbits-by-matthew-j-distefano/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/who-studied-enemy-arts-and-fell/"/>
         <updated>2023-12-08T05:35:06.247Z</updated>
         <content type="html"><![CDATA[Q: Who Studied Enemy Arts and ‘Fell’? ANSWER: A reader submitted this question in March 2021: In FOTR, after Gandalf relates his capture and escape […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Any Orcs and Trolls Fight against Sauron in the War of the last Alliance?]]></title>
-        <id>https://middle-earth.xenite.org/did-any-orcs-and-trolls-fight-against-sauron-in-the-war-of-the-last-alliance/</id>
-        <link href="https://middle-earth.xenite.org/did-any-orcs-and-trolls-fight-against-sauron-in-the-war-of-the-last-alliance/"/>
-        <updated>2023-12-08T05:35:06.247Z</updated>
-        <content type="html"><![CDATA[Q: Did Any Orcs and Trolls Fight against Sauron in the War of the last Alliance? ANSWER: I have rephrased a question I received in […]]]></content>
     </entry>
 </feed>
