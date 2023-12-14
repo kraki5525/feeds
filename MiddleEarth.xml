@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2023-12-14T05:35:29.458Z</updated>
+    <updated>2023-12-14T17:35:23.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Did Tolkien Explain Why Middle-earth Seems So Empty?]]></title>
+        <id>https://middle-earth.xenite.org/did-tolkien-explain-why-middle-earth-seems-so-empty/</id>
+        <link href="https://middle-earth.xenite.org/did-tolkien-explain-why-middle-earth-seems-so-empty/"/>
+        <updated>2023-12-14T17:35:23.330Z</updated>
+        <content type="html"><![CDATA[Q: Did Tolkien Explain Why Middle-earth Seems So Empty? ANSWER: The short answer to this question is “yes”. J.R.R. Tolkien did explain why Middle-earth seems […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can We Tell How Tall Tolkien’s Characters Were?]]></title>
         <id>https://middle-earth.xenite.org/can-we-tell-how-tall-tolkiens-characters-were/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/could-smaug-or-the-balrog-of-moria-have-mastered-the-one-ring/"/>
         <updated>2023-12-08T05:35:06.246Z</updated>
         <content type="html"><![CDATA[Q: Could Smaug or the Balrog of Moria Have Mastered the One Ring? #tolkien #middleearth ANSWER: I received the following request in February 2022: I’m […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Studied Enemy Arts and ‘Fell’?]]></title>
-        <id>https://middle-earth.xenite.org/who-studied-enemy-arts-and-fell/</id>
-        <link href="https://middle-earth.xenite.org/who-studied-enemy-arts-and-fell/"/>
-        <updated>2023-12-08T05:35:06.247Z</updated>
-        <content type="html"><![CDATA[Q: Who Studied Enemy Arts and ‘Fell’? ANSWER: A reader submitted this question in March 2021: In FOTR, after Gandalf relates his capture and escape […]]]></content>
     </entry>
 </feed>
