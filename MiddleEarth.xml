@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2023-12-18T05:35:55.200Z</updated>
+    <updated>2023-12-18T17:35:37.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why Didn’t the Nazgûl Acknowledge Frodo as Their Master?]]></title>
+        <id>https://middle-earth.xenite.org/why-didnt-the-nazgul-acknowledge-frodo-as-their-master/</id>
+        <link href="https://middle-earth.xenite.org/why-didnt-the-nazgul-acknowledge-frodo-as-their-master/"/>
+        <updated>2023-12-18T17:35:37.214Z</updated>
+        <content type="html"><![CDATA[Q: Why Didn’t the Nazgûl Acknowledge Frodo as Their Master? ANSWER: When Frodo claimed the One Ring for himself, the Nazgûl continued to do Sauron’s […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did Tolkien Explain Why Middle-earth Seems So Empty?]]></title>
         <id>https://middle-earth.xenite.org/did-tolkien-explain-why-middle-earth-seems-so-empty/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/does-turin-fight-war-of-wrath-and-dagor-dagorath/"/>
         <updated>2023-12-17T17:35:31.370Z</updated>
         <content type="html"><![CDATA[Q: Will Túrin Fight in Dagor Dagorath? #tolkien #middleearth ANSWER: This question was submitted by a reader in September 2021: Can we assume that Túrin […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could Smaug or the Balrog of Moria Have Mastered the One Ring?]]></title>
-        <id>https://middle-earth.xenite.org/could-smaug-or-the-balrog-of-moria-have-mastered-the-one-ring/</id>
-        <link href="https://middle-earth.xenite.org/could-smaug-or-the-balrog-of-moria-have-mastered-the-one-ring/"/>
-        <updated>2023-12-17T17:35:31.371Z</updated>
-        <content type="html"><![CDATA[Q: Could Smaug or the Balrog of Moria Have Mastered the One Ring? #tolkien #middleearth ANSWER: I received the following request in February 2022: I’m […]]]></content>
     </entry>
 </feed>
