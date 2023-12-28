@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-28T05:35:10.528Z</updated>
+    <updated>2023-12-28T17:35:13.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Eugenie Grosup (Wikipedia — did you know?)]]></title>
@@ -59,6 +59,13 @@
         <link href="https://en.wikipedia.org/wiki/2023_Colorado_Mines_Orediggers_football_team"/>
         <updated>2023-12-28T05:35:03.678Z</updated>
         <content type="html"><![CDATA[... that the No.&nbsp;1–ranked <b><a href="/wiki/2023_Colorado_Mines_Orediggers_football_team" title="2023 Colorado Mines Orediggers football team">2023 Colorado Mines Orediggers</a></b>, "college football's nerdiest contender", featured players with pigtails and a drawn-on blue mustache, a friar's haircut, and <i>Harry Potter</i> cosplay?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions about Ungoliant and Morgoth’s Monsters (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/questions-about-ungoliant-and-morgoths-monsters/</id>
+        <link href="https://middle-earth.xenite.org/questions-about-ungoliant-and-morgoths-monsters/"/>
+        <updated>2023-12-28T17:35:12.522Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Questions about Ungoliant and Morgoth’s Monsters ANSWER: When people submit multiple unrelated questions at one time I may try to answer […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How Often Did Gondor’s Kings Marry Haradrim? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -164,12 +171,5 @@
         <link href="https://middle-earth.xenite.org/what-would-shire-coins-look-like/"/>
         <updated>2023-12-25T17:35:33.569Z</updated>
         <content type="html"><![CDATA[#middleearth #tolkien Q: What Would Shire Coins Look Like? ANSWER: I received the following questions in September 2022: Have you ever thought about whose likeness […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Can Be Inferred from Bladorthin’s Spears? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/what-can-be-inferred-from-bladorthins-spears/</id>
-        <link href="https://middle-earth.xenite.org/what-can-be-inferred-from-bladorthins-spears/"/>
-        <updated>2023-12-25T17:35:33.569Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth Q: What Can Be Inferred from Bladorthin’s Spears? ANSWER: I’ve only ever been asked a few questions about King Bladorthin, and I’ve answered […]]]></content>
     </entry>
 </feed>

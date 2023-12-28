@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2023-12-28T05:35:10.526Z</updated>
+    <updated>2023-12-28T17:35:13.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Questions about Ungoliant and Morgoth’s Monsters]]></title>
+        <id>https://middle-earth.xenite.org/questions-about-ungoliant-and-morgoths-monsters/</id>
+        <link href="https://middle-earth.xenite.org/questions-about-ungoliant-and-morgoths-monsters/"/>
+        <updated>2023-12-28T17:35:12.522Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Questions about Ungoliant and Morgoth’s Monsters ANSWER: When people submit multiple unrelated questions at one time I may try to answer […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Often Did Gondor’s Kings Marry Haradrim?]]></title>
         <id>https://middle-earth.xenite.org/how-often-did-gondors-kings-marry-haradrim/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/what-would-shire-coins-look-like/"/>
         <updated>2023-12-25T17:35:33.569Z</updated>
         <content type="html"><![CDATA[#middleearth #tolkien Q: What Would Shire Coins Look Like? ANSWER: I received the following questions in September 2022: Have you ever thought about whose likeness […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Can Be Inferred from Bladorthin’s Spears?]]></title>
-        <id>https://middle-earth.xenite.org/what-can-be-inferred-from-bladorthins-spears/</id>
-        <link href="https://middle-earth.xenite.org/what-can-be-inferred-from-bladorthins-spears/"/>
-        <updated>2023-12-25T17:35:33.569Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth Q: What Can Be Inferred from Bladorthin’s Spears? ANSWER: I’ve only ever been asked a few questions about King Bladorthin, and I’ve answered […]]]></content>
     </entry>
 </feed>
