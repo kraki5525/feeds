@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-01-01T05:36:04.838Z</updated>
+    <updated>2024-01-01T17:35:35.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Big Were Tolkien’s Dragons?]]></title>
+        <id>https://middle-earth.xenite.org/how-big-were-tolkiens-dragons/</id>
+        <link href="https://middle-earth.xenite.org/how-big-were-tolkiens-dragons/"/>
+        <updated>2024-01-01T17:35:34.603Z</updated>
+        <content type="html"><![CDATA[#middlearth #fantasy #tolkien #dragons Q: How Big Were Tolkien’s Dragons? ANSWER: I received the following question in June 2021: “How big were Dragons like Smaug, […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Questions about Ungoliant and Morgoth’s Monsters]]></title>
         <id>https://middle-earth.xenite.org/questions-about-ungoliant-and-morgoths-monsters/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/questions-about-the-maiar/"/>
         <updated>2023-12-25T17:35:33.569Z</updated>
         <content type="html"><![CDATA[#tolkien #middleearth Q: Questions about the Maiar ANSWER: I received the following set of questions about the Maiar in June 2022: I’m reading Treason of […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Would Shire Coins Look Like?]]></title>
-        <id>https://middle-earth.xenite.org/what-would-shire-coins-look-like/</id>
-        <link href="https://middle-earth.xenite.org/what-would-shire-coins-look-like/"/>
-        <updated>2023-12-25T17:35:33.569Z</updated>
-        <content type="html"><![CDATA[#middleearth #tolkien Q: What Would Shire Coins Look Like? ANSWER: I received the following questions in September 2022: Have you ever thought about whose likeness […]]]></content>
     </entry>
 </feed>
