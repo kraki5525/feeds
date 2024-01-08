@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-01-08T05:35:15.862Z</updated>
+    <updated>2024-01-08T17:35:22.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Questions about the Nazgûl]]></title>
+        <id>https://middle-earth.xenite.org/questions-about-the-nazgul/</id>
+        <link href="https://middle-earth.xenite.org/questions-about-the-nazgul/"/>
+        <updated>2024-01-08T17:35:21.614Z</updated>
+        <content type="html"><![CDATA[Q: Questions about the Nazgûl ANSWER: I received the following list of questions from a reader in July 2021: I’ve always been fascinated by the […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did Gandalf Use All His Power When Battling the Balrog of Moria?]]></title>
         <id>https://middle-earth.xenite.org/did-gandalf-use-all-his-power-when-battling-the-balrog-of-moria/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/is-middle-earth-a-country-or-a-world/"/>
         <updated>2024-01-07T05:35:34.870Z</updated>
         <content type="html"><![CDATA[#tolkien #fantasy #middleearth Q: Is Middle-earth a Country or A World? ANSWER: This is a variation on a question I’ve received and answered many times. […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Questions about the Valar]]></title>
-        <id>https://middle-earth.xenite.org/questions-about-the-valar/</id>
-        <link href="https://middle-earth.xenite.org/questions-about-the-valar/"/>
-        <updated>2024-01-07T05:35:34.870Z</updated>
-        <content type="html"><![CDATA[#tolkien #fantasy #middleearth Q: Questions about the Valar ANSWER: A reader submitted the following list of questions about the Valar in August 2021: Why did […]]]></content>
     </entry>
 </feed>
