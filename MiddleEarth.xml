@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-01-11T05:35:34.360Z</updated>
+    <updated>2024-01-11T17:35:33.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Was It Really Theoretically Possible for Another Person to Control the One Ring?]]></title>
+        <id>https://middle-earth.xenite.org/was-it-really-theoretically-possible-for-another-person-to-control-the-one-ring/</id>
+        <link href="https://middle-earth.xenite.org/was-it-really-theoretically-possible-for-another-person-to-control-the-one-ring/"/>
+        <updated>2024-01-11T17:35:32.446Z</updated>
+        <content type="html"><![CDATA[Q: Was It Really Theoretically Possible for Another Person to Control the One Ring? ANSWER: This is a hard question to summarize. I received the […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Questions about the Nazgûl]]></title>
         <id>https://middle-earth.xenite.org/questions-about-the-nazgul/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/did-frodos-blood-innocence-help-him-fight-the-one-ring/"/>
         <updated>2024-01-11T05:35:33.759Z</updated>
         <content type="html"><![CDATA[#tolkien #fantasy #middleearth Q: Did Frodo’s Blood Innocence Help Him Fight the One Ring? ANSWER: I received the following question from a reader in October […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Middle-earth A Country or A World?]]></title>
-        <id>https://middle-earth.xenite.org/is-middle-earth-a-country-or-a-world/</id>
-        <link href="https://middle-earth.xenite.org/is-middle-earth-a-country-or-a-world/"/>
-        <updated>2024-01-11T05:35:33.762Z</updated>
-        <content type="html"><![CDATA[#tolkien #fantasy #middleearth Q: Is Middle-earth a Country or A World? ANSWER: This is a variation on a question I’ve received and answered many times. […]]]></content>
     </entry>
 </feed>
