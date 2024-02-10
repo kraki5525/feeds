@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-10T05:36:23.209Z</updated>
+    <updated>2024-02-10T17:35:12.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Maria Trubnikova (Wikipedia — did you know?)]]></title>
@@ -20,10 +20,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[besieging Baghdad in 1258 (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Siege_of_Baghdad_(1258)</id>
-        <link href="https://en.wikipedia.org/wiki/Siege_of_Baghdad_(1258)"/>
-        <updated>2024-02-10T05:36:18.139Z</updated>
-        <content type="html"><![CDATA[... that before <b><a href="/wiki/Siege_of_Baghdad_(1258)" title="Siege of Baghdad (1258)">besieging Baghdad in 1258</a></b>, the Mongol prince <a href="/wiki/Hulegu_Khan" title="Hulegu Khan">Hulegu Khan</a> ended a letter to <a href="/wiki/Al-Musta%27sim" title="Al-Musta'sim">the city's ruler</a> with the words "I will show you the meaning of the will of God"?]]></content>
+        <id>https://en.wikipedia.org/wiki/Siege_of_Baghdad</id>
+        <link href="https://en.wikipedia.org/wiki/Siege_of_Baghdad"/>
+        <updated>2024-02-10T17:35:04.597Z</updated>
+        <content type="html"><![CDATA[... that before <b><a href="/wiki/Siege_of_Baghdad" title="Siege of Baghdad">besieging Baghdad in 1258</a></b>, the Mongol prince <a href="/wiki/Hulegu_Khan" title="Hulegu Khan">Hulegu Khan</a> ended a letter to <a href="/wiki/Al-Musta%27sim" title="Al-Musta'sim">the city's ruler</a> with the words "I will show you the meaning of the will of God"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kips Bay Towers (Wikipedia — did you know?)]]></title>
@@ -59,5 +59,117 @@
         <link href="https://en.wikipedia.org/wiki/Tarcisio_Martina"/>
         <updated>2024-02-10T05:36:18.147Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/Tarcisio_Martina" title="Tarcisio Martina">Tarcisio Martina</a></b>, the representative of the <a href="/wiki/Holy_See" title="Holy See">Holy See</a> in China, was sentenced to life imprisonment in 1951 over a plot to assassinate <a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was It Really Theoretically Possible for Another Person to Control the One Ring? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/was-it-really-theoretically-possible-for-another-person-to-control-the-one-ring/</id>
+        <link href="https://middle-earth.xenite.org/was-it-really-theoretically-possible-for-another-person-to-control-the-one-ring/"/>
+        <updated>2024-02-10T17:35:12.105Z</updated>
+        <content type="html"><![CDATA[Q: Was It Really Theoretically Possible for Another Person to Control the One Ring? ANSWER: This is a hard question to summarize. I received the […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions about the Nazgûl (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/questions-about-the-nazgul/</id>
+        <link href="https://middle-earth.xenite.org/questions-about-the-nazgul/"/>
+        <updated>2024-02-10T17:35:12.106Z</updated>
+        <content type="html"><![CDATA[Q: Questions about the Nazgûl ANSWER: I received the following list of questions from a reader in July 2021: I’ve always been fascinated by the […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Gandalf Use All His Power When Battling the Balrog of Moria? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/did-gandalf-use-all-his-power-when-battling-the-balrog-of-moria/</id>
+        <link href="https://middle-earth.xenite.org/did-gandalf-use-all-his-power-when-battling-the-balrog-of-moria/"/>
+        <updated>2024-02-10T17:35:12.106Z</updated>
+        <content type="html"><![CDATA[Q: Did Gandalf Use All His Power When Battling the Balrog of Moria? ANSWER: I received this question in April 2021: When the Istari came […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Big Were Tolkien’s Dragons? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/how-big-were-tolkiens-dragons/</id>
+        <link href="https://middle-earth.xenite.org/how-big-were-tolkiens-dragons/"/>
+        <updated>2024-02-10T17:35:12.108Z</updated>
+        <content type="html"><![CDATA[#middlearth #fantasy #tolkien #dragons Q: How Big Were Tolkien’s Dragons? ANSWER: I received the following question in June 2021: “How big were Dragons like Smaug, […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions about Ungoliant and Morgoth’s Monsters (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/questions-about-ungoliant-and-morgoths-monsters/</id>
+        <link href="https://middle-earth.xenite.org/questions-about-ungoliant-and-morgoths-monsters/"/>
+        <updated>2024-02-10T17:35:12.110Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Questions about Ungoliant and Morgoth’s Monsters ANSWER: When people submit multiple unrelated questions at one time I may try to answer […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Often Did Gondor’s Kings Marry Haradrim? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/how-often-did-gondors-kings-marry-haradrim/</id>
+        <link href="https://middle-earth.xenite.org/how-often-did-gondors-kings-marry-haradrim/"/>
+        <updated>2024-02-10T17:35:12.114Z</updated>
+        <content type="html"><![CDATA[Q: How Often Did Gondor’s Kings Marry Haradrim? ANSWER: I received the following question in April 2021: Can you explain why the lords of Gondor […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Gandalf’s Great Deeds? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/what-are-gandalfs-great-deeds/</id>
+        <link href="https://middle-earth.xenite.org/what-are-gandalfs-great-deeds/"/>
+        <updated>2024-02-10T17:35:12.116Z</updated>
+        <content type="html"><![CDATA[#fantasy #tolkien #middleearth Q: What Are Gandalf’s Great Deeds? ANSWER: Gandalf spent thousands of years in Middle-earth but J.R.R. Tolkien never wrote a story specifically […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Didn’t the Nazgûl Acknowledge Frodo as Their Master? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/why-didnt-the-nazgul-acknowledge-frodo-as-their-master/</id>
+        <link href="https://middle-earth.xenite.org/why-didnt-the-nazgul-acknowledge-frodo-as-their-master/"/>
+        <updated>2024-02-10T17:35:12.117Z</updated>
+        <content type="html"><![CDATA[#fantasy #tolkien #middleearth Q: Why Didn’t the Nazgûl Acknowledge Frodo as Their Master? ANSWER: When Frodo claimed the One Ring for himself, the Nazgûl continued […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Tolkien Explain Why Middle-earth Seems So Empty? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/did-tolkien-explain-why-middle-earth-seems-so-empty/</id>
+        <link href="https://middle-earth.xenite.org/did-tolkien-explain-why-middle-earth-seems-so-empty/"/>
+        <updated>2024-02-10T17:35:12.118Z</updated>
+        <content type="html"><![CDATA[#fantasy #tolkien #middleearth Q: Did Tolkien Explain Why Middle-earth Seems So Empty? ANSWER: The short answer to this question is “yes”. J.R.R. Tolkien did explain […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can We Tell How Tall Tolkien’s Characters Were? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/can-we-tell-how-tall-tolkiens-characters-were/</id>
+        <link href="https://middle-earth.xenite.org/can-we-tell-how-tall-tolkiens-characters-were/"/>
+        <updated>2024-02-10T17:35:12.120Z</updated>
+        <content type="html"><![CDATA[#fantasy #tolkien #middleearth Q: Can We Tell How Tall Tolkien’s Characters Were? ANSWER: There are ways to estimate the height of characters in the stories […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Review of ‘The Wisdom of Hobbits’ by Matthew J. DiStefano (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/a-review-of-the-wisdom-of-hobbits-by-matthew-j-distefano/</id>
+        <link href="https://middle-earth.xenite.org/a-review-of-the-wisdom-of-hobbits-by-matthew-j-distefano/"/>
+        <updated>2024-02-10T17:35:12.122Z</updated>
+        <content type="html"><![CDATA[I was invited to review and write a blurb for The Wisdom of Hobbits: Unearthing Our Humanity at 3 Bagshot Row last year (2022) by […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Was Lúthien Tinúviel Able To Sing Morgoth and His Minions To Sleep? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/how-was-luthien-tinuviel-able-to-sing-morgoth-and-his-minions-to-sleep/</id>
+        <link href="https://middle-earth.xenite.org/how-was-luthien-tinuviel-able-to-sing-morgoth-and-his-minions-to-sleep/"/>
+        <updated>2024-02-10T17:35:12.123Z</updated>
+        <content type="html"><![CDATA[#fantasy #tolkien #middleearth Q: How Was Lúthien Tinúviel Able To Sing Morgoth and His Minions To Sleep? ANSWER: In The Silmarillion, Lúthien Tinúviel was said […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was Helm Hammerhand’s Daughter Named Hera? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/was-helm-hammerhands-daughter-named-hera/</id>
+        <link href="https://middle-earth.xenite.org/was-helm-hammerhands-daughter-named-hera/"/>
+        <updated>2024-02-10T17:35:12.124Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Was Helm Hammerhand’s Daughter Named Hera? ANSWER: She was not named by J.R.R. Tolkien or Christopher Tolkien. Helm Hammerhand had 3 […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Elves and Humans Meet again Beyond Eä? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/can-elves-and-humans-meet-again-beyond-ea/</id>
+        <link href="https://middle-earth.xenite.org/can-elves-and-humans-meet-again-beyond-ea/"/>
+        <updated>2024-02-10T17:35:12.126Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy #elves Q: Can Elves and Humans Meet again Beyond Eä? ANSWER: I received the following question in October 2022: I have a […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Many Númenórean Colonies Were There in Middle-earth? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/how-many-numenorean-colonies-were-there-in-middle-earth/</id>
+        <link href="https://middle-earth.xenite.org/how-many-numenorean-colonies-were-there-in-middle-earth/"/>
+        <updated>2024-02-10T17:35:12.133Z</updated>
+        <content type="html"><![CDATA[#tolkien #fantasy #middleearth Q: How Many Númenórean Colonies Were There in Middle-earth? ANSWER: To the best of my knowledge, J.R.R. Tolkien never attempted to provide […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Frodo’s Blood Innocence Help Him Fight the One Ring? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/did-frodos-blood-innocence-help-him-fight-the-one-ring/</id>
+        <link href="https://middle-earth.xenite.org/did-frodos-blood-innocence-help-him-fight-the-one-ring/"/>
+        <updated>2024-02-10T17:35:12.133Z</updated>
+        <content type="html"><![CDATA[#tolkien #fantasy #middleearth Q: Did Frodo’s Blood Innocence Help Him Fight the One Ring? ANSWER: I received the following question from a reader in October […]]]></content>
     </entry>
 </feed>
