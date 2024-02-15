@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-02-15T05:36:07.520Z</updated>
+    <updated>2024-02-15T17:35:22.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What Would An Eldarin Victory against Morgoth Have Looked Like?]]></title>
+        <id>https://middle-earth.xenite.org/what-would-an-eldarin-victory-against-morgoth-have-looked-like/</id>
+        <link href="https://middle-earth.xenite.org/what-would-an-eldarin-victory-against-morgoth-have-looked-like/"/>
+        <updated>2024-02-15T17:35:21.631Z</updated>
+        <content type="html"><![CDATA[Q: What Would An Eldarin Victory against Morgoth Have Looked Like? ANSWER: If the Eldar had won the battle that became known as the Nirnaeth […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Did Aragorn Have the Greatest Claim on the Palantíri?]]></title>
         <id>https://middle-earth.xenite.org/why-did-aragorn-have-the-greatest-claim-on-the-palantiri/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/can-elves-and-humans-meet-again-beyond-ea/"/>
         <updated>2024-02-14T05:36:48.532Z</updated>
         <content type="html"><![CDATA[#tolkien #middleearth #fantasy #elves Q: Can Elves and Humans Meet again Beyond Eä? ANSWER: I received the following question in October 2022: I have a […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Many Númenórean Colonies Were There in Middle-earth?]]></title>
-        <id>https://middle-earth.xenite.org/how-many-numenorean-colonies-were-there-in-middle-earth/</id>
-        <link href="https://middle-earth.xenite.org/how-many-numenorean-colonies-were-there-in-middle-earth/"/>
-        <updated>2024-02-14T05:36:48.534Z</updated>
-        <content type="html"><![CDATA[#tolkien #fantasy #middleearth Q: How Many Númenórean Colonies Were There in Middle-earth? ANSWER: To the best of my knowledge, J.R.R. Tolkien never attempted to provide […]]]></content>
     </entry>
 </feed>
