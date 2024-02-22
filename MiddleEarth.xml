@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-02-22T05:35:03.441Z</updated>
+    <updated>2024-02-22T17:35:25.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Would Gandalf Have Worn Narya When Confronting Sauron?]]></title>
+        <id>https://middle-earth.xenite.org/would-gandalf-have-worn-narya-when-confronting-sauron/</id>
+        <link href="https://middle-earth.xenite.org/would-gandalf-have-worn-narya-when-confronting-sauron/"/>
+        <updated>2024-02-22T17:35:24.635Z</updated>
+        <content type="html"><![CDATA[Q: Would Gandalf Have Worn Narya When Confronting Sauron? ANSWER: I received this question in followup to the previous article: Do you think Gandalf had […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Did Sauron Retreat from Dol Guldur in 2941?]]></title>
         <id>https://middle-earth.xenite.org/why-did-sauron-retreat-from-dol-guldur-in-2941/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/how-was-luthien-tinuviel-able-to-sing-morgoth-and-his-minions-to-sleep/"/>
         <updated>2024-02-14T05:36:48.530Z</updated>
         <content type="html"><![CDATA[#fantasy #tolkien #middleearth Q: How Was Lúthien Tinúviel Able To Sing Morgoth and His Minions To Sleep? ANSWER: In The Silmarillion, Lúthien Tinúviel was said […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Was Helm Hammerhand’s Daughter Named Hera?]]></title>
-        <id>https://middle-earth.xenite.org/was-helm-hammerhands-daughter-named-hera/</id>
-        <link href="https://middle-earth.xenite.org/was-helm-hammerhands-daughter-named-hera/"/>
-        <updated>2024-02-14T05:36:48.531Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Was Helm Hammerhand’s Daughter Named Hera? ANSWER: She was not named by J.R.R. Tolkien or Christopher Tolkien. Helm Hammerhand had 3 […]]]></content>
     </entry>
 </feed>
