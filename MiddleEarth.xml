@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-02-26T05:34:57.907Z</updated>
+    <updated>2024-02-26T17:35:18.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What Special Talents or Powers Are Attributed To the Elves?]]></title>
+        <id>https://middle-earth.xenite.org/what-special-talents-or-powers-are-attributed-to-the-elves/</id>
+        <link href="https://middle-earth.xenite.org/what-special-talents-or-powers-are-attributed-to-the-elves/"/>
+        <updated>2024-02-26T17:35:18.211Z</updated>
+        <content type="html"><![CDATA[#middleearth #tolkien #fantasy Q: What Special Talents or Powers Are Attributed To the Elves? ANSWER: I received this question in February 2023, exactly as you […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Would Gandalf Have Worn Narya When Confronting Sauron?]]></title>
         <id>https://middle-earth.xenite.org/would-gandalf-have-worn-narya-when-confronting-sauron/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/a-review-of-the-wisdom-of-hobbits-by-matthew-j-distefano/"/>
         <updated>2024-02-14T05:36:48.530Z</updated>
         <content type="html"><![CDATA[I was invited to review and write a blurb for The Wisdom of Hobbits: Unearthing Our Humanity at 3 Bagshot Row last year (2022) by […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Was Lúthien Tinúviel Able To Sing Morgoth and His Minions To Sleep?]]></title>
-        <id>https://middle-earth.xenite.org/how-was-luthien-tinuviel-able-to-sing-morgoth-and-his-minions-to-sleep/</id>
-        <link href="https://middle-earth.xenite.org/how-was-luthien-tinuviel-able-to-sing-morgoth-and-his-minions-to-sleep/"/>
-        <updated>2024-02-14T05:36:48.530Z</updated>
-        <content type="html"><![CDATA[#fantasy #tolkien #middleearth Q: How Was Lúthien Tinúviel Able To Sing Morgoth and His Minions To Sleep? ANSWER: In The Silmarillion, Lúthien Tinúviel was said […]]]></content>
     </entry>
 </feed>
