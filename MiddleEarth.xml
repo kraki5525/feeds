@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-03-07T05:35:30.856Z</updated>
+    <updated>2024-03-07T17:35:57.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why Would Sauron Question Gollum In Person?]]></title>
+        <id>https://middle-earth.xenite.org/why-would-sauron-question-gollum-in-person/</id>
+        <link href="https://middle-earth.xenite.org/why-would-sauron-question-gollum-in-person/"/>
+        <updated>2024-03-07T17:35:56.623Z</updated>
+        <content type="html"><![CDATA[Q: Why Would Sauron Question Gollum In Person? ANSWER: I received this question in January 2024: In “The Shadow of the Past”, Gandalf summarises what […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Special Talents or Powers Are Attributed To the Elves?]]></title>
         <id>https://middle-earth.xenite.org/what-special-talents-or-powers-are-attributed-to-the-elves/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/can-we-tell-how-tall-tolkiens-characters-were/"/>
         <updated>2024-02-28T17:35:53.734Z</updated>
         <content type="html"><![CDATA[#fantasy #tolkien #middleearth Q: Can We Tell How Tall Tolkien’s Characters Were? ANSWER: There are ways to estimate the height of characters in the stories […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Review of ‘The Wisdom of Hobbits’ by Matthew J. DiStefano]]></title>
-        <id>https://middle-earth.xenite.org/a-review-of-the-wisdom-of-hobbits-by-matthew-j-distefano/</id>
-        <link href="https://middle-earth.xenite.org/a-review-of-the-wisdom-of-hobbits-by-matthew-j-distefano/"/>
-        <updated>2024-02-28T17:35:53.737Z</updated>
-        <content type="html"><![CDATA[I was invited to review and write a blurb for The Wisdom of Hobbits: Unearthing Our Humanity at 3 Bagshot Row last year (2022) by […]]]></content>
     </entry>
 </feed>
