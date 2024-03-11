@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-03-11T05:35:09.882Z</updated>
+    <updated>2024-03-11T17:35:21.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What Is the Precise Scope of ‘Spirit’ in Tolkien’s Works?]]></title>
+        <id>https://middle-earth.xenite.org/what-is-the-precise-scope-of-spirit-in-tolkiens-works/</id>
+        <link href="https://middle-earth.xenite.org/what-is-the-precise-scope-of-spirit-in-tolkiens-works/"/>
+        <updated>2024-03-11T17:35:20.632Z</updated>
+        <content type="html"><![CDATA[Q: What Is the Precise Scope of ‘Spirit’ in Tolkien’s Works? ANSWER: I received the following questions in October 2023: What is the precise scope […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Would Sauron Question Gollum In Person?]]></title>
         <id>https://middle-earth.xenite.org/why-would-sauron-question-gollum-in-person/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/did-tolkien-explain-why-middle-earth-seems-so-empty/"/>
         <updated>2024-03-11T05:35:09.253Z</updated>
         <content type="html"><![CDATA[#fantasy #tolkien #middleearth Q: Did Tolkien Explain Why Middle-earth Seems So Empty? ANSWER: The short answer to this question is “yes”. J.R.R. Tolkien did explain […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can We Tell How Tall Tolkien’s Characters Were?]]></title>
-        <id>https://middle-earth.xenite.org/can-we-tell-how-tall-tolkiens-characters-were/</id>
-        <link href="https://middle-earth.xenite.org/can-we-tell-how-tall-tolkiens-characters-were/"/>
-        <updated>2024-03-11T05:35:09.255Z</updated>
-        <content type="html"><![CDATA[#fantasy #tolkien #middleearth Q: Can We Tell How Tall Tolkien’s Characters Were? ANSWER: There are ways to estimate the height of characters in the stories […]]]></content>
     </entry>
 </feed>
