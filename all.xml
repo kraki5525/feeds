@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-18T05:35:15.040Z</updated>
+    <updated>2024-03-18T17:36:32.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Joseph Bosworth (Wikipedia — did you know?)]]></title>
@@ -65,7 +65,7 @@
         <id>https://en.wikipedia.org/wiki/Run_(meme)</id>
         <link href="https://en.wikipedia.org/wiki/Run_(meme)"/>
         <updated>2024-03-18T05:35:09.507Z</updated>
-        <content type="html"><![CDATA[... that "<b><a href="/wiki/Run_(meme)" title="Run (meme)">runology</a></b>" is the study of how to run away from China?]]></content>
+        <content type="html"><![CDATA[... that "<b><a href="/wiki/Run_(meme)" class="mw-redirect" title="Run (meme)">runology</a></b>" is the study of how to run away from China?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[What Is the Precise Scope of ‘Spirit’ in Tolkien’s Works? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
