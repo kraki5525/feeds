@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-03-28T05:35:41.815Z</updated>
+    <updated>2024-03-28T17:35:21.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Would J.R.R. Tolkien Have Revised the Middle-earth Mythology?]]></title>
+        <id>https://middle-earth.xenite.org/how-would-j-r-r-tolkien-have-revised-the-middle-earth-mythology/</id>
+        <link href="https://middle-earth.xenite.org/how-would-j-r-r-tolkien-have-revised-the-middle-earth-mythology/"/>
+        <updated>2024-03-28T17:35:21.294Z</updated>
+        <content type="html"><![CDATA[Q: How Would J.R.R. Tolkien Have Revised the Middle-earth Mythology? ANSWER: A reader submitted this question in August 2022: I have seen some people online […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Could Gandalf Have Visited Middle-earth in the Second Age?]]></title>
         <id>https://middle-earth.xenite.org/could-gandalf-have-visited-middle-earth-in-the-second-age/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/what-are-gandalfs-great-deeds/"/>
         <updated>2024-03-23T05:34:58.337Z</updated>
         <content type="html"><![CDATA[#fantasy #tolkien #middleearth Q: What Are Gandalf’s Great Deeds? ANSWER: Gandalf spent thousands of years in Middle-earth but J.R.R. Tolkien never wrote a story specifically […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Didn’t the Nazgûl Acknowledge Frodo as Their Master?]]></title>
-        <id>https://middle-earth.xenite.org/why-didnt-the-nazgul-acknowledge-frodo-as-their-master/</id>
-        <link href="https://middle-earth.xenite.org/why-didnt-the-nazgul-acknowledge-frodo-as-their-master/"/>
-        <updated>2024-03-23T05:34:58.338Z</updated>
-        <content type="html"><![CDATA[#fantasy #tolkien #middleearth Q: Why Didn’t the Nazgûl Acknowledge Frodo as Their Master? ANSWER: When Frodo claimed the One Ring for himself, the Nazgûl continued […]]]></content>
     </entry>
 </feed>
