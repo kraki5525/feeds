@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-04-08T05:35:34.849Z</updated>
+    <updated>2024-04-08T17:35:56.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why Did Elven Populations Not Explode?]]></title>
+        <id>https://middle-earth.xenite.org/why-did-elven-populations-not-explode/</id>
+        <link href="https://middle-earth.xenite.org/why-did-elven-populations-not-explode/"/>
+        <updated>2024-04-08T17:35:56.079Z</updated>
+        <content type="html"><![CDATA[Q: Why Did Elven Populations Not Explode? ANSWER: I received the following comments and question about Elvish population growth in September 2022: Why did Elven […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Would J.R.R. Tolkien Have Revised the Middle-earth Mythology?]]></title>
         <id>https://middle-earth.xenite.org/how-would-j-r-r-tolkien-have-revised-the-middle-earth-mythology/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/how-often-did-gondors-kings-marry-haradrim/"/>
         <updated>2024-04-08T05:35:34.167Z</updated>
         <content type="html"><![CDATA[Q: How Often Did Gondor’s Kings Marry Haradrim? ANSWER: I received the following question in April 2021: Can you explain why the lords of Gondor […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Gandalf’s Great Deeds?]]></title>
-        <id>https://middle-earth.xenite.org/what-are-gandalfs-great-deeds/</id>
-        <link href="https://middle-earth.xenite.org/what-are-gandalfs-great-deeds/"/>
-        <updated>2024-04-08T05:35:34.168Z</updated>
-        <content type="html"><![CDATA[#fantasy #tolkien #middleearth Q: What Are Gandalf’s Great Deeds? ANSWER: Gandalf spent thousands of years in Middle-earth but J.R.R. Tolkien never wrote a story specifically […]]]></content>
     </entry>
 </feed>
