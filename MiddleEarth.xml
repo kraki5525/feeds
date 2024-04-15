@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-04-15T05:36:24.915Z</updated>
+    <updated>2024-04-15T17:36:22.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What Happened to the Nazgûl When the One Ring Was Destroyed?]]></title>
+        <id>https://middle-earth.xenite.org/what-happened-to-the-nazgul-when-the-one-ring-was-destroyed/</id>
+        <link href="https://middle-earth.xenite.org/what-happened-to-the-nazgul-when-the-one-ring-was-destroyed/"/>
+        <updated>2024-04-15T17:36:21.672Z</updated>
+        <content type="html"><![CDATA[Q: What Happened to the Nazgûl When the One Ring Was Destroyed? ANSWER: A reader submitted this question in January 2023: Sauron has his ring […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Where Were the Permanent Havens the Númenóreans Built after S.A. 1200?]]></title>
         <id>https://middle-earth.xenite.org/where-were-the-permanent-havens-the-numenoreans-built-after-s-a-1200/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/how-big-were-tolkiens-dragons/"/>
         <updated>2024-04-10T17:35:36.614Z</updated>
         <content type="html"><![CDATA[#middlearth #fantasy #tolkien #dragons Q: How Big Were Tolkien’s Dragons? ANSWER: I received the following question in June 2021: “How big were Dragons like Smaug, […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Questions about Ungoliant and Morgoth’s Monsters]]></title>
-        <id>https://middle-earth.xenite.org/questions-about-ungoliant-and-morgoths-monsters/</id>
-        <link href="https://middle-earth.xenite.org/questions-about-ungoliant-and-morgoths-monsters/"/>
-        <updated>2024-04-10T17:35:36.615Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Questions about Ungoliant and Morgoth’s Monsters ANSWER: When people submit multiple unrelated questions at one time I may try to answer […]]]></content>
     </entry>
 </feed>
