@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-18T05:36:18.379Z</updated>
+    <updated>2024-04-18T17:35:31.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Komeng (Wikipedia — did you know?)]]></title>
@@ -51,7 +51,7 @@
         <id>https://en.wikipedia.org/wiki/Audrys_Nin_Reyes</id>
         <link href="https://en.wikipedia.org/wiki/Audrys_Nin_Reyes"/>
         <updated>2024-04-18T05:36:11.736Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Audrys_Nin_Reyes" title="Audrys Nin Reyes">Audrys Nin Reyes</a></b> is the first gymnast from the Dominican Republic to qualify for the <a href="/wiki/Olympic_Games" title="Olympic Games">Olympic Games</a>?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Audrys_Nin_Reyes" title="Audrys Nin Reyes">Audrys Nin Reyes</a></b> is the first male gymnast from the Dominican Republic to qualify for the <a href="/wiki/Olympic_Games" title="Olympic Games">Olympic Games</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[copyright has been used to censor (Wikipedia — did you know?)]]></title>
@@ -66,6 +66,13 @@
         <link href="https://en.wikipedia.org/wiki/Qiao%27ergou_Catholic_Church"/>
         <updated>2024-04-18T05:36:11.740Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/Qiao%27ergou_Catholic_Church" title="Qiao'ergou Catholic Church">an abandoned Catholic church in China</a></b> was used by a <a href="/wiki/Central_Party_School_of_the_Chinese_Communist_Party" title="Central Party School of the Chinese Communist Party">party school</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did J.R.R. Tolkien Know about Music Inspired by His Works? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/did-j-r-r-tolkien-know-about-music-inspired-by-his-works/</id>
+        <link href="https://middle-earth.xenite.org/did-j-r-r-tolkien-know-about-music-inspired-by-his-works/"/>
+        <updated>2024-04-18T17:35:31.078Z</updated>
+        <content type="html"><![CDATA[Q: Did J.R.R. Tolkien Know about Music Inspired by His Works? ANSWER: I received this question in June of 2023: …I’m wondering if JRRT ever […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[What Happened to the Nazgûl When the One Ring Was Destroyed? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -171,12 +178,5 @@
         <link href="https://middle-earth.xenite.org/did-gandalf-use-all-his-power-when-battling-the-balrog-of-moria/"/>
         <updated>2024-04-10T17:35:36.613Z</updated>
         <content type="html"><![CDATA[Q: Did Gandalf Use All His Power When Battling the Balrog of Moria? ANSWER: I received this question in April 2021: When the Istari came […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Big Were Tolkien’s Dragons? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/how-big-were-tolkiens-dragons/</id>
-        <link href="https://middle-earth.xenite.org/how-big-were-tolkiens-dragons/"/>
-        <updated>2024-04-10T17:35:36.614Z</updated>
-        <content type="html"><![CDATA[#middlearth #fantasy #tolkien #dragons Q: How Big Were Tolkien’s Dragons? ANSWER: I received the following question in June 2021: “How big were Dragons like Smaug, […]]]></content>
     </entry>
 </feed>
