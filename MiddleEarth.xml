@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-04-22T17:35:39.431Z</updated>
+    <updated>2024-04-23T05:37:01.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Well Did the Istari Honor the Supposed Restrictions Placed on Them?]]></title>
+        <id>https://middle-earth.xenite.org/how-well-did-the-istari-honor-the-supposed-restrictions-placed-on-them/</id>
+        <link href="https://middle-earth.xenite.org/how-well-did-the-istari-honor-the-supposed-restrictions-placed-on-them/"/>
+        <updated>2024-04-23T05:37:00.732Z</updated>
+        <content type="html"><![CDATA[Q: How Well Did the Istari Honor the Supposed Restrictions Placed on Them? ANSWER: The Istari and the limitations supposedly placed on them should have […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did J.R.R. Tolkien Know about Music Inspired by His Works?]]></title>
         <id>https://middle-earth.xenite.org/did-j-r-r-tolkien-know-about-music-inspired-by-his-works/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/questions-about-the-nazgul/"/>
         <updated>2024-04-10T17:35:36.613Z</updated>
         <content type="html"><![CDATA[Q: Questions about the Nazgûl ANSWER: I received the following list of questions from a reader in July 2021: I’ve always been fascinated by the […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Gandalf Use All His Power When Battling the Balrog of Moria?]]></title>
-        <id>https://middle-earth.xenite.org/did-gandalf-use-all-his-power-when-battling-the-balrog-of-moria/</id>
-        <link href="https://middle-earth.xenite.org/did-gandalf-use-all-his-power-when-battling-the-balrog-of-moria/"/>
-        <updated>2024-04-10T17:35:36.613Z</updated>
-        <content type="html"><![CDATA[Q: Did Gandalf Use All His Power When Battling the Balrog of Moria? ANSWER: I received this question in April 2021: When the Istari came […]]]></content>
     </entry>
 </feed>
