@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-04-29T05:36:56.266Z</updated>
+    <updated>2024-04-29T17:36:13.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Can We Estimate Eriador’s Historical Populations?]]></title>
+        <id>https://middle-earth.xenite.org/can-we-estimate-eriadors-historical-populations/</id>
+        <link href="https://middle-earth.xenite.org/can-we-estimate-eriadors-historical-populations/"/>
+        <updated>2024-04-29T17:36:12.617Z</updated>
+        <content type="html"><![CDATA[Q: Can We Estimate Eriador’s Historical Populations? ANSWER: Population estimates for any period or region of Middle-earth are both popular and complete fantasy. I received […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Well Did the Istari Honor the Supposed Restrictions Placed on Them?]]></title>
         <id>https://middle-earth.xenite.org/how-well-did-the-istari-honor-the-supposed-restrictions-placed-on-them/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/was-it-really-theoretically-possible-for-another-person-to-control-the-one-ring/"/>
         <updated>2024-04-29T05:36:55.687Z</updated>
         <content type="html"><![CDATA[Q: Was It Really Theoretically Possible for Another Person to Control the One Ring? ANSWER: This is a hard question to summarize. I received the […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Questions about the Nazgûl]]></title>
-        <id>https://middle-earth.xenite.org/questions-about-the-nazgul/</id>
-        <link href="https://middle-earth.xenite.org/questions-about-the-nazgul/"/>
-        <updated>2024-04-29T05:36:55.688Z</updated>
-        <content type="html"><![CDATA[Q: Questions about the Nazgûl ANSWER: I received the following list of questions from a reader in July 2021: I’ve always been fascinated by the […]]]></content>
     </entry>
 </feed>
