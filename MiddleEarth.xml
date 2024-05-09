@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-05-09T05:35:32.288Z</updated>
+    <updated>2024-05-09T17:35:28.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Much Do the Istari Remember about Their Previous Lives as Maiar?]]></title>
+        <id>https://middle-earth.xenite.org/how-much-do-the-istari-remember-about-their-previous-lives-as-maiar/</id>
+        <link href="https://middle-earth.xenite.org/how-much-do-the-istari-remember-about-their-previous-lives-as-maiar/"/>
+        <updated>2024-05-09T17:35:27.469Z</updated>
+        <content type="html"><![CDATA[Q: How Much Do the Istari Remember about Their Previous Lives as Maiar? ANSWER: I received this question in September 2023, exactly as written above. […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can We Estimate Eriador’s Historical Populations?]]></title>
         <id>https://middle-earth.xenite.org/can-we-estimate-eriadors-historical-populations/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/why-did-aragorn-have-the-greatest-claim-on-the-palantiri/"/>
         <updated>2024-05-08T05:36:35.106Z</updated>
         <content type="html"><![CDATA[Q: Why Did Aragorn Have the Greatest Claim on the Palantíri? ANSWER: I received these questions in December 2022: If Fëanor (or other Elves in […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Was It Really Theoretically Possible for Another Person to Control the One Ring?]]></title>
-        <id>https://middle-earth.xenite.org/was-it-really-theoretically-possible-for-another-person-to-control-the-one-ring/</id>
-        <link href="https://middle-earth.xenite.org/was-it-really-theoretically-possible-for-another-person-to-control-the-one-ring/"/>
-        <updated>2024-05-08T05:36:35.107Z</updated>
-        <content type="html"><![CDATA[Q: Was It Really Theoretically Possible for Another Person to Control the One Ring? ANSWER: This is a hard question to summarize. I received the […]]]></content>
     </entry>
 </feed>
