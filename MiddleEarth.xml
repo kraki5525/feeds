@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-05-20T05:36:11.418Z</updated>
+    <updated>2024-05-20T17:35:36.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Could the Balrog of Moria Have Returned?]]></title>
+        <id>https://middle-earth.xenite.org/could-the-balrog-of-moria-have-returned/</id>
+        <link href="https://middle-earth.xenite.org/could-the-balrog-of-moria-have-returned/"/>
+        <updated>2024-05-20T17:35:36.121Z</updated>
+        <content type="html"><![CDATA[Q: Could the Balrog of Moria Have Returned? ANSWER: Because Fred the Balrog of Moria was a Maia, he (at one time) had the capacity […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Much Do the Istari Remember about Their Previous Lives as Maiar?]]></title>
         <id>https://middle-earth.xenite.org/how-much-do-the-istari-remember-about-their-previous-lives-as-maiar/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/what-would-an-eldarin-victory-against-morgoth-have-looked-like/"/>
         <updated>2024-05-17T05:38:18.948Z</updated>
         <content type="html"><![CDATA[Q: What Would An Eldarin Victory against Morgoth Have Looked Like? ANSWER: If the Eldar had won the battle that became known as the Nirnaeth […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Did Aragorn Have the Greatest Claim on the Palantíri?]]></title>
-        <id>https://middle-earth.xenite.org/why-did-aragorn-have-the-greatest-claim-on-the-palantiri/</id>
-        <link href="https://middle-earth.xenite.org/why-did-aragorn-have-the-greatest-claim-on-the-palantiri/"/>
-        <updated>2024-05-17T05:38:18.951Z</updated>
-        <content type="html"><![CDATA[Q: Why Did Aragorn Have the Greatest Claim on the Palantíri? ANSWER: I received these questions in December 2022: If Fëanor (or other Elves in […]]]></content>
     </entry>
 </feed>
