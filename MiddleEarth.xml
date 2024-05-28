@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-05-27T17:35:34.644Z</updated>
+    <updated>2024-05-28T05:35:34.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Did the Divisions of the Great Rings Come About?]]></title>
+        <id>https://middle-earth.xenite.org/how-did-the-divisions-of-the-great-rings-come-about/</id>
+        <link href="https://middle-earth.xenite.org/how-did-the-divisions-of-the-great-rings-come-about/"/>
+        <updated>2024-05-28T05:35:33.990Z</updated>
+        <content type="html"><![CDATA[Q: How Did the Divisions of the Great Rings Come About? ANSWER: I received the following inquiry in September 2023: I’ve always been a little […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Could the Balrog of Moria Have Returned?]]></title>
         <id>https://middle-earth.xenite.org/could-the-balrog-of-moria-have-returned/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/why-did-sauron-retreat-from-dol-guldur-in-2941/"/>
         <updated>2024-05-17T05:38:18.947Z</updated>
         <content type="html"><![CDATA[#middleearth #fantasy #tolkien Q: Why Did Sauron Retreat from Dol Guldur in 2951? ANSWER: I received the following questions in March 2022: In TA 2941 […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Would An Eldarin Victory against Morgoth Have Looked Like?]]></title>
-        <id>https://middle-earth.xenite.org/what-would-an-eldarin-victory-against-morgoth-have-looked-like/</id>
-        <link href="https://middle-earth.xenite.org/what-would-an-eldarin-victory-against-morgoth-have-looked-like/"/>
-        <updated>2024-05-17T05:38:18.948Z</updated>
-        <content type="html"><![CDATA[Q: What Would An Eldarin Victory against Morgoth Have Looked Like? ANSWER: If the Eldar had won the battle that became known as the Nirnaeth […]]]></content>
     </entry>
 </feed>
