@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-06-06T05:36:11.477Z</updated>
+    <updated>2024-06-06T17:35:46.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why Were the Valar So Hands Off When It Came To Middle-Earth?]]></title>
+        <id>https://middle-earth.xenite.org/why-were-the-valar-so-hands-off-when-it-came-to-middle-earth/</id>
+        <link href="https://middle-earth.xenite.org/why-were-the-valar-so-hands-off-when-it-came-to-middle-earth/"/>
+        <updated>2024-06-06T17:35:46.062Z</updated>
+        <content type="html"><![CDATA[Q: Why Were the Valar So Hands Off When It Came To Middle-Earth? ANSWER: This question was submitted in September 2022. The full comment reads: […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Does Silver Hair Signify Age among the Elves?]]></title>
         <id>https://middle-earth.xenite.org/does-silver-hair-signify-age-among-the-elves/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/what-special-talents-or-powers-are-attributed-to-the-elves/"/>
         <updated>2024-06-03T17:35:24.307Z</updated>
         <content type="html"><![CDATA[#middleearth #tolkien #fantasy Q: What Special Talents or Powers Are Attributed To the Elves? ANSWER: I received this question in February 2023, exactly as you […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Would Gandalf Have Worn Narya When Confronting Sauron?]]></title>
-        <id>https://middle-earth.xenite.org/would-gandalf-have-worn-narya-when-confronting-sauron/</id>
-        <link href="https://middle-earth.xenite.org/would-gandalf-have-worn-narya-when-confronting-sauron/"/>
-        <updated>2024-06-03T17:35:24.308Z</updated>
-        <content type="html"><![CDATA[Q: Would Gandalf Have Worn Narya When Confronting Sauron? ANSWER: I received this question in followup to the previous article: Do you think Gandalf had […]]]></content>
     </entry>
 </feed>
