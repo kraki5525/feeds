@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-06-13T05:38:14.799Z</updated>
+    <updated>2024-06-13T17:35:45.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Did Isildur Tear Down Barad-dûr?]]></title>
+        <id>https://middle-earth.xenite.org/how-did-isildur-tear-down-barad-dur/</id>
+        <link href="https://middle-earth.xenite.org/how-did-isildur-tear-down-barad-dur/"/>
+        <updated>2024-06-13T17:35:45.261Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: How Did Isildur Tear Down Barad-dûr? ANSWER: A reader submitted the following question in February 2024: I am curious about how […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Short Questions and Answers Volume 10]]></title>
         <id>https://middle-earth.xenite.org/short-questions-and-answers-volume-10/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/what-is-the-precise-scope-of-spirit-in-tolkiens-works/"/>
         <updated>2024-06-03T17:35:24.302Z</updated>
         <content type="html"><![CDATA[Q: What Is the Precise Scope of ‘Spirit’ in Tolkien’s Works? ANSWER: I received the following questions in October 2023: What is the precise scope […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Would Sauron Question Gollum In Person?]]></title>
-        <id>https://middle-earth.xenite.org/why-would-sauron-question-gollum-in-person/</id>
-        <link href="https://middle-earth.xenite.org/why-would-sauron-question-gollum-in-person/"/>
-        <updated>2024-06-03T17:35:24.304Z</updated>
-        <content type="html"><![CDATA[Q: Why Would Sauron Question Gollum In Person? ANSWER: I received this question in January 2024: In “The Shadow of the Past”, Gandalf summarises what […]]]></content>
     </entry>
 </feed>

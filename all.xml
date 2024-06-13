@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-13T05:38:14.805Z</updated>
+    <updated>2024-06-13T17:35:45.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Talia (Wikipedia — did you know?)]]></title>
@@ -30,7 +30,7 @@
         <id>https://en.wikipedia.org/wiki/Let%27s_Talk_About_It_(book)</id>
         <link href="https://en.wikipedia.org/wiki/Let%27s_Talk_About_It_(book)"/>
         <updated>2024-06-13T05:38:07.722Z</updated>
-        <content type="html"><![CDATA[... that a <b><a href="/wiki/Let%27s_Talk_About_It_(book)" title="Let's Talk About It (book)">graphic novel for teens</a></b> was among the 10 most challenged books in the United States in 2023?]]></content>
+        <content type="html"><![CDATA[... that a <b><a href="/wiki/Let%27s_Talk_About_It_(book)" title="Let's Talk About It (book)">graphic novel for teens</a></b> was among the 10 most <a href="/wiki/Book_censorship_in_the_United_States" title="Book censorship in the United States">challenged books</a> in the United States in 2023?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[their second studio album (Wikipedia — did you know?)]]></title>
@@ -66,6 +66,13 @@
         <link href="https://en.wikipedia.org/wiki/John_Wilson_(Arkansas_politician)"/>
         <updated>2024-06-13T05:38:07.744Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/John_Wilson_(Arkansas_politician)" title="John Wilson (Arkansas politician)">John Wilson</a></b> was expelled from the <a href="/wiki/Arkansas_House_of_Representatives" title="Arkansas House of Representatives">Arkansas House of Representatives</a> for killing another representative in a knife fight, but was then re-elected two years later?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Did Isildur Tear Down Barad-dûr? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/how-did-isildur-tear-down-barad-dur/</id>
+        <link href="https://middle-earth.xenite.org/how-did-isildur-tear-down-barad-dur/"/>
+        <updated>2024-06-13T17:35:45.261Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: How Did Isildur Tear Down Barad-dûr? ANSWER: A reader submitted the following question in February 2024: I am curious about how […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Short Questions and Answers Volume 10 (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -171,12 +178,5 @@
         <link href="https://middle-earth.xenite.org/what-is-the-precise-scope-of-spirit-in-tolkiens-works/"/>
         <updated>2024-06-03T17:35:24.302Z</updated>
         <content type="html"><![CDATA[Q: What Is the Precise Scope of ‘Spirit’ in Tolkien’s Works? ANSWER: I received the following questions in October 2023: What is the precise scope […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Would Sauron Question Gollum In Person? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/why-would-sauron-question-gollum-in-person/</id>
-        <link href="https://middle-earth.xenite.org/why-would-sauron-question-gollum-in-person/"/>
-        <updated>2024-06-03T17:35:24.304Z</updated>
-        <content type="html"><![CDATA[Q: Why Would Sauron Question Gollum In Person? ANSWER: I received this question in January 2024: In “The Shadow of the Past”, Gandalf summarises what […]]]></content>
     </entry>
 </feed>
