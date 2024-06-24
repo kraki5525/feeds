@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-06-24T05:36:03.143Z</updated>
+    <updated>2024-06-24T17:35:18.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Is It Wrong To Identify The Beginning of The First Age with The First Sunrise?]]></title>
+        <id>https://middle-earth.xenite.org/is-it-wrong-to-identify-the-beginning-of-the-first-age-with-the-first-sunrise/</id>
+        <link href="https://middle-earth.xenite.org/is-it-wrong-to-identify-the-beginning-of-the-first-age-with-the-first-sunrise/"/>
+        <updated>2024-06-24T17:35:18.043Z</updated>
+        <content type="html"><![CDATA[Q: Is It Wrong To Identify The Beginning of The First Age with The First Sunrise? ANSWER: Many people would insist that, technically, yes, it’s […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Did Gandalf Unmask Wormtongue?]]></title>
         <id>https://middle-earth.xenite.org/how-did-gandalf-unmask-wormtongue/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/how-would-j-r-r-tolkien-have-revised-the-middle-earth-mythology/"/>
         <updated>2024-06-03T17:35:24.299Z</updated>
         <content type="html"><![CDATA[Q: How Would J.R.R. Tolkien Have Revised the Middle-earth Mythology? ANSWER: A reader submitted this question in August 2022: I have seen some people online […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could Gandalf Have Visited Middle-earth in the Second Age?]]></title>
-        <id>https://middle-earth.xenite.org/could-gandalf-have-visited-middle-earth-in-the-second-age/</id>
-        <link href="https://middle-earth.xenite.org/could-gandalf-have-visited-middle-earth-in-the-second-age/"/>
-        <updated>2024-06-03T17:35:24.300Z</updated>
-        <content type="html"><![CDATA[Q: Could Gandalf Have Visited Middle-earth in the Second Age? ANSWER: Yes. Of course. Why not? He was one of the Maiar, free to come […]]]></content>
     </entry>
 </feed>
