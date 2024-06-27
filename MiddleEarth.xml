@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-06-27T05:37:58.676Z</updated>
+    <updated>2024-06-27T17:36:44.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Did the Númenoreans Possess ‘Magic’ Other Men Could Not Wield?]]></title>
+        <id>https://middle-earth.xenite.org/did-the-numenoreans-possess-magic-other-men-could-not-wield/</id>
+        <link href="https://middle-earth.xenite.org/did-the-numenoreans-possess-magic-other-men-could-not-wield/"/>
+        <updated>2024-06-27T17:36:43.678Z</updated>
+        <content type="html"><![CDATA[Q: Did the Númenoreans Possess ‘Magic’ Other Men Could Not Wield? ANSWER: One of the long-running debates among Tolkien fans is whether Men could use […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is It Wrong To Identify The Beginning of The First Age with The First Sunrise?]]></title>
         <id>https://middle-earth.xenite.org/is-it-wrong-to-identify-the-beginning-of-the-first-age-with-the-first-sunrise/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/why-did-elven-populations-not-explode/"/>
         <updated>2024-06-03T17:35:24.297Z</updated>
         <content type="html"><![CDATA[Q: Why Did Elven Populations Not Explode? ANSWER: I received the following comments and question about Elvish population growth in September 2022: Why did Elven […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Would J.R.R. Tolkien Have Revised the Middle-earth Mythology?]]></title>
-        <id>https://middle-earth.xenite.org/how-would-j-r-r-tolkien-have-revised-the-middle-earth-mythology/</id>
-        <link href="https://middle-earth.xenite.org/how-would-j-r-r-tolkien-have-revised-the-middle-earth-mythology/"/>
-        <updated>2024-06-03T17:35:24.299Z</updated>
-        <content type="html"><![CDATA[Q: How Would J.R.R. Tolkien Have Revised the Middle-earth Mythology? ANSWER: A reader submitted this question in August 2022: I have seen some people online […]]]></content>
     </entry>
 </feed>
