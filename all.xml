@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-30T05:35:18.191Z</updated>
+    <updated>2024-06-30T17:35:34.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Brighton Aquarium (Wikipedia — did you know?)]]></title>
@@ -47,13 +47,6 @@
         <content type="html"><![CDATA[... that <b><a href="/wiki/Brittany_Luse" title="Brittany Luse">Brittany Luse</a></b><span class="nowrap">'s</span> podcast <i>The Nod</i> was praised for its exploration of "the diversity and richness of the Black experience"?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hamad City (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Hamad_City</id>
-        <link href="https://en.wikipedia.org/wiki/Hamad_City"/>
-        <updated>2024-06-30T05:35:15.678Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Hamad_City" title="Hamad City">Hamad City</a></b> in Gaza was largely destroyed within minutes?]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1964 New York World's Fair (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/1964_New_York_World%27s_Fair</id>
         <link href="https://en.wikipedia.org/wiki/1964_New_York_World%27s_Fair"/>
@@ -66,5 +59,117 @@
         <link href="https://en.wikipedia.org/wiki/David_Marchese"/>
         <updated>2024-06-30T05:35:15.680Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/David_Marchese" title="David Marchese">David Marchese</a></b> recalled accidentally posting a picture of a cat's testicles on <i><a href="/wiki/Salon.com" title="Salon.com">Salon.com</a></i><span style="padding-left:0.15em;">?</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did the Númenoreans Possess ‘Magic’ Other Men Could Not Wield? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/did-the-numenoreans-possess-magic-other-men-could-not-wield/</id>
+        <link href="https://middle-earth.xenite.org/did-the-numenoreans-possess-magic-other-men-could-not-wield/"/>
+        <updated>2024-06-30T17:35:33.789Z</updated>
+        <content type="html"><![CDATA[Q: Did the Númenoreans Possess ‘Magic’ Other Men Could Not Wield? ANSWER: One of the long-running debates among Tolkien fans is whether Men could use […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is It Wrong To Identify The Beginning of The First Age with The First Sunrise? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/is-it-wrong-to-identify-the-beginning-of-the-first-age-with-the-first-sunrise/</id>
+        <link href="https://middle-earth.xenite.org/is-it-wrong-to-identify-the-beginning-of-the-first-age-with-the-first-sunrise/"/>
+        <updated>2024-06-30T17:35:33.791Z</updated>
+        <content type="html"><![CDATA[Q: Is It Wrong To Identify The Beginning of The First Age with The First Sunrise? ANSWER: Many people would insist that, technically, yes, it’s […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Did Gandalf Unmask Wormtongue? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/how-did-gandalf-unmask-wormtongue/</id>
+        <link href="https://middle-earth.xenite.org/how-did-gandalf-unmask-wormtongue/"/>
+        <updated>2024-06-30T17:35:33.791Z</updated>
+        <content type="html"><![CDATA[Q: How Did Gandalf Unmask Wormtongue? ANSWER: I received this question in September 2023: How did Gandalf unmask Wormtongue? I’ve always thought this was a […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Did Isildur Tear Down Barad-dûr? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/how-did-isildur-tear-down-barad-dur/</id>
+        <link href="https://middle-earth.xenite.org/how-did-isildur-tear-down-barad-dur/"/>
+        <updated>2024-06-30T17:35:33.792Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: How Did Isildur Tear Down Barad-dûr? ANSWER: A reader submitted the following question in February 2024: I am curious about how […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Short Questions and Answers Volume 10 (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/short-questions-and-answers-volume-10/</id>
+        <link href="https://middle-earth.xenite.org/short-questions-and-answers-volume-10/"/>
+        <updated>2024-06-30T17:35:33.792Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Short Questions and Answers Volume 10 ANSWER: Here is another round of questions for which the answers aren’t long enough to […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Were the Valar So Hands Off When It Came To Middle-Earth? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/why-were-the-valar-so-hands-off-when-it-came-to-middle-earth/</id>
+        <link href="https://middle-earth.xenite.org/why-were-the-valar-so-hands-off-when-it-came-to-middle-earth/"/>
+        <updated>2024-06-30T17:35:33.792Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Why Were the Valar So Hands Off When It Came To Middle-Earth? ANSWER: This question was submitted in September 2022. The […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Silver Hair Signify Age among the Elves? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/does-silver-hair-signify-age-among-the-elves/</id>
+        <link href="https://middle-earth.xenite.org/does-silver-hair-signify-age-among-the-elves/"/>
+        <updated>2024-06-30T17:35:33.793Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Does Silver Hair Signify Age among the Elves? ANSWER: This question comes at the end of a long comment about an […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Did the Divisions of the Great Rings Come About? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/how-did-the-divisions-of-the-great-rings-come-about/</id>
+        <link href="https://middle-earth.xenite.org/how-did-the-divisions-of-the-great-rings-come-about/"/>
+        <updated>2024-06-30T17:35:33.794Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: How Did the Divisions of the Great Rings Come About? ANSWER: I received the following inquiry in September 2023: I’ve always […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could the Balrog of Moria Have Returned? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/could-the-balrog-of-moria-have-returned/</id>
+        <link href="https://middle-earth.xenite.org/could-the-balrog-of-moria-have-returned/"/>
+        <updated>2024-06-30T17:35:33.797Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Could the Balrog of Moria Have Returned? ANSWER: Because Fred the Balrog of Moria was a Maia, he (at one time) […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Much Do the Istari Remember about Their Previous Lives as Maiar? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/how-much-do-the-istari-remember-about-their-previous-lives-as-maiar/</id>
+        <link href="https://middle-earth.xenite.org/how-much-do-the-istari-remember-about-their-previous-lives-as-maiar/"/>
+        <updated>2024-06-30T17:35:33.799Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: How Much Do the Istari Remember about Their Previous Lives as Maiar? ANSWER: I received this question in September 2023, exactly […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can We Estimate Eriador’s Historical Populations? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/can-we-estimate-eriadors-historical-populations/</id>
+        <link href="https://middle-earth.xenite.org/can-we-estimate-eriadors-historical-populations/"/>
+        <updated>2024-06-30T17:35:33.800Z</updated>
+        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Can We Estimate Eriador’s Historical Populations? ANSWER: Population estimates for any period or region of Middle-earth are both popular and complete […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Well Did the Istari Honor the Supposed Restrictions Placed on Them? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/how-well-did-the-istari-honor-the-supposed-restrictions-placed-on-them/</id>
+        <link href="https://middle-earth.xenite.org/how-well-did-the-istari-honor-the-supposed-restrictions-placed-on-them/"/>
+        <updated>2024-06-30T17:35:33.802Z</updated>
+        <content type="html"><![CDATA[Q: How Well Did the Istari Honor the Supposed Restrictions Placed on Them? ANSWER: The Istari and the limitations supposedly placed on them should have […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did J.R.R. Tolkien Know about Music Inspired by His Works? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/did-j-r-r-tolkien-know-about-music-inspired-by-his-works/</id>
+        <link href="https://middle-earth.xenite.org/did-j-r-r-tolkien-know-about-music-inspired-by-his-works/"/>
+        <updated>2024-06-30T17:35:33.803Z</updated>
+        <content type="html"><![CDATA[Q: Did J.R.R. Tolkien Know about Music Inspired by His Works? ANSWER: I received this question in June of 2023: …I’m wondering if JRRT ever […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happened to the Nazgûl When the One Ring Was Destroyed? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/what-happened-to-the-nazgul-when-the-one-ring-was-destroyed/</id>
+        <link href="https://middle-earth.xenite.org/what-happened-to-the-nazgul-when-the-one-ring-was-destroyed/"/>
+        <updated>2024-06-30T17:35:33.806Z</updated>
+        <content type="html"><![CDATA[Q: What Happened to the Nazgûl When the One Ring Was Destroyed? ANSWER: A reader submitted this question in January 2023: Sauron has his ring […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Were the Permanent Havens the Númenóreans Built after S.A. 1200? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/where-were-the-permanent-havens-the-numenoreans-built-after-s-a-1200/</id>
+        <link href="https://middle-earth.xenite.org/where-were-the-permanent-havens-the-numenoreans-built-after-s-a-1200/"/>
+        <updated>2024-06-30T17:35:33.809Z</updated>
+        <content type="html"><![CDATA[Q: Where Were the Permanent Havens the Númenóreans Built in the 1200? ANSWER: In November 2022 a reader asked: Where were the permanent havens the […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Did Elven Populations Not Explode? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/why-did-elven-populations-not-explode/</id>
+        <link href="https://middle-earth.xenite.org/why-did-elven-populations-not-explode/"/>
+        <updated>2024-06-30T17:35:33.809Z</updated>
+        <content type="html"><![CDATA[Q: Why Did Elven Populations Not Explode? ANSWER: I received the following comments and question about Elvish population growth in September 2022: Why did Elven […]]]></content>
     </entry>
 </feed>
