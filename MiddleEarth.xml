@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-07-25T05:36:30.886Z</updated>
+    <updated>2024-07-25T17:36:30.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Are the First Age and Elder Days Synonymous?]]></title>
+        <id>https://middle-earth.xenite.org/are-the-first-age-and-elder-days-synonymous/</id>
+        <link href="https://middle-earth.xenite.org/are-the-first-age-and-elder-days-synonymous/"/>
+        <updated>2024-07-25T17:36:29.580Z</updated>
+        <content type="html"><![CDATA[Q: Are the First Age and Elder Days Synonymous? ANSWER: This is an old question among Tolkien fans, and one which most people would deem […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ph.d. Student Seeks Tolkien Fans for Survey]]></title>
         <id>https://middle-earth.xenite.org/phd-student-seeks-tolkien-fans-for-survey/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/how-much-do-the-istari-remember-about-their-previous-lives-as-maiar/"/>
         <updated>2024-07-19T05:36:51.847Z</updated>
         <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: How Much Do the Istari Remember about Their Previous Lives as Maiar? ANSWER: I received this question in September 2023, exactly […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can We Estimate Eriador’s Historical Populations?]]></title>
-        <id>https://middle-earth.xenite.org/can-we-estimate-eriadors-historical-populations/</id>
-        <link href="https://middle-earth.xenite.org/can-we-estimate-eriadors-historical-populations/"/>
-        <updated>2024-07-19T05:36:51.848Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Can We Estimate Eriador’s Historical Populations? ANSWER: Population estimates for any period or region of Middle-earth are both popular and complete […]]]></content>
     </entry>
 </feed>
