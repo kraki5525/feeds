@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-08-05T05:37:50.692Z</updated>
+    <updated>2024-08-05T17:37:19.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why Did Characters Stop Talking about Mordor in Mid-conversation?]]></title>
+        <id>https://middle-earth.xenite.org/why-did-characters-stop-talking-about-mordor-in-mid-conversation/</id>
+        <link href="https://middle-earth.xenite.org/why-did-characters-stop-talking-about-mordor-in-mid-conversation/"/>
+        <updated>2024-08-05T17:37:18.888Z</updated>
+        <content type="html"><![CDATA[Q: Why Did Characters Stop Talking about Mordor in Mid-conversation? ANSWER: A reader submitted this question in September 2023: At various times in the story, […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Questions about Time in Middle-earth]]></title>
         <id>https://middle-earth.xenite.org/questions-about-time-in-middle-earth/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/how-did-the-divisions-of-the-great-rings-come-about/"/>
         <updated>2024-07-26T17:35:48.281Z</updated>
         <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: How Did the Divisions of the Great Rings Come About? ANSWER: I received the following inquiry in September 2023: I’ve always […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could the Balrog of Moria Have Returned?]]></title>
-        <id>https://middle-earth.xenite.org/could-the-balrog-of-moria-have-returned/</id>
-        <link href="https://middle-earth.xenite.org/could-the-balrog-of-moria-have-returned/"/>
-        <updated>2024-07-26T17:35:48.281Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Could the Balrog of Moria Have Returned? ANSWER: Because Fred the Balrog of Moria was a Maia, he (at one time) […]]]></content>
     </entry>
 </feed>
