@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-08-08T17:36:22.792Z</updated>
+    <updated>2024-08-09T05:37:06.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why Are There So Few ‘Good Guys’ In Middle-earth?]]></title>
+        <id>https://middle-earth.xenite.org/why-are-there-so-few-good-guys-in-middle-earth/</id>
+        <link href="https://middle-earth.xenite.org/why-are-there-so-few-good-guys-in-middle-earth/"/>
+        <updated>2024-08-09T05:37:06.337Z</updated>
+        <content type="html"><![CDATA[Q: Why Are There So Few ‘Good Guys’ In Middle-earth? ANSWER: Across the decades people occasionally ask “where is everyone” or “why are there so […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Did Characters Stop Talking about Mordor in Mid-conversation?]]></title>
         <id>https://middle-earth.xenite.org/why-did-characters-stop-talking-about-mordor-in-mid-conversation/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/does-silver-hair-signify-age-among-the-elves/"/>
         <updated>2024-07-26T17:35:48.281Z</updated>
         <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Does Silver Hair Signify Age among the Elves? ANSWER: This question comes at the end of a long comment about an […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Did the Divisions of the Great Rings Come About?]]></title>
-        <id>https://middle-earth.xenite.org/how-did-the-divisions-of-the-great-rings-come-about/</id>
-        <link href="https://middle-earth.xenite.org/how-did-the-divisions-of-the-great-rings-come-about/"/>
-        <updated>2024-07-26T17:35:48.281Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: How Did the Divisions of the Great Rings Come About? ANSWER: I received the following inquiry in September 2023: I’ve always […]]]></content>
     </entry>
 </feed>
