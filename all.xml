@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-26T05:37:34.882Z</updated>
+    <updated>2024-08-26T17:36:21.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Charles De Geer (Wikipedia — did you know?)]]></title>
@@ -65,7 +65,14 @@
         <id>https://en.wikipedia.org/wiki/Oedipus_(opera)</id>
         <link href="https://en.wikipedia.org/wiki/Oedipus_(opera)"/>
         <updated>2024-08-26T05:37:29.982Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Wolfgang_Rihm" title="Wolfgang Rihm">Wolfgang Rihm</a> said of the music of his 1987 opera <i><b><a href="/wiki/Oedipus_(opera)" title="Oedipus (opera)">Oedipus</a></b></i>: "Sound is a weapon here&nbsp;– or a scalpel"?]]></content>
+        <content type="html"><![CDATA[... that <a href="/wiki/Wolfgang_Rihm" title="Wolfgang Rihm">Wolfgang Rihm</a> asked of the music of his 1987 opera <i><b><a href="/wiki/Oedipus_(opera)" title="Oedipus (opera)">Oedipus</a></b></i>: "Sound is a weapon here&nbsp;– or a scalpel?"]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was J.R.R. Tolkien A Fascist? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/was-j-r-r-tolkien-a-fascist/</id>
+        <link href="https://middle-earth.xenite.org/was-j-r-r-tolkien-a-fascist/"/>
+        <updated>2024-08-26T17:36:20.780Z</updated>
+        <content type="html"><![CDATA[Q: Was J.R.R. Tolkien A Fascist? ANSWER: No, J.R.R. Tolkien was not a fascist. However, the idea seems to be a popular myth among YouTubers […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why Are There So Few ‘Good Guys’ In Middle-earth? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -171,12 +178,5 @@
         <link href="https://middle-earth.xenite.org/why-were-the-valar-so-hands-off-when-it-came-to-middle-earth/"/>
         <updated>2024-08-25T05:37:34.672Z</updated>
         <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Why Were the Valar So Hands Off When It Came To Middle-Earth? ANSWER: This question was submitted in September 2022. The […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Silver Hair Signify Age among the Elves? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/does-silver-hair-signify-age-among-the-elves/</id>
-        <link href="https://middle-earth.xenite.org/does-silver-hair-signify-age-among-the-elves/"/>
-        <updated>2024-08-25T05:37:34.673Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Does Silver Hair Signify Age among the Elves? ANSWER: This question comes at the end of a long comment about an […]]]></content>
     </entry>
 </feed>
