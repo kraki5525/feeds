@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-16T05:40:26.745Z</updated>
+    <updated>2024-09-16T17:40:14.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[National Hospital Service Reserve (Wikipedia — did you know?)]]></title>
@@ -66,6 +66,13 @@
         <link href="https://en.wikipedia.org/wiki/Oghul_Qaimish"/>
         <updated>2024-09-16T05:40:21.230Z</updated>
         <content type="html"><![CDATA[... that the regent of the <a href="/wiki/Mongol_Empire" title="Mongol Empire">Mongol Empire</a> between 1248 and 1251 was named "<b><a href="/wiki/Oghul_Qaimish" title="Oghul Qaimish">We Were Searching for a Boy</a></b>"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Were the Powers of the Great Rings? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/what-were-the-powers-of-the-great-rings/</id>
+        <link href="https://middle-earth.xenite.org/what-were-the-powers-of-the-great-rings/"/>
+        <updated>2024-09-16T17:40:13.438Z</updated>
+        <content type="html"><![CDATA[Q: What Were the Powers of the Great Rings? ANSWER: I’ve been asked this question many times through the years, and though I’ve answered it […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Was J.R.R. Tolkien A Fascist? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -171,12 +178,5 @@
         <link href="https://middle-earth.xenite.org/short-questions-and-answers-volume-10/"/>
         <updated>2024-09-15T17:36:23.079Z</updated>
         <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Short Questions and Answers Volume 10 ANSWER: Here is another round of questions for which the answers aren’t long enough to […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Were the Valar So Hands Off When It Came To Middle-Earth? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/why-were-the-valar-so-hands-off-when-it-came-to-middle-earth/</id>
-        <link href="https://middle-earth.xenite.org/why-were-the-valar-so-hands-off-when-it-came-to-middle-earth/"/>
-        <updated>2024-09-15T17:36:23.079Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Why Were the Valar So Hands Off When It Came To Middle-Earth? ANSWER: This question was submitted in September 2022. The […]]]></content>
     </entry>
 </feed>
