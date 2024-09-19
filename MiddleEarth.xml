@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-09-19T05:38:32.633Z</updated>
+    <updated>2024-09-19T17:37:45.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Did J.R.R. Tolkien Confirm That Aragorn Was Beardless?]]></title>
+        <id>https://middle-earth.xenite.org/did-j-r-r-tolkien-confirm-that-aragorn-was-beardless/</id>
+        <link href="https://middle-earth.xenite.org/did-j-r-r-tolkien-confirm-that-aragorn-was-beardless/"/>
+        <updated>2024-09-19T17:37:45.132Z</updated>
+        <content type="html"><![CDATA[Q: Did J.R.R. Tolkien Confirm That Aragorn Was Beardless? ANSWER: In March 2022 Alex Perry shared an interesting anecdote on X/Twitter: “I recently discovered that […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Were the Powers of the Great Rings?]]></title>
         <id>https://middle-earth.xenite.org/what-were-the-powers-of-the-great-rings/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/how-did-isildur-tear-down-barad-dur/"/>
         <updated>2024-09-15T17:36:23.076Z</updated>
         <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: How Did Isildur Tear Down Barad-dûr? ANSWER: A reader submitted the following question in February 2024: I am curious about how […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Short Questions and Answers Volume 10]]></title>
-        <id>https://middle-earth.xenite.org/short-questions-and-answers-volume-10/</id>
-        <link href="https://middle-earth.xenite.org/short-questions-and-answers-volume-10/"/>
-        <updated>2024-09-15T17:36:23.079Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: Short Questions and Answers Volume 10 ANSWER: Here is another round of questions for which the answers aren’t long enough to […]]]></content>
     </entry>
 </feed>
