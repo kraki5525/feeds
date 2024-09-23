@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-09-23T05:39:10.709Z</updated>
+    <updated>2024-09-23T17:38:09.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Has Amazon Changed Middle-earth Canon?]]></title>
+        <id>https://middle-earth.xenite.org/how-has-amazon-changed-middle-earth-canon/</id>
+        <link href="https://middle-earth.xenite.org/how-has-amazon-changed-middle-earth-canon/"/>
+        <updated>2024-09-23T17:38:09.112Z</updated>
+        <content type="html"><![CDATA[Q: How Has Amazon Changed Middle-earth Canon? ANSWER: This question has also been phrased as “Is Amazon’s Rings of Power canon middle earth?” The short […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did J.R.R. Tolkien Confirm That Aragorn Was Beardless?]]></title>
         <id>https://middle-earth.xenite.org/did-j-r-r-tolkien-confirm-that-aragorn-was-beardless/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/how-did-gandalf-unmask-wormtongue/"/>
         <updated>2024-09-23T05:39:10.063Z</updated>
         <content type="html"><![CDATA[Q: How Did Gandalf Unmask Wormtongue? ANSWER: I received this question in September 2023: How did Gandalf unmask Wormtongue? I’ve always thought this was a […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Did Isildur Tear Down Barad-dûr?]]></title>
-        <id>https://middle-earth.xenite.org/how-did-isildur-tear-down-barad-dur/</id>
-        <link href="https://middle-earth.xenite.org/how-did-isildur-tear-down-barad-dur/"/>
-        <updated>2024-09-23T05:39:10.063Z</updated>
-        <content type="html"><![CDATA[#tolkien #middleearth #fantasy Q: How Did Isildur Tear Down Barad-dûr? ANSWER: A reader submitted the following question in February 2024: I am curious about how […]]]></content>
     </entry>
 </feed>
