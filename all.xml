@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-03T05:39:34.056Z</updated>
+    <updated>2024-10-03T17:39:23.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Anders Årfelt (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Anders_%C3%85rfelt</id>
         <link href="https://en.wikipedia.org/wiki/Anders_%C3%85rfelt"/>
         <updated>2024-10-03T05:39:28.815Z</updated>
-        <content type="html"><![CDATA[... that after some of <b><a href="/wiki/Anders_%C3%85rfelt" title="Anders Årfelt">Anders Årfelt</a></b><span class="nowrap">'s</span> lion sculptures <i>(example pictured)</i> were struck during the <a href="/wiki/2017_Stockholm_truck_attack" title="2017 Stockholm truck attack">2017 Stockholm truck attack</a>, the city ordered new versions weighing 3 tonnes?]]></content>
+        <content type="html"><![CDATA[... that after some of <b><a href="/wiki/Anders_%C3%85rfelt" title="Anders Årfelt">Anders Årfelt</a></b><span class="nowrap">'s</span> lion sculptures <i>(example pictured)</i> were struck during the <a href="/wiki/2017_Stockholm_truck_attack" title="2017 Stockholm truck attack">2017 Stockholm truck attack</a>, the city ordered new versions weighing 3&nbsp;tonnes?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Benoit Blin (Wikipedia — did you know?)]]></title>
@@ -66,6 +66,13 @@
         <link href="https://en.wikipedia.org/wiki/1939_New_York_World%27s_Fair_pavilions_and_attractions"/>
         <updated>2024-10-03T05:39:28.837Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/1939_New_York_World%27s_Fair_pavilions_and_attractions" title="1939 New York World's Fair pavilions and attractions">attractions at the 1939 World's Fair</a></b> included a roller coaster, a ski slope, and scantily clad women?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happened To All The Úmaiar After Morgoth’s Defeat? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/what-happened-to-all-the-umaiar-after-morgoths-defeat/</id>
+        <link href="https://middle-earth.xenite.org/what-happened-to-all-the-umaiar-after-morgoths-defeat/"/>
+        <updated>2024-10-03T17:39:22.829Z</updated>
+        <content type="html"><![CDATA[Q: What Happened To All The Úmaiar After Morgoth’s Defeat? ANSWER: I received the following questions from a reader in October 2023: It is common […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Did Aragorn Know Legolas Before the Fellowship? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -171,12 +178,5 @@
         <link href="https://middle-earth.xenite.org/are-j-r-r-tolkiens-orcs-genetically-evil/"/>
         <updated>2024-09-25T17:38:12.755Z</updated>
         <content type="html"><![CDATA[Q: Are J.R.R. Tolkien’s Orcs Genetically Evil? ANSWER: This question comes straight out of an online discussion which wandered all over the place. I decided […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did the Númenoreans Possess ‘Magic’ Other Men Could Not Wield? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/did-the-numenoreans-possess-magic-other-men-could-not-wield/</id>
-        <link href="https://middle-earth.xenite.org/did-the-numenoreans-possess-magic-other-men-could-not-wield/"/>
-        <updated>2024-09-25T17:38:12.756Z</updated>
-        <content type="html"><![CDATA[Q: Did the Númenoreans Possess ‘Magic’ Other Men Could Not Wield? ANSWER: One of the long-running debates among Tolkien fans is whether Men could use […]]]></content>
     </entry>
 </feed>

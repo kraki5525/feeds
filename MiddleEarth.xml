@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-10-03T05:39:34.061Z</updated>
+    <updated>2024-10-03T17:39:23.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What Happened To All The Úmaiar After Morgoth’s Defeat?]]></title>
+        <id>https://middle-earth.xenite.org/what-happened-to-all-the-umaiar-after-morgoths-defeat/</id>
+        <link href="https://middle-earth.xenite.org/what-happened-to-all-the-umaiar-after-morgoths-defeat/"/>
+        <updated>2024-10-03T17:39:22.829Z</updated>
+        <content type="html"><![CDATA[Q: What Happened To All The Úmaiar After Morgoth’s Defeat? ANSWER: I received the following questions from a reader in October 2023: It is common […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did Aragorn Know Legolas Before the Fellowship?]]></title>
         <id>https://middle-earth.xenite.org/did-aragorn-know-legolas-before-the-fellowship/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/are-j-r-r-tolkiens-orcs-genetically-evil/"/>
         <updated>2024-09-25T17:38:12.755Z</updated>
         <content type="html"><![CDATA[Q: Are J.R.R. Tolkien’s Orcs Genetically Evil? ANSWER: This question comes straight out of an online discussion which wandered all over the place. I decided […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did the Númenoreans Possess ‘Magic’ Other Men Could Not Wield?]]></title>
-        <id>https://middle-earth.xenite.org/did-the-numenoreans-possess-magic-other-men-could-not-wield/</id>
-        <link href="https://middle-earth.xenite.org/did-the-numenoreans-possess-magic-other-men-could-not-wield/"/>
-        <updated>2024-09-25T17:38:12.756Z</updated>
-        <content type="html"><![CDATA[Q: Did the Númenoreans Possess ‘Magic’ Other Men Could Not Wield? ANSWER: One of the long-running debates among Tolkien fans is whether Men could use […]]]></content>
     </entry>
 </feed>
