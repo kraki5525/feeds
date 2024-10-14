@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-14T05:39:59.772Z</updated>
+    <updated>2024-10-14T17:39:09.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Niederdollendorf stone (Wikipedia — did you know?)]]></title>
@@ -19,11 +19,11 @@
         <content type="html"><![CDATA[... that composer <b><a href="/wiki/Gonzalo_Brenes" title="Gonzalo Brenes">Gonzalo Brenes</a></b> was a politician in the <a href="/wiki/National_Assembly_(Panama)" title="National Assembly (Panama)">National Assembly</a> of Panama and served for seven years as Panama's secretary of culture?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1961 Pittsburg State Gorillas (Wikipedia — did you know?)]]></title>
+        <title type="html"><![CDATA[1961 Pittsburg State Gorillas football team (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/1961_Pittsburg_State_Gorillas_football_team</id>
         <link href="https://en.wikipedia.org/wiki/1961_Pittsburg_State_Gorillas_football_team"/>
         <updated>2024-10-14T05:39:54.423Z</updated>
-        <content type="html"><![CDATA[... that the undefeated <b><a href="/wiki/1961_Pittsburg_State_Gorillas_football_team" title="1961 Pittsburg State Gorillas football team">1961 Pittsburg State Gorillas</a></b> <a href="/wiki/Shutout" title="Shutout">shut out</a> seven opponents, featured four <a href="/wiki/All-America" title="All-America">All-Americans</a>, and won three national championships?]]></content>
+        <content type="html"><![CDATA[... that the undefeated <b><a href="/wiki/1961_Pittsburg_State_Gorillas_football_team" title="1961 Pittsburg State Gorillas football team">1961 Pittsburg State Gorillas football team</a></b> <a href="/wiki/Shutout" title="Shutout">shut out</a> seven opponents, featured four <a href="/wiki/All-America" title="All-America">All-Americans</a>, and won three national championships?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cathy Merrick (Wikipedia — did you know?)]]></title>
@@ -66,6 +66,13 @@
         <link href="https://en.wikipedia.org/wiki/Sainsbury%27s,_Greenwich"/>
         <updated>2024-10-14T05:39:54.434Z</updated>
         <content type="html"><![CDATA[... that South African president <a href="/wiki/Jacob_Zuma" title="Jacob Zuma">Jacob Zuma</a> requested a tour of <b><a href="/wiki/Sainsbury%27s,_Greenwich" title="Sainsbury's, Greenwich">a Sainsbury's supermarket</a></b> during his state visit to the United Kingdom in 2010?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Did the First Age of Middle-earth Begin? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/when-did-the-first-age-of-middle-earth-begin/</id>
+        <link href="https://middle-earth.xenite.org/when-did-the-first-age-of-middle-earth-begin/"/>
+        <updated>2024-10-14T17:39:09.064Z</updated>
+        <content type="html"><![CDATA[Q: When Did the First Age of Middle-earth Begin? ANSWER: I’ve debated how to handle this question, as I haven’t written any articles that specifically […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[What Happened To All The Úmaiar After Morgoth’s Defeat? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -171,12 +178,5 @@
         <link href="https://middle-earth.xenite.org/where-did-bombadil-live-in-the-second-age/"/>
         <updated>2024-10-12T05:38:17.687Z</updated>
         <content type="html"><![CDATA[Q: Where Did Bombadil Live in the Second Age? ANSWER: This question was inspired by fan discussions around the Amazon show. Amazon’s Lord of the […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are J.R.R. Tolkien’s Orcs Genetically Evil? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/are-j-r-r-tolkiens-orcs-genetically-evil/</id>
-        <link href="https://middle-earth.xenite.org/are-j-r-r-tolkiens-orcs-genetically-evil/"/>
-        <updated>2024-10-12T05:38:17.688Z</updated>
-        <content type="html"><![CDATA[Q: Are J.R.R. Tolkien’s Orcs Genetically Evil? ANSWER: This question comes straight out of an online discussion which wandered all over the place. I decided […]]]></content>
     </entry>
 </feed>
