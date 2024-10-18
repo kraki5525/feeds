@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-18T05:40:05.314Z</updated>
+    <updated>2024-10-18T17:38:09.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Ferrari FF (Wikipedia — did you know?)]]></title>
@@ -66,6 +66,13 @@
         <link href="https://en.wikipedia.org/wiki/Tonia_Ko"/>
         <updated>2024-10-18T05:40:00.395Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/Tonia_Ko" title="Tonia Ko">Tonia Ko</a></b> once composed a three-part concerto played on <a href="/wiki/Bubble_wrap" title="Bubble wrap">bubble wrap</a>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happened To The Three Rings In Aman? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/what-happened-to-the-three-rings-in-aman/</id>
+        <link href="https://middle-earth.xenite.org/what-happened-to-the-three-rings-in-aman/"/>
+        <updated>2024-10-18T17:38:08.971Z</updated>
+        <content type="html"><![CDATA[Q: What Happened To The Three Rings In Aman? ANSWER: I received the following request in November 2023: What became of the Three Elven-Rings when […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[When Did the First Age of Middle-earth Begin? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -171,12 +178,5 @@
         <link href="https://middle-earth.xenite.org/how-would-j-r-r-tolkien-have-gotten-the-red-book-of-westmarch/"/>
         <updated>2024-10-12T05:38:17.686Z</updated>
         <content type="html"><![CDATA[Q: How Would J.R.R. Tolkien Have Gotten the Red Book of Westmarch? ANSWER: I have rewritten this question, which was posed to me a few […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Did Bombadil Live in the Second Age? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/where-did-bombadil-live-in-the-second-age/</id>
-        <link href="https://middle-earth.xenite.org/where-did-bombadil-live-in-the-second-age/"/>
-        <updated>2024-10-12T05:38:17.687Z</updated>
-        <content type="html"><![CDATA[Q: Where Did Bombadil Live in the Second Age? ANSWER: This question was inspired by fan discussions around the Amazon show. Amazon’s Lord of the […]]]></content>
     </entry>
 </feed>
