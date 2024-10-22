@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-10-21T17:38:26.638Z</updated>
+    <updated>2024-10-22T05:39:24.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What Was Second Age Hobbit Society Like?]]></title>
+        <id>https://middle-earth.xenite.org/what-was-second-age-hobbit-society-like/</id>
+        <link href="https://middle-earth.xenite.org/what-was-second-age-hobbit-society-like/"/>
+        <updated>2024-10-22T05:39:24.040Z</updated>
+        <content type="html"><![CDATA[Q: What Was Second Age Hobbit Society Like? ANSWER: This question was posed in several ways over the past few years, not always in response […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Happened To The Three Rings In Aman?]]></title>
         <id>https://middle-earth.xenite.org/what-happened-to-the-three-rings-in-aman/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/how-did-tom-bombadil-rescue-frodo-so-quickly/"/>
         <updated>2024-10-12T05:38:17.685Z</updated>
         <content type="html"><![CDATA[Q: How Did Tom Bombadil Rescue Frodo So Quickly? ANSWER: I received this question in September 2023: When Frodo was trapped by the Barrow Wights […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Would J.R.R. Tolkien Have Gotten the Red Book of Westmarch?]]></title>
-        <id>https://middle-earth.xenite.org/how-would-j-r-r-tolkien-have-gotten-the-red-book-of-westmarch/</id>
-        <link href="https://middle-earth.xenite.org/how-would-j-r-r-tolkien-have-gotten-the-red-book-of-westmarch/"/>
-        <updated>2024-10-12T05:38:17.686Z</updated>
-        <content type="html"><![CDATA[Q: How Would J.R.R. Tolkien Have Gotten the Red Book of Westmarch? ANSWER: I have rewritten this question, which was posed to me a few […]]]></content>
     </entry>
 </feed>
