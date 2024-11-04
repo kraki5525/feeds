@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-11-04T05:39:44.998Z</updated>
+    <updated>2024-11-04T17:37:37.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What Was the Significance of Air, Fire, and Water for the Three Rings?]]></title>
+        <id>https://middle-earth.xenite.org/what-was-the-significance-of-air-fire-and-water-for-the-three-rings/</id>
+        <link href="https://middle-earth.xenite.org/what-was-the-significance-of-air-fire-and-water-for-the-three-rings/"/>
+        <updated>2024-11-04T17:37:36.661Z</updated>
+        <content type="html"><![CDATA[Q: What Was the Significance of Air, Fire, and Water for the Three Rings? ANSWER: I received the following question in December 2023: One thing […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Was Second Age Hobbit Society Like?]]></title>
         <id>https://middle-earth.xenite.org/what-was-second-age-hobbit-society-like/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/phd-student-seeks-tolkien-fans-for-survey/"/>
         <updated>2024-10-31T17:40:06.187Z</updated>
         <content type="html"><![CDATA[We interrupt our regularly scheduled blogging because I’ve run out of time to research the next question. But never fear, I received a request for […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Did Tom Bombadil Rescue Frodo So Quickly?]]></title>
-        <id>https://middle-earth.xenite.org/how-did-tom-bombadil-rescue-frodo-so-quickly/</id>
-        <link href="https://middle-earth.xenite.org/how-did-tom-bombadil-rescue-frodo-so-quickly/"/>
-        <updated>2024-10-31T17:40:06.188Z</updated>
-        <content type="html"><![CDATA[Q: How Did Tom Bombadil Rescue Frodo So Quickly? ANSWER: I received this question in September 2023: When Frodo was trapped by the Barrow Wights […]]]></content>
     </entry>
 </feed>
