@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-11-07T05:38:24.283Z</updated>
+    <updated>2024-11-07T17:37:10.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Questions About Sauron]]></title>
+        <id>https://middle-earth.xenite.org/questions-about-sauron/</id>
+        <link href="https://middle-earth.xenite.org/questions-about-sauron/"/>
+        <updated>2024-11-07T17:37:10.017Z</updated>
+        <content type="html"><![CDATA[Q: Questions About Sauron ANSWER: I received the following question in December 2023: Is there any kind of overlap between the Eye of Sauron and […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Was the Significance of Air, Fire, and Water for the Three Rings?]]></title>
         <id>https://middle-earth.xenite.org/what-was-the-significance-of-air-fire-and-water-for-the-three-rings/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/are-the-first-age-and-elder-days-synonymous/"/>
         <updated>2024-11-06T17:38:17.846Z</updated>
         <content type="html"><![CDATA[Q: Are the First Age and Elder Days Synonymous? ANSWER: This is an old question among Tolkien fans, and one which most people would deem […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ph.d. Student Seeks Tolkien Fans for Survey]]></title>
-        <id>https://middle-earth.xenite.org/phd-student-seeks-tolkien-fans-for-survey/</id>
-        <link href="https://middle-earth.xenite.org/phd-student-seeks-tolkien-fans-for-survey/"/>
-        <updated>2024-11-06T17:38:17.846Z</updated>
-        <content type="html"><![CDATA[We interrupt our regularly scheduled blogging because I’ve run out of time to research the next question. But never fear, I received a request for […]]]></content>
     </entry>
 </feed>

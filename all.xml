@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-07T05:38:24.277Z</updated>
+    <updated>2024-11-07T17:37:10.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The True Record (Wikipedia — did you know?)]]></title>
@@ -66,6 +66,13 @@
         <link href="https://en.wikipedia.org/wiki/Vivian_Stranders"/>
         <updated>2024-11-07T05:38:19.333Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/Vivian_Stranders" title="Vivian Stranders">Vivian Stranders</a></b>, a British-born Jew, served as an officer in the Nazi SS?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions About Sauron (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/questions-about-sauron/</id>
+        <link href="https://middle-earth.xenite.org/questions-about-sauron/"/>
+        <updated>2024-11-07T17:37:10.017Z</updated>
+        <content type="html"><![CDATA[Q: Questions About Sauron ANSWER: I received the following question in December 2023: Is there any kind of overlap between the Eye of Sauron and […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[What Was the Significance of Air, Fire, and Water for the Three Rings? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -171,12 +178,5 @@
         <link href="https://middle-earth.xenite.org/are-the-first-age-and-elder-days-synonymous/"/>
         <updated>2024-11-06T17:38:17.846Z</updated>
         <content type="html"><![CDATA[Q: Are the First Age and Elder Days Synonymous? ANSWER: This is an old question among Tolkien fans, and one which most people would deem […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ph.d. Student Seeks Tolkien Fans for Survey (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/phd-student-seeks-tolkien-fans-for-survey/</id>
-        <link href="https://middle-earth.xenite.org/phd-student-seeks-tolkien-fans-for-survey/"/>
-        <updated>2024-11-06T17:38:17.846Z</updated>
-        <content type="html"><![CDATA[We interrupt our regularly scheduled blogging because I’ve run out of time to research the next question. But never fear, I received a request for […]]]></content>
     </entry>
 </feed>
