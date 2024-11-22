@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-11-21T17:39:34.627Z</updated>
+    <updated>2024-11-22T05:40:25.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Many Immigration Events Are There In Middle-earth?]]></title>
+        <id>https://middle-earth.xenite.org/how-many-immigration-events-are-there-in-middle-earth/</id>
+        <link href="https://middle-earth.xenite.org/how-many-immigration-events-are-there-in-middle-earth/"/>
+        <updated>2024-11-22T05:40:25.089Z</updated>
+        <content type="html"><![CDATA[Q: How Many Immigration Events Are There In Middle-earth? ANSWER: I received the following request in March 2024: I wanted to ask you, what do […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Were Any Palantíri Unaccounted for In The Lord of the Rings?]]></title>
         <id>https://middle-earth.xenite.org/were-any-palantiri-unaccounted-for-in-the-lord-of-the-rings/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/why-are-there-so-few-good-guys-in-middle-earth/"/>
         <updated>2024-11-20T05:40:19.695Z</updated>
         <content type="html"><![CDATA[Q: Why Are There So Few ‘Good Guys’ In Middle-earth? ANSWER: Across the decades people occasionally ask “where is everyone” or “why are there so […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Did Characters Stop Talking about Mordor in Mid-conversation?]]></title>
-        <id>https://middle-earth.xenite.org/why-did-characters-stop-talking-about-mordor-in-mid-conversation/</id>
-        <link href="https://middle-earth.xenite.org/why-did-characters-stop-talking-about-mordor-in-mid-conversation/"/>
-        <updated>2024-11-20T05:40:19.697Z</updated>
-        <content type="html"><![CDATA[Q: Why Did Characters Stop Talking about Mordor in Mid-conversation? ANSWER: A reader submitted this question in September 2023: At various times in the story, […]]]></content>
     </entry>
 </feed>
