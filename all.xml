@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-26T05:40:29.040Z</updated>
+    <updated>2024-11-26T17:39:56.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Kiki Wong (Wikipedia — did you know?)]]></title>
@@ -12,11 +12,11 @@
         <content type="html"><![CDATA[... that heavy-metal guitarist <b><a href="/wiki/Kiki_Wong" title="Kiki Wong">Kiki Wong</a></b> <i>(pictured)</i> played drums for Taylor Swift before joining <a href="/wiki/The_Smashing_Pumpkins" title="The Smashing Pumpkins">the Smashing Pumpkins</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Indonesia was the largest exporter of tea (Wikipedia — did you know?)]]></title>
+        <title type="html"><![CDATA[the Dutch East Indies was the third-largest exporter of tea (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Tea_production_in_Indonesia</id>
         <link href="https://en.wikipedia.org/wiki/Tea_production_in_Indonesia"/>
         <updated>2024-11-26T05:40:24.059Z</updated>
-        <content type="html"><![CDATA[... that during the <a href="/wiki/Dutch_East_Indies" title="Dutch East Indies">colonial period</a>, <b><a href="/wiki/Tea_production_in_Indonesia" title="Tea production in Indonesia">Indonesia was the largest exporter of tea</a></b> outside of the <a href="/wiki/British_Raj" title="British Raj">British Raj</a> and <a href="/wiki/Sri_Lanka" title="Sri Lanka">Ceylon</a>?]]></content>
+        <content type="html"><![CDATA[... that during the <a href="/wiki/Dutch_East_Indies" title="Dutch East Indies">colonial period</a>, <b><a href="/wiki/Tea_production_in_Indonesia" title="Tea production in Indonesia">the Dutch East Indies was the third-largest exporter of tea</a></b> after the <a href="/wiki/British_Raj" title="British Raj">British Raj</a> and <a href="/wiki/Sri_Lanka" title="Sri Lanka">Ceylon</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Eating Out 2: Sloppy Seconds (Wikipedia — did you know?)]]></title>
@@ -66,6 +66,13 @@
         <link href="https://en.wikipedia.org/wiki/All-Russian_Union_of_Assyrians_%22Khoyad-Atur%22"/>
         <updated>2024-11-26T05:40:24.069Z</updated>
         <content type="html"><![CDATA[... that the <b><a href="/wiki/All-Russian_Union_of_Assyrians_%22Khoyad-Atur%22" title="All-Russian Union of Assyrians &quot;Khoyad-Atur&quot;">Union of Assyrians</a></b><span class="nowrap">'s</span> mishandling of shoe-polishing stations led to violent conflicts in 1920s Moscow?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Was Eärendil Born In Gondolin? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/where-was-earendil-born-in-gondolin/</id>
+        <link href="https://middle-earth.xenite.org/where-was-earendil-born-in-gondolin/"/>
+        <updated>2024-11-26T17:39:56.108Z</updated>
+        <content type="html"><![CDATA[Q: Where Was Eärendil Born In Gondolin? ANSWER: A reader submitted this question about “Lay of the Fall of Gondolin”, which was finally fully (sort […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How Many Immigration Events Are There In Middle-earth? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -171,12 +178,5 @@
         <link href="https://middle-earth.xenite.org/was-j-r-r-tolkien-a-fascist/"/>
         <updated>2024-11-20T05:40:19.694Z</updated>
         <content type="html"><![CDATA[Q: Was J.R.R. Tolkien A Fascist? ANSWER: No, J.R.R. Tolkien was not a fascist. However, the idea seems to be a popular myth among YouTubers […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Are There So Few ‘Good Guys’ In Middle-earth? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/why-are-there-so-few-good-guys-in-middle-earth/</id>
-        <link href="https://middle-earth.xenite.org/why-are-there-so-few-good-guys-in-middle-earth/"/>
-        <updated>2024-11-20T05:40:19.695Z</updated>
-        <content type="html"><![CDATA[Q: Why Are There So Few ‘Good Guys’ In Middle-earth? ANSWER: Across the decades people occasionally ask “where is everyone” or “why are there so […]]]></content>
     </entry>
 </feed>

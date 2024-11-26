@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-11-26T05:40:29.038Z</updated>
+    <updated>2024-11-26T17:39:56.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Where Was Eärendil Born In Gondolin?]]></title>
+        <id>https://middle-earth.xenite.org/where-was-earendil-born-in-gondolin/</id>
+        <link href="https://middle-earth.xenite.org/where-was-earendil-born-in-gondolin/"/>
+        <updated>2024-11-26T17:39:56.108Z</updated>
+        <content type="html"><![CDATA[Q: Where Was Eärendil Born In Gondolin? ANSWER: A reader submitted this question about “Lay of the Fall of Gondolin”, which was finally fully (sort […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Many Immigration Events Are There In Middle-earth?]]></title>
         <id>https://middle-earth.xenite.org/how-many-immigration-events-are-there-in-middle-earth/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/was-j-r-r-tolkien-a-fascist/"/>
         <updated>2024-11-20T05:40:19.694Z</updated>
         <content type="html"><![CDATA[Q: Was J.R.R. Tolkien A Fascist? ANSWER: No, J.R.R. Tolkien was not a fascist. However, the idea seems to be a popular myth among YouTubers […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Are There So Few ‘Good Guys’ In Middle-earth?]]></title>
-        <id>https://middle-earth.xenite.org/why-are-there-so-few-good-guys-in-middle-earth/</id>
-        <link href="https://middle-earth.xenite.org/why-are-there-so-few-good-guys-in-middle-earth/"/>
-        <updated>2024-11-20T05:40:19.695Z</updated>
-        <content type="html"><![CDATA[Q: Why Are There So Few ‘Good Guys’ In Middle-earth? ANSWER: Across the decades people occasionally ask “where is everyone” or “why are there so […]]]></content>
     </entry>
 </feed>
