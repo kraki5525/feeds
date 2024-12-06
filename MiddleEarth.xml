@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-12-05T17:40:00.732Z</updated>
+    <updated>2024-12-06T05:41:10.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What Happened To Tuor And Idril?]]></title>
+        <id>https://middle-earth.xenite.org/what-happened-to-tuor-and-idril/</id>
+        <link href="https://middle-earth.xenite.org/what-happened-to-tuor-and-idril/"/>
+        <updated>2024-12-06T05:41:09.410Z</updated>
+        <content type="html"><![CDATA[Q: What Happened To Tuor And Idril? ANSWER: I received this question from a reader in July 2024: What happened to Tuor when he set […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Happened To The Nine Rings of the Nazgûl?]]></title>
         <id>https://middle-earth.xenite.org/what-happened-to-the-nine-rings-of-the-nazgul/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/did-j-r-r-tolkien-confirm-that-aragorn-was-beardless/"/>
         <updated>2024-12-04T17:40:29.969Z</updated>
         <content type="html"><![CDATA[Q: Did J.R.R. Tolkien Confirm That Aragorn Was Beardless? ANSWER: In March 2022 Alex Perry shared an interesting anecdote on X/Twitter: “I recently discovered that […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Were the Powers of the Great Rings?]]></title>
-        <id>https://middle-earth.xenite.org/what-were-the-powers-of-the-great-rings/</id>
-        <link href="https://middle-earth.xenite.org/what-were-the-powers-of-the-great-rings/"/>
-        <updated>2024-12-04T17:40:29.970Z</updated>
-        <content type="html"><![CDATA[Q: What Were the Powers of the Great Rings? ANSWER: I’ve been asked this question many times through the years, and though I’ve answered it […]]]></content>
     </entry>
 </feed>
