@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-12-09T17:40:25.309Z</updated>
+    <updated>2024-12-10T05:40:59.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Did The Wainriders Depopulate Rhovanion?]]></title>
+        <id>https://middle-earth.xenite.org/did-the-wainriders-depopulate-rhovanion/</id>
+        <link href="https://middle-earth.xenite.org/did-the-wainriders-depopulate-rhovanion/"/>
+        <updated>2024-12-10T05:40:59.164Z</updated>
+        <content type="html"><![CDATA[Q: Did The Wainriders Depopulate Rhovanion? ANSWER: A reader submitted this question in April 2024: Was Rhovanion completely depopulated and abandoned after its destruction by […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Happened To Tuor And Idril?]]></title>
         <id>https://middle-earth.xenite.org/what-happened-to-tuor-and-idril/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/how-has-amazon-changed-middle-earth-canon/"/>
         <updated>2024-12-08T05:39:47.223Z</updated>
         <content type="html"><![CDATA[Q: How Has Amazon Changed Middle-earth Canon? ANSWER: This question has also been phrased as “Is Amazon’s Rings of Power canon middle earth?” The short […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did J.R.R. Tolkien Confirm That Aragorn Was Beardless?]]></title>
-        <id>https://middle-earth.xenite.org/did-j-r-r-tolkien-confirm-that-aragorn-was-beardless/</id>
-        <link href="https://middle-earth.xenite.org/did-j-r-r-tolkien-confirm-that-aragorn-was-beardless/"/>
-        <updated>2024-12-08T05:39:47.224Z</updated>
-        <content type="html"><![CDATA[Q: Did J.R.R. Tolkien Confirm That Aragorn Was Beardless? ANSWER: In March 2022 Alex Perry shared an interesting anecdote on X/Twitter: “I recently discovered that […]]]></content>
     </entry>
 </feed>
