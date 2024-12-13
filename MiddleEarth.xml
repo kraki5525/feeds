@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-12-12T17:39:53.415Z</updated>
+    <updated>2024-12-13T05:40:52.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Could Gandalf Have Been King Bladorthin?]]></title>
+        <id>https://middle-earth.xenite.org/could-gandalf-have-been-king-bladorthin/</id>
+        <link href="https://middle-earth.xenite.org/could-gandalf-have-been-king-bladorthin/"/>
+        <updated>2024-12-13T05:40:51.467Z</updated>
+        <content type="html"><![CDATA[Q: Could Gandalf Have Been King Bladorthin? ANSWER: A reader asked the following question in January 2024: My comment below is for the most recent […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did The Wainriders Depopulate Rhovanion?]]></title>
         <id>https://middle-earth.xenite.org/did-the-wainriders-depopulate-rhovanion/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/did-legolas-get-drunk-in-lotr/"/>
         <updated>2024-12-08T05:39:47.219Z</updated>
         <content type="html"><![CDATA[Q: Did Legolas Get Drunk In LoTR? ANSWER: This is a serious question. In October 2023 a reader asked: “Was Legolas drunk at the pass […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Has Amazon Changed Middle-earth Canon?]]></title>
-        <id>https://middle-earth.xenite.org/how-has-amazon-changed-middle-earth-canon/</id>
-        <link href="https://middle-earth.xenite.org/how-has-amazon-changed-middle-earth-canon/"/>
-        <updated>2024-12-08T05:39:47.223Z</updated>
-        <content type="html"><![CDATA[Q: How Has Amazon Changed Middle-earth Canon? ANSWER: This question has also been phrased as “Is Amazon’s Rings of Power canon middle earth?” The short […]]]></content>
     </entry>
 </feed>
