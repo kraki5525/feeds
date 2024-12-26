@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-12-26T05:38:44.322Z</updated>
+    <updated>2024-12-26T17:36:30.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Is Alqualondë Formally Considered To Be Part of Valinor?]]></title>
+        <id>https://middle-earth.xenite.org/is-alqualonde-formally-considered-to-be-part-of-valinor/</id>
+        <link href="https://middle-earth.xenite.org/is-alqualonde-formally-considered-to-be-part-of-valinor/"/>
+        <updated>2024-12-26T17:36:30.107Z</updated>
+        <content type="html"><![CDATA[Q: Is Alqualondë Formally Considered To Be Part of Valinor? ANSWER: I received the following question in December 2023: Is Alqualondë formally considered to be […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did J.R.R. Tolkien Write About ‘Black and White’ Morality?]]></title>
         <id>https://middle-earth.xenite.org/did-j-r-r-tolkien-write-about-black-and-white-morality/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/what-happened-to-all-the-umaiar-after-morgoths-defeat/"/>
         <updated>2024-12-25T05:39:22.504Z</updated>
         <content type="html"><![CDATA[Q: What Happened To All The Úmaiar After Morgoth’s Defeat? ANSWER: I received the following questions from a reader in October 2023: It is common […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Aragorn Know Legolas Before the Fellowship?]]></title>
-        <id>https://middle-earth.xenite.org/did-aragorn-know-legolas-before-the-fellowship/</id>
-        <link href="https://middle-earth.xenite.org/did-aragorn-know-legolas-before-the-fellowship/"/>
-        <updated>2024-12-25T05:39:22.504Z</updated>
-        <content type="html"><![CDATA[Q: Did Aragorn Know Legolas Before the Fellowship? ANSWER: Someone asked me this a long, long time ago. It must have been in an online […]]]></content>
     </entry>
 </feed>
