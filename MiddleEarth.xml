@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2024-12-30T05:38:58.306Z</updated>
+    <updated>2024-12-30T17:36:54.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Did The Valar Fight In The War Of Wrath?]]></title>
+        <id>https://middle-earth.xenite.org/did-the-valar-fight-in-the-war-of-wrath/</id>
+        <link href="https://middle-earth.xenite.org/did-the-valar-fight-in-the-war-of-wrath/"/>
+        <updated>2024-12-30T17:36:53.805Z</updated>
+        <content type="html"><![CDATA[Q: Did The Valar Fight In The War Of Wrath? ANSWER: J.R.R. Tolkien never stated (in any post-LoTR writing) whether any of the Valar participated […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Alqualondë Formally Considered To Be Part of Valinor?]]></title>
         <id>https://middle-earth.xenite.org/is-alqualonde-formally-considered-to-be-part-of-valinor/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/when-did-the-first-age-of-middle-earth-begin/"/>
         <updated>2024-12-29T05:37:47.597Z</updated>
         <content type="html"><![CDATA[Q: When Did the First Age of Middle-earth Begin? ANSWER: I’ve debated how to handle this question, as I haven’t written any articles that specifically […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happened To All The Úmaiar After Morgoth’s Defeat?]]></title>
-        <id>https://middle-earth.xenite.org/what-happened-to-all-the-umaiar-after-morgoths-defeat/</id>
-        <link href="https://middle-earth.xenite.org/what-happened-to-all-the-umaiar-after-morgoths-defeat/"/>
-        <updated>2024-12-29T05:37:47.601Z</updated>
-        <content type="html"><![CDATA[Q: What Happened To All The Úmaiar After Morgoth’s Defeat? ANSWER: I received the following questions from a reader in October 2023: It is common […]]]></content>
     </entry>
 </feed>
