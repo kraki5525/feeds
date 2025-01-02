@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-01-02T05:38:38.780Z</updated>
+    <updated>2025-01-02T17:36:50.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Are Orc Families Canonical? Do Orcs Have Families?]]></title>
+        <id>https://middle-earth.xenite.org/are-orc-families-canonical-do-orcs-have-families/</id>
+        <link href="https://middle-earth.xenite.org/are-orc-families-canonical-do-orcs-have-families/"/>
+        <updated>2025-01-02T17:36:50.099Z</updated>
+        <content type="html"><![CDATA[Q: Are Orc Families Canonical? Do Orcs Have Families? ANSWER: These questions represent the uproar on the Internet over the sight of an Orc mother […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did The Valar Fight In The War Of Wrath?]]></title>
         <id>https://middle-earth.xenite.org/did-the-valar-fight-in-the-war-of-wrath/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/what-happened-to-the-three-rings-in-aman/"/>
         <updated>2024-12-29T05:37:47.596Z</updated>
         <content type="html"><![CDATA[Q: What Happened To The Three Rings In Aman? ANSWER: I received the following request in November 2023: What became of the Three Elven-Rings when […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Did the First Age of Middle-earth Begin?]]></title>
-        <id>https://middle-earth.xenite.org/when-did-the-first-age-of-middle-earth-begin/</id>
-        <link href="https://middle-earth.xenite.org/when-did-the-first-age-of-middle-earth-begin/"/>
-        <updated>2024-12-29T05:37:47.597Z</updated>
-        <content type="html"><![CDATA[Q: When Did the First Age of Middle-earth Begin? ANSWER: I’ve debated how to handle this question, as I haven’t written any articles that specifically […]]]></content>
     </entry>
 </feed>
