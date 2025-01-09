@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-01-09T05:38:08.314Z</updated>
+    <updated>2025-01-09T17:37:37.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Were There Any Cultural Melting Pots In Middle-earth?]]></title>
+        <id>https://middle-earth.xenite.org/were-there-any-cultural-melting-pots-in-middle-earth/</id>
+        <link href="https://middle-earth.xenite.org/were-there-any-cultural-melting-pots-in-middle-earth/"/>
+        <updated>2025-01-09T17:37:36.406Z</updated>
+        <content type="html"><![CDATA[Q: Were There Any Cultural Melting Pots In Middle-earth? ANSWER: Yes. J.R.R. Tolkien wrote about numerous “cultural melting pots”. This question was inspired by a […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Were The Dead Men Of Dunharrow Gondorians?]]></title>
         <id>https://middle-earth.xenite.org/were-the-dead-men-of-dunharrow-gondorians/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/what-was-the-significance-of-air-fire-and-water-for-the-three-rings/"/>
         <updated>2025-01-06T17:37:37.199Z</updated>
         <content type="html"><![CDATA[Q: What Was the Significance of Air, Fire, and Water for the Three Rings? ANSWER: I received the following question in December 2023: One thing […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Was Second Age Hobbit Society Like?]]></title>
-        <id>https://middle-earth.xenite.org/what-was-second-age-hobbit-society-like/</id>
-        <link href="https://middle-earth.xenite.org/what-was-second-age-hobbit-society-like/"/>
-        <updated>2025-01-06T17:37:37.200Z</updated>
-        <content type="html"><![CDATA[Q: What Was Second Age Hobbit Society Like? ANSWER: This question was posed in several ways over the past few years, not always in response […]]]></content>
     </entry>
 </feed>
