@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-01-13T05:39:26.779Z</updated>
+    <updated>2025-01-13T17:38:41.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Are These Myths About Tolkien Elves True?]]></title>
+        <id>https://middle-earth.xenite.org/are-these-myths-about-tolkien-elves-true/</id>
+        <link href="https://middle-earth.xenite.org/are-these-myths-about-tolkien-elves-true/"/>
+        <updated>2025-01-13T17:38:41.094Z</updated>
+        <content type="html"><![CDATA[Q: Are These Myths About Tolkien Elves True? ANSWER: I can’t enumerate every myth about Tolkien Elves that people have concocted and shared on social […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Were There Any Cultural Melting Pots In Middle-earth?]]></title>
         <id>https://middle-earth.xenite.org/were-there-any-cultural-melting-pots-in-middle-earth/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/questions-about-sauron/"/>
         <updated>2025-01-11T05:37:24.712Z</updated>
         <content type="html"><![CDATA[Q: Questions About Sauron ANSWER: I received the following question in December 2023: Is there any kind of overlap between the Eye of Sauron and […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Was the Significance of Air, Fire, and Water for the Three Rings?]]></title>
-        <id>https://middle-earth.xenite.org/what-was-the-significance-of-air-fire-and-water-for-the-three-rings/</id>
-        <link href="https://middle-earth.xenite.org/what-was-the-significance-of-air-fire-and-water-for-the-three-rings/"/>
-        <updated>2025-01-11T05:37:24.713Z</updated>
-        <content type="html"><![CDATA[Q: What Was the Significance of Air, Fire, and Water for the Three Rings? ANSWER: I received the following question in December 2023: One thing […]]]></content>
     </entry>
 </feed>
