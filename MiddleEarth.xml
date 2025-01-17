@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-01-16T17:36:54.957Z</updated>
+    <updated>2025-01-17T05:37:25.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What Might Have Happened If Isildur Survived?]]></title>
+        <id>https://middle-earth.xenite.org/what-might-have-happened-if-isildur-survived/</id>
+        <link href="https://middle-earth.xenite.org/what-might-have-happened-if-isildur-survived/"/>
+        <updated>2025-01-17T05:37:25.255Z</updated>
+        <content type="html"><![CDATA[Q: What Might Have Happened If Isildur Survived? ANSWER: This is one of those questions for which there is no “right” answer. I received the […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are These Myths About Tolkien Elves True?]]></title>
         <id>https://middle-earth.xenite.org/are-these-myths-about-tolkien-elves-true/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/why-would-sauron-set-traps-for-aragorn/"/>
         <updated>2025-01-11T05:37:24.707Z</updated>
         <content type="html"><![CDATA[Q: Why Would Sauron Set Traps for Aragorn? ANSWER: This is an interesting question I’ve seen people ask in online discussions. To the best of […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Questions About Sauron]]></title>
-        <id>https://middle-earth.xenite.org/questions-about-sauron/</id>
-        <link href="https://middle-earth.xenite.org/questions-about-sauron/"/>
-        <updated>2025-01-11T05:37:24.712Z</updated>
-        <content type="html"><![CDATA[Q: Questions About Sauron ANSWER: I received the following question in December 2023: Is there any kind of overlap between the Eye of Sauron and […]]]></content>
     </entry>
 </feed>
