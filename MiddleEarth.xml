@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-01-20T17:36:52.832Z</updated>
+    <updated>2025-01-21T05:39:49.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why Didn’t Amazon Get Rights To Use Silmarillion Material?]]></title>
+        <id>https://middle-earth.xenite.org/why-didnt-amazon-get-rights-to-use-silmarillion-material/</id>
+        <link href="https://middle-earth.xenite.org/why-didnt-amazon-get-rights-to-use-silmarillion-material/"/>
+        <updated>2025-01-21T05:39:49.199Z</updated>
+        <content type="html"><![CDATA[Q: Why Didn’t Amazon Get Rights To Use Silmarillion Material? ANSWER: A reader submitted this question in April 2024: Apparently Amazon is in direct contact […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Might Have Happened If Isildur Survived?]]></title>
         <id>https://middle-earth.xenite.org/what-might-have-happened-if-isildur-survived/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/were-any-palantiri-unaccounted-for-in-the-lord-of-the-rings/"/>
         <updated>2025-01-11T05:37:24.706Z</updated>
         <content type="html"><![CDATA[Q: Were Any Palantíri Unaccounted for In The Lord of the Rings? ANSWER: Collider published a ridiculous click-bait article last week that stated “By the […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Would Sauron Set Traps for Aragorn?]]></title>
-        <id>https://middle-earth.xenite.org/why-would-sauron-set-traps-for-aragorn/</id>
-        <link href="https://middle-earth.xenite.org/why-would-sauron-set-traps-for-aragorn/"/>
-        <updated>2025-01-11T05:37:24.707Z</updated>
-        <content type="html"><![CDATA[Q: Why Would Sauron Set Traps for Aragorn? ANSWER: This is an interesting question I’ve seen people ask in online discussions. To the best of […]]]></content>
     </entry>
 </feed>
