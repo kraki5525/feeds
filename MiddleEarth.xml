@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-01-23T05:38:04.909Z</updated>
+    <updated>2025-01-23T17:37:31.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why Didn’t Gandalf’s Return Cause A Big Stir?]]></title>
+        <id>https://middle-earth.xenite.org/why-didnt-gandalfs-return-cause-a-big-stir/</id>
+        <link href="https://middle-earth.xenite.org/why-didnt-gandalfs-return-cause-a-big-stir/"/>
+        <updated>2025-01-23T17:37:30.614Z</updated>
+        <content type="html"><![CDATA[Q: Why Didn’t Gandalf’s Return Cause A Big Stir? ANSWER: A reader submitted this question in August 2024: Michael, I was wondering about Gandalf’s fall, […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Didn’t Amazon Get Rights To Use Silmarillion Material?]]></title>
         <id>https://middle-earth.xenite.org/why-didnt-amazon-get-rights-to-use-silmarillion-material/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/how-many-immigration-events-are-there-in-middle-earth/"/>
         <updated>2025-01-11T05:37:24.704Z</updated>
         <content type="html"><![CDATA[Q: How Many Immigration Events Are There In Middle-earth? ANSWER: I received the following request in March 2024: I wanted to ask you, what do […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Were Any Palantíri Unaccounted for In The Lord of the Rings?]]></title>
-        <id>https://middle-earth.xenite.org/were-any-palantiri-unaccounted-for-in-the-lord-of-the-rings/</id>
-        <link href="https://middle-earth.xenite.org/were-any-palantiri-unaccounted-for-in-the-lord-of-the-rings/"/>
-        <updated>2025-01-11T05:37:24.706Z</updated>
-        <content type="html"><![CDATA[Q: Were Any Palantíri Unaccounted for In The Lord of the Rings? ANSWER: Collider published a ridiculous click-bait article last week that stated “By the […]]]></content>
     </entry>
 </feed>
