@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-01-27T17:37:40.762Z</updated>
+    <updated>2025-01-28T05:37:41.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Was J.R.R. Tolkien Woke?]]></title>
+        <id>https://middle-earth.xenite.org/was-j-r-r-tolkien-woke/</id>
+        <link href="https://middle-earth.xenite.org/was-j-r-r-tolkien-woke/"/>
+        <updated>2025-01-28T05:37:41.130Z</updated>
+        <content type="html"><![CDATA[Q: Was J.R.R. Tolkien Woke? ANSWER: I saw someone drop a comment on social media to the effect of “at least Tolkien isn’t woke”. That’s […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Didn’t Gandalf’s Return Cause A Big Stir?]]></title>
         <id>https://middle-earth.xenite.org/why-didnt-gandalfs-return-cause-a-big-stir/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/where-was-earendil-born-in-gondolin/"/>
         <updated>2025-01-11T05:37:24.703Z</updated>
         <content type="html"><![CDATA[Q: Where Was Eärendil Born In Gondolin? ANSWER: A reader submitted this question about “Lay of the Fall of Gondolin”, which was finally fully (sort […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Many Immigration Events Are There In Middle-earth?]]></title>
-        <id>https://middle-earth.xenite.org/how-many-immigration-events-are-there-in-middle-earth/</id>
-        <link href="https://middle-earth.xenite.org/how-many-immigration-events-are-there-in-middle-earth/"/>
-        <updated>2025-01-11T05:37:24.704Z</updated>
-        <content type="html"><![CDATA[Q: How Many Immigration Events Are There In Middle-earth? ANSWER: I received the following request in March 2024: I wanted to ask you, what do […]]]></content>
     </entry>
 </feed>
