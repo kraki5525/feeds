@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-02-10T17:37:05.905Z</updated>
+    <updated>2025-02-11T05:38:13.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What Professions Did Tolkien’s Dwarves Actually Practice?]]></title>
+        <id>https://middle-earth.xenite.org/what-professions-did-tolkiens-dwarves-actually-practice/</id>
+        <link href="https://middle-earth.xenite.org/what-professions-did-tolkiens-dwarves-actually-practice/"/>
+        <updated>2025-02-11T05:38:12.871Z</updated>
+        <content type="html"><![CDATA[Q: What Professions Did Tolkien’s Dwarves Actually Practice? ANSWER: An online fan asked if Dwarves do anything other than “mining and smithing” in Tolkien’s stories. […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Would Galadriel Have Allowed Sauron To Stay In Eregion?]]></title>
         <id>https://middle-earth.xenite.org/why-would-galadriel-have-allowed-sauron-to-stay-in-eregion/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/did-the-wainriders-depopulate-rhovanion/"/>
         <updated>2025-02-10T17:37:05.261Z</updated>
         <content type="html"><![CDATA[Q: Did The Wainriders Depopulate Rhovanion? ANSWER: A reader submitted this question in April 2024: Was Rhovanion completely depopulated and abandoned after its destruction by […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happened To Tuor And Idril?]]></title>
-        <id>https://middle-earth.xenite.org/what-happened-to-tuor-and-idril/</id>
-        <link href="https://middle-earth.xenite.org/what-happened-to-tuor-and-idril/"/>
-        <updated>2025-02-10T17:37:05.266Z</updated>
-        <content type="html"><![CDATA[Q: What Happened To Tuor And Idril? ANSWER: I received this question from a reader in July 2024: What happened to Tuor when he set […]]]></content>
     </entry>
 </feed>
