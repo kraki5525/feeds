@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-17T05:39:38.128Z</updated>
+    <updated>2025-02-17T17:37:02.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Sam Matlock (Wikipedia — did you know?)]]></title>
@@ -66,6 +66,13 @@
         <link href="https://en.wikipedia.org/wiki/Jailson_Mendes"/>
         <updated>2025-02-17T05:39:32.456Z</updated>
         <content type="html"><![CDATA[... that <b><a href="/wiki/Jailson_Mendes" title="Jailson Mendes">Jailson Mendes</a></b> had to gain weight for his first pornographic film?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Didn’t The Dwarves All Arrive Together In ‘An Unexpected Party’? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/why-didnt-the-dwarves-all-arrive-together-in-an-unexpected-party/</id>
+        <link href="https://middle-earth.xenite.org/why-didnt-the-dwarves-all-arrive-together-in-an-unexpected-party/"/>
+        <updated>2025-02-17T17:37:01.457Z</updated>
+        <content type="html"><![CDATA[Q: Why Didn’t The Dwarves All Arrive Together In ‘An Unexpected Party’? ANSWER: This is a question that someone asks every few years. It was […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why Did Elrond Stay In Middle-earth After The Second Age? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -171,12 +178,5 @@
         <link href="https://middle-earth.xenite.org/did-j-r-r-tolkien-write-about-black-and-white-morality/"/>
         <updated>2025-02-10T17:37:05.258Z</updated>
         <content type="html"><![CDATA[Q: Did J.R.R. Tolkien Write about ‘Black and White’ Morality? ANSWER: This question is inspired by an ill-informed comment I saw on social media earlier […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could Gandalf Have Been King Bladorthin? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/could-gandalf-have-been-king-bladorthin/</id>
-        <link href="https://middle-earth.xenite.org/could-gandalf-have-been-king-bladorthin/"/>
-        <updated>2025-02-10T17:37:05.260Z</updated>
-        <content type="html"><![CDATA[Q: Could Gandalf Have Been King Bladorthin? ANSWER: A reader asked the following question in January 2024: My comment below is for the most recent […]]]></content>
     </entry>
 </feed>

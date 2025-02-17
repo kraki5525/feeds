@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-02-17T05:39:38.122Z</updated>
+    <updated>2025-02-17T17:37:02.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why Didn’t The Dwarves All Arrive Together In ‘An Unexpected Party’?]]></title>
+        <id>https://middle-earth.xenite.org/why-didnt-the-dwarves-all-arrive-together-in-an-unexpected-party/</id>
+        <link href="https://middle-earth.xenite.org/why-didnt-the-dwarves-all-arrive-together-in-an-unexpected-party/"/>
+        <updated>2025-02-17T17:37:01.457Z</updated>
+        <content type="html"><![CDATA[Q: Why Didn’t The Dwarves All Arrive Together In ‘An Unexpected Party’? ANSWER: This is a question that someone asks every few years. It was […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Did Elrond Stay In Middle-earth After The Second Age?]]></title>
         <id>https://middle-earth.xenite.org/why-did-elrond-stay-in-middle-earth-after-the-second-age/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/did-j-r-r-tolkien-write-about-black-and-white-morality/"/>
         <updated>2025-02-10T17:37:05.258Z</updated>
         <content type="html"><![CDATA[Q: Did J.R.R. Tolkien Write about ‘Black and White’ Morality? ANSWER: This question is inspired by an ill-informed comment I saw on social media earlier […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could Gandalf Have Been King Bladorthin?]]></title>
-        <id>https://middle-earth.xenite.org/could-gandalf-have-been-king-bladorthin/</id>
-        <link href="https://middle-earth.xenite.org/could-gandalf-have-been-king-bladorthin/"/>
-        <updated>2025-02-10T17:37:05.260Z</updated>
-        <content type="html"><![CDATA[Q: Could Gandalf Have Been King Bladorthin? ANSWER: A reader asked the following question in January 2024: My comment below is for the most recent […]]]></content>
     </entry>
 </feed>
