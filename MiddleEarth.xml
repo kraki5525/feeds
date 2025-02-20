@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-02-20T05:38:38.938Z</updated>
+    <updated>2025-02-20T17:38:02.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Did Glóin Imply He Had Met Legolas?]]></title>
+        <id>https://middle-earth.xenite.org/did-gloin-imply-he-had-met-legolas/</id>
+        <link href="https://middle-earth.xenite.org/did-gloin-imply-he-had-met-legolas/"/>
+        <updated>2025-02-20T17:38:01.672Z</updated>
+        <content type="html"><![CDATA[Q: Did Glóin Imply He Had Met Legolas? ANSWER: Peter Jackson’s inclusion of Legolas in the ‘Hobbit’ films continues to weigh on the thoughts many […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Didn’t The Dwarves All Arrive Together In ‘An Unexpected Party’?]]></title>
         <id>https://middle-earth.xenite.org/why-didnt-the-dwarves-all-arrive-together-in-an-unexpected-party/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/is-alqualonde-formally-considered-to-be-part-of-valinor/"/>
         <updated>2025-02-10T17:37:05.255Z</updated>
         <content type="html"><![CDATA[Q: Is Alqualondë Formally Considered To Be Part of Valinor? ANSWER: I received the following question in December 2023: Is Alqualondë formally considered to be […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did J.R.R. Tolkien Write About ‘Black and White’ Morality?]]></title>
-        <id>https://middle-earth.xenite.org/did-j-r-r-tolkien-write-about-black-and-white-morality/</id>
-        <link href="https://middle-earth.xenite.org/did-j-r-r-tolkien-write-about-black-and-white-morality/"/>
-        <updated>2025-02-10T17:37:05.258Z</updated>
-        <content type="html"><![CDATA[Q: Did J.R.R. Tolkien Write about ‘Black and White’ Morality? ANSWER: This question is inspired by an ill-informed comment I saw on social media earlier […]]]></content>
     </entry>
 </feed>
