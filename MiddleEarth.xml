@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-02-24T17:37:42.256Z</updated>
+    <updated>2025-02-25T05:38:46.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Did Middle-earth Realms Fund Their Governments?]]></title>
+        <id>https://middle-earth.xenite.org/how-did-middle-earth-realms-fund-their-governments/</id>
+        <link href="https://middle-earth.xenite.org/how-did-middle-earth-realms-fund-their-governments/"/>
+        <updated>2025-02-25T05:38:45.446Z</updated>
+        <content type="html"><![CDATA[Q: How Did Middle-earth Reams Fund Their Governments? ANSWER: I have blended several questions people have asked me (and asked openly on the Web). To […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did Glóin Imply He Had Met Legolas?]]></title>
         <id>https://middle-earth.xenite.org/did-gloin-imply-he-had-met-legolas/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/did-the-valar-fight-in-the-war-of-wrath/"/>
         <updated>2025-02-10T17:37:05.253Z</updated>
         <content type="html"><![CDATA[Q: Did The Valar Fight In The War Of Wrath? ANSWER: J.R.R. Tolkien never stated (in any post-LoTR writing) whether any of the Valar participated […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Alqualondë Formally Considered To Be Part of Valinor?]]></title>
-        <id>https://middle-earth.xenite.org/is-alqualonde-formally-considered-to-be-part-of-valinor/</id>
-        <link href="https://middle-earth.xenite.org/is-alqualonde-formally-considered-to-be-part-of-valinor/"/>
-        <updated>2025-02-10T17:37:05.255Z</updated>
-        <content type="html"><![CDATA[Q: Is Alqualondë Formally Considered To Be Part of Valinor? ANSWER: I received the following question in December 2023: Is Alqualondë formally considered to be […]]]></content>
     </entry>
 </feed>
