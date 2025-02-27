@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-02-27T05:39:59.113Z</updated>
+    <updated>2025-02-27T17:38:38.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Waiting for a King Like You]]></title>
+        <id>https://middle-earth.xenite.org/waiting-for-a-king-like-you/</id>
+        <link href="https://middle-earth.xenite.org/waiting-for-a-king-like-you/"/>
+        <updated>2025-02-27T17:38:38.122Z</updated>
+        <content type="html"><![CDATA[Why did the line of the High Kings of Arnor and Gondor come to an early end with the death of Eärendur? Tolkien offers us […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Did Middle-earth Realms Fund Their Governments?]]></title>
         <id>https://middle-earth.xenite.org/how-did-middle-earth-realms-fund-their-governments/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/are-orc-families-canonical-do-orcs-have-families/"/>
         <updated>2025-02-10T17:37:05.252Z</updated>
         <content type="html"><![CDATA[Q: Are Orc Families Canonical? Do Orcs Have Families? ANSWER: These questions represent the uproar on the Internet over the sight of an Orc mother […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did The Valar Fight In The War Of Wrath?]]></title>
-        <id>https://middle-earth.xenite.org/did-the-valar-fight-in-the-war-of-wrath/</id>
-        <link href="https://middle-earth.xenite.org/did-the-valar-fight-in-the-war-of-wrath/"/>
-        <updated>2025-02-10T17:37:05.253Z</updated>
-        <content type="html"><![CDATA[Q: Did The Valar Fight In The War Of Wrath? ANSWER: J.R.R. Tolkien never stated (in any post-LoTR writing) whether any of the Valar participated […]]]></content>
     </entry>
 </feed>
