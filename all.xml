@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-03T05:39:38.687Z</updated>
+    <updated>2025-03-03T17:39:32.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Isopyrum (Wikipedia — did you know?)]]></title>
@@ -66,6 +66,13 @@
         <link href="https://en.wikipedia.org/wiki/Tyrannasorus_rex"/>
         <updated>2025-03-03T05:39:32.453Z</updated>
         <content type="html"><![CDATA[... that a specimen of <i><b><a href="/wiki/Tyrannasorus_rex" title="Tyrannasorus rex">Tyrannasorus rex</a></b></i> had six legs and wings and was killed by a legume?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions About Tharbad (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/questions-about-tharbad/</id>
+        <link href="https://middle-earth.xenite.org/questions-about-tharbad/"/>
+        <updated>2025-03-03T17:39:31.549Z</updated>
+        <content type="html"><![CDATA[Q: Questions About Tharbad ANSWER: People have asked many questions about Tharbad. And while I’ve written a few articles about the city, I haven’t been […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Waiting for a King Like You (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -171,12 +178,5 @@
         <link href="https://middle-earth.xenite.org/were-the-dead-men-of-dunharrow-gondorians/"/>
         <updated>2025-02-10T17:37:05.250Z</updated>
         <content type="html"><![CDATA[Q: Were The Dead Men Of Dunharrow Gondorians? ANSWER: Yes, the Dead Men of Dunharrow were Gondorians. However, you’ll find many Websites that mistakenly claim […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Orc Families Canonical? Do Orcs Have Families? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/are-orc-families-canonical-do-orcs-have-families/</id>
-        <link href="https://middle-earth.xenite.org/are-orc-families-canonical-do-orcs-have-families/"/>
-        <updated>2025-02-10T17:37:05.252Z</updated>
-        <content type="html"><![CDATA[Q: Are Orc Families Canonical? Do Orcs Have Families? ANSWER: These questions represent the uproar on the Internet over the sight of an Orc mother […]]]></content>
     </entry>
 </feed>
