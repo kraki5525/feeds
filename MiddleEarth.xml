@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-03-06T05:39:40.460Z</updated>
+    <updated>2025-03-06T17:38:18.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pedo Barbarians A Minno]]></title>
+        <id>https://middle-earth.xenite.org/pedo-barbarians-a-minno/</id>
+        <link href="https://middle-earth.xenite.org/pedo-barbarians-a-minno/"/>
+        <updated>2025-03-06T17:38:17.886Z</updated>
+        <content type="html"><![CDATA[Why are there no barbarians in Middle-earth? Are they too mundane for a heroic age or too simple for a complex world? What is a […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Questions About Tharbad]]></title>
         <id>https://middle-earth.xenite.org/questions-about-tharbad/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/were-there-any-cultural-melting-pots-in-middle-earth/"/>
         <updated>2025-02-10T17:37:05.249Z</updated>
         <content type="html"><![CDATA[Q: Were There Any Cultural Melting Pots In Middle-earth? ANSWER: Yes. J.R.R. Tolkien wrote about numerous “cultural melting pots”. This question was inspired by a […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Were The Dead Men Of Dunharrow Gondorians?]]></title>
-        <id>https://middle-earth.xenite.org/were-the-dead-men-of-dunharrow-gondorians/</id>
-        <link href="https://middle-earth.xenite.org/were-the-dead-men-of-dunharrow-gondorians/"/>
-        <updated>2025-02-10T17:37:05.250Z</updated>
-        <content type="html"><![CDATA[Q: Were The Dead Men Of Dunharrow Gondorians? ANSWER: Yes, the Dead Men of Dunharrow were Gondorians. However, you’ll find many Websites that mistakenly claim […]]]></content>
     </entry>
 </feed>
