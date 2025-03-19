@@ -2,69 +2,181 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-18T17:39:24.668Z</updated>
+    <updated>2025-03-19T05:39:22.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Sardoine Mia (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Sardoine_Mia</id>
-        <link href="https://en.wikipedia.org/wiki/Sardoine_Mia"/>
-        <updated>2025-03-18T17:39:21.548Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Sardoine_Mia" title="Sardoine Mia">Sardoine Mia</a></b> <i>(pictured)</i> creates paintings whose surfaces look like concrete?]]></content>
+        <title type="html"><![CDATA[Logical (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Logical_(song)</id>
+        <link href="https://en.wikipedia.org/wiki/Logical_(song)"/>
+        <updated>2025-03-19T05:39:15.240Z</updated>
+        <content type="html"><![CDATA[... that "<b><a href="/wiki/Logical_(song)" title="Logical (song)">Logical</a></b>" was performed on a crescent moon <i>(pictured)</i> suspended from the ceiling on Olivia Rodrigo's <a href="/wiki/Guts_World_Tour" title="Guts World Tour">Guts World Tour</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a Kansas radio station (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/KYWA</id>
-        <link href="https://en.wikipedia.org/wiki/KYWA"/>
-        <updated>2025-03-18T17:39:21.549Z</updated>
-        <content type="html"><![CDATA[... that the church that attempted to sell <b><a href="/wiki/KYWA" title="KYWA">a Kansas radio station</a></b> could not locate the money allegedly paid by the buyer?]]></content>
+        <title type="html"><![CDATA[a newly discovered bee (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Hylaeus_paumako</id>
+        <link href="https://en.wikipedia.org/wiki/Hylaeus_paumako"/>
+        <updated>2025-03-19T05:39:15.240Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Hylaeus_paumako" title="Hylaeus paumako">a newly discovered bee</a></b> descends from a single ancestor that reached the Hawaiian Islands between 1&nbsp;million and 1.5&nbsp;million years ago?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rudolf Herzog (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Rudolf_Herzog</id>
-        <link href="https://en.wikipedia.org/wiki/Rudolf_Herzog"/>
-        <updated>2025-03-18T17:39:21.550Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Rudolf_Herzog" title="Rudolf Herzog">Rudolf Herzog</a></b><span class="nowrap">'s</span> novels have been described as characterised by the "sentimentality and harshness, pomp and plainness" of <a href="/wiki/Wilhelm_II" title="Wilhelm II">Kaiser Wilhelm&nbsp;II</a>?]]></content>
+        <title type="html"><![CDATA[a single company (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/EviCore</id>
+        <link href="https://en.wikipedia.org/wiki/EviCore"/>
+        <updated>2025-03-19T05:39:15.242Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/EviCore" title="EviCore">a single company</a></b> authorizes health-insurance coverage for more than one hundred million Americans?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[King Faisal Street (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/King_Faisal_Street_(Amman)</id>
-        <link href="https://en.wikipedia.org/wiki/King_Faisal_Street_(Amman)"/>
-        <updated>2025-03-18T17:39:21.552Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/King_Faisal_Street_(Amman)" title="King Faisal Street (Amman)">King Faisal Street</a></b>, one of the main thoroughfares in <a href="/wiki/Downtown_Amman" title="Downtown Amman">downtown Amman</a>, has been used as a public space for national events and celebrations?]]></content>
+        <title type="html"><![CDATA[Prasenjit Barman (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Prasenjit_Barman</id>
+        <link href="https://en.wikipedia.org/wiki/Prasenjit_Barman"/>
+        <updated>2025-03-19T05:39:15.243Z</updated>
+        <content type="html"><![CDATA[... that politician <b><a href="/wiki/Prasenjit_Barman" title="Prasenjit Barman">Prasenjit Barman</a></b> was credited for leading the restoration of the <a href="/wiki/Cooch_Behar_Palace" title="Cooch Behar Palace">Cooch Behar Palace</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Busy" Beasy (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Emil_Beasy</id>
-        <link href="https://en.wikipedia.org/wiki/Emil_Beasy"/>
-        <updated>2025-03-18T17:39:21.556Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Emil_Beasy" title="Emil Beasy">"Busy" Beasy</a></b> was a boxer, a professional American football player and a firefighter, all at the same time?]]></content>
+        <title type="html"><![CDATA[Sound Transit (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Sound_Transit</id>
+        <link href="https://en.wikipedia.org/wiki/Sound_Transit"/>
+        <updated>2025-03-19T05:39:15.245Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Sound_Transit" title="Sound Transit">Sound Transit</a></b> has 170 pieces of permanent public art at its stations and facilities?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a Google Doc written by a high school student (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Am_I_a_Lesbian%3F</id>
-        <link href="https://en.wikipedia.org/wiki/Am_I_a_Lesbian%3F"/>
-        <updated>2025-03-18T17:39:21.557Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Am_I_a_Lesbian%3F" title="Am I a Lesbian?">a Google Doc written by a high school student</a></b> has become "part of the online queer canon"?]]></content>
+        <title type="html"><![CDATA[DJ Pickett (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/DJ_Pickett</id>
+        <link href="https://en.wikipedia.org/wiki/DJ_Pickett"/>
+        <updated>2025-03-19T05:39:15.247Z</updated>
+        <content type="html"><![CDATA[... that football player <b><a href="/wiki/DJ_Pickett" title="DJ Pickett">DJ Pickett</a></b> was the first <a href="/wiki/All-America" title="All-America">All-American</a> at his high school since his uncle nearly 30 years prior?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Santosh Roy (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Santosh_Roy_(West_Bengal_politician)</id>
-        <link href="https://en.wikipedia.org/wiki/Santosh_Roy_(West_Bengal_politician)"/>
-        <updated>2025-03-18T17:39:21.560Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a> relief minister <b><a href="/wiki/Santosh_Roy_(West_Bengal_politician)" title="Santosh Roy (West Bengal politician)">Santosh Roy</a></b> resigned in 1975 after the <a href="/wiki/Kailas_Nath_Wanchoo" title="Kailas Nath Wanchoo">Wanchoo Commission</a> found him guilty of securing a government job for his sister?]]></content>
+        <title type="html"><![CDATA[The Dedalus Book of Polish Fantasy (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Dedalus_Book_of_Polish_Fantasy</id>
+        <link href="https://en.wikipedia.org/wiki/The_Dedalus_Book_of_Polish_Fantasy"/>
+        <updated>2025-03-19T05:39:15.256Z</updated>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/The_Dedalus_Book_of_Polish_Fantasy" title="The Dedalus Book of Polish Fantasy">The Dedalus Book of Polish Fantasy</a></b></i> features stories spanning two centuries of Polish literary tradition, exploring the theme of <a href="/wiki/Devil" title="Devil">personification of evil</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Busy Woman (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Busy_Woman</id>
-        <link href="https://en.wikipedia.org/wiki/Busy_Woman"/>
-        <updated>2025-03-18T17:39:21.561Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/Sabrina_Carpenter" title="Sabrina Carpenter">Sabrina Carpenter</a> was sad that the song "<b><a href="/wiki/Busy_Woman" title="Busy Woman">Busy Woman</a></b>" could not be included on <i><a href="/wiki/Short_n%27_Sweet" title="Short n' Sweet">Short n' Sweet</a></i> and later released it as a "thank you" to her fans?]]></content>
+        <title type="html"><![CDATA[Roger Tocotes (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Roger_Tocotes</id>
+        <link href="https://en.wikipedia.org/wiki/Roger_Tocotes"/>
+        <updated>2025-03-19T05:39:15.257Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Roger_Tocotes" title="Roger Tocotes">Roger Tocotes</a></b> was suspected by the Duke of Clarence of masterminding the Duchess of Clarence's death, but Tocotes avoided capture until the King got involved?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caucasian stonecrop (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Phedimus_spurius</id>
-        <link href="https://en.wikipedia.org/wiki/Phedimus_spurius"/>
-        <updated>2025-03-18T17:39:21.562Z</updated>
-        <content type="html"><![CDATA[... that the <b><a href="/wiki/Phedimus_spurius" title="Phedimus spurius">Caucasian stonecrop</a></b> frequently escapes, perhaps through birds or garden waste?]]></content>
+        <title type="html"><![CDATA[Frank Lloyd Wright Home and Studio (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Frank_Lloyd_Wright_Home_and_Studio</id>
+        <link href="https://en.wikipedia.org/wiki/Frank_Lloyd_Wright_Home_and_Studio"/>
+        <updated>2025-03-19T05:39:15.259Z</updated>
+        <content type="html"><![CDATA[... that Saturday Morning Strippers restored the <b><a href="/wiki/Frank_Lloyd_Wright_Home_and_Studio" title="Frank Lloyd Wright Home and Studio">Frank Lloyd Wright Home and Studio</a></b>?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Do We Know About The Dwarves Of Dunland? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/what-do-we-know-about-the-dwarves-of-dunland/</id>
+        <link href="https://middle-earth.xenite.org/what-do-we-know-about-the-dwarves-of-dunland/"/>
+        <updated>2025-03-19T05:39:22.201Z</updated>
+        <content type="html"><![CDATA[Q: What Do We Know About The Dwarves Of Dunland? ANSWER: Lindis left this comment in October 2018: “Any thoughts about the existence of a […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hobbitry-in-Armchairs: Philandering Tolkien’s Philology (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/hobbitry-in-armchairs-philandering-tolkiens-philology/</id>
+        <link href="https://middle-earth.xenite.org/hobbitry-in-armchairs-philandering-tolkiens-philology/"/>
+        <updated>2025-03-19T05:39:22.204Z</updated>
+        <content type="html"><![CDATA[An armchair investigation of tongue-in-cheek or pen-in-hand Biblical passages which might have, could have, would have, never did, and may still be influencing Tolkien preternaturally, […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pedo Barbarians A Minno (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/pedo-barbarians-a-minno/</id>
+        <link href="https://middle-earth.xenite.org/pedo-barbarians-a-minno/"/>
+        <updated>2025-03-19T05:39:22.205Z</updated>
+        <content type="html"><![CDATA[Why are there no barbarians in Middle-earth? Are they too mundane for a heroic age or too simple for a complex world? What is a […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions About Tharbad (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/questions-about-tharbad/</id>
+        <link href="https://middle-earth.xenite.org/questions-about-tharbad/"/>
+        <updated>2025-03-19T05:39:22.214Z</updated>
+        <content type="html"><![CDATA[Q: Questions About Tharbad ANSWER: People have asked many questions about Tharbad. And while I’ve written a few articles about the city, I haven’t been […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waiting for a King Like You (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/waiting-for-a-king-like-you/</id>
+        <link href="https://middle-earth.xenite.org/waiting-for-a-king-like-you/"/>
+        <updated>2025-03-19T05:39:22.214Z</updated>
+        <content type="html"><![CDATA[Why did the line of the High Kings of Arnor and Gondor come to an early end with the death of Eärendur? Tolkien offers us […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Did Middle-earth Realms Fund Their Governments? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/how-did-middle-earth-realms-fund-their-governments/</id>
+        <link href="https://middle-earth.xenite.org/how-did-middle-earth-realms-fund-their-governments/"/>
+        <updated>2025-03-19T05:39:22.217Z</updated>
+        <content type="html"><![CDATA[Q: How Did Middle-earth Reams Fund Their Governments? ANSWER: I have blended several questions people have asked me (and asked openly on the Web). To […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Glóin Imply He Had Met Legolas? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/did-gloin-imply-he-had-met-legolas/</id>
+        <link href="https://middle-earth.xenite.org/did-gloin-imply-he-had-met-legolas/"/>
+        <updated>2025-03-19T05:39:22.218Z</updated>
+        <content type="html"><![CDATA[Q: Did Glóin Imply He Had Met Legolas? ANSWER: Peter Jackson’s inclusion of Legolas in the ‘Hobbit’ films continues to weigh on the thoughts many […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Didn’t The Dwarves All Arrive Together In ‘An Unexpected Party’? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/why-didnt-the-dwarves-all-arrive-together-in-an-unexpected-party/</id>
+        <link href="https://middle-earth.xenite.org/why-didnt-the-dwarves-all-arrive-together-in-an-unexpected-party/"/>
+        <updated>2025-03-19T05:39:22.219Z</updated>
+        <content type="html"><![CDATA[Q: Why Didn’t The Dwarves All Arrive Together In ‘An Unexpected Party’? ANSWER: This is a question that someone asks every few years. It was […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Did Elrond Stay In Middle-earth After The Second Age? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/why-did-elrond-stay-in-middle-earth-after-the-second-age/</id>
+        <link href="https://middle-earth.xenite.org/why-did-elrond-stay-in-middle-earth-after-the-second-age/"/>
+        <updated>2025-03-19T05:39:22.221Z</updated>
+        <content type="html"><![CDATA[Q: Why Did Elrond Stay In Middle-earth After The Second Age? ANSWER: I received this question in July 2024: Why do you think Elrond stayed […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Professions Did Tolkien’s Dwarves Actually Practice? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/what-professions-did-tolkiens-dwarves-actually-practice/</id>
+        <link href="https://middle-earth.xenite.org/what-professions-did-tolkiens-dwarves-actually-practice/"/>
+        <updated>2025-03-19T05:39:22.223Z</updated>
+        <content type="html"><![CDATA[Q: What Professions Did Tolkien’s Dwarves Actually Practice? ANSWER: An online fan asked if Dwarves do anything other than “mining and smithing” in Tolkien’s stories. […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Would Galadriel Have Allowed Sauron To Stay In Eregion? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/why-would-galadriel-have-allowed-sauron-to-stay-in-eregion/</id>
+        <link href="https://middle-earth.xenite.org/why-would-galadriel-have-allowed-sauron-to-stay-in-eregion/"/>
+        <updated>2025-03-19T05:39:22.224Z</updated>
+        <content type="html"><![CDATA[Q: Why Would Galadriel Have Allowed Sauron To Stay In Eregion? ANSWER: This question is not connected with Amazon’s Rings of Power show. A Tolkien […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If Sauron Controlled The Orcs, Why Didn’t They All Get Along? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/if-sauron-controlled-the-orcs-why-didnt-they-all-get-along/</id>
+        <link href="https://middle-earth.xenite.org/if-sauron-controlled-the-orcs-why-didnt-they-all-get-along/"/>
+        <updated>2025-03-19T05:39:22.225Z</updated>
+        <content type="html"><![CDATA[Q: If Sauron Controlled The Orcs, Why Didn’t They All Get Along? ANSWER: This is an amalgam of several questions people have asked through the […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was J.R.R. Tolkien Woke? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/was-j-r-r-tolkien-woke/</id>
+        <link href="https://middle-earth.xenite.org/was-j-r-r-tolkien-woke/"/>
+        <updated>2025-03-19T05:39:22.226Z</updated>
+        <content type="html"><![CDATA[Q: Was J.R.R. Tolkien Woke? ANSWER: I saw someone drop a comment on social media to the effect of “at least Tolkien isn’t woke”. That’s […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Didn’t Gandalf’s Return Cause A Big Stir? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/why-didnt-gandalfs-return-cause-a-big-stir/</id>
+        <link href="https://middle-earth.xenite.org/why-didnt-gandalfs-return-cause-a-big-stir/"/>
+        <updated>2025-03-19T05:39:22.228Z</updated>
+        <content type="html"><![CDATA[Q: Why Didn’t Gandalf’s Return Cause A Big Stir? ANSWER: A reader submitted this question in August 2024: Michael, I was wondering about Gandalf’s fall, […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Didn’t Amazon Get Rights To Use Silmarillion Material? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/why-didnt-amazon-get-rights-to-use-silmarillion-material/</id>
+        <link href="https://middle-earth.xenite.org/why-didnt-amazon-get-rights-to-use-silmarillion-material/"/>
+        <updated>2025-03-19T05:39:22.229Z</updated>
+        <content type="html"><![CDATA[Q: Why Didn’t Amazon Get Rights To Use Silmarillion Material? ANSWER: A reader submitted this question in April 2024: Apparently Amazon is in direct contact […]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Might Have Happened If Isildur Survived? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/what-might-have-happened-if-isildur-survived/</id>
+        <link href="https://middle-earth.xenite.org/what-might-have-happened-if-isildur-survived/"/>
+        <updated>2025-03-19T05:39:22.232Z</updated>
+        <content type="html"><![CDATA[Q: What Might Have Happened If Isildur Survived? ANSWER: This is one of those questions for which there is no “right” answer. I received the […]]]></content>
     </entry>
 </feed>
