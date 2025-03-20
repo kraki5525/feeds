@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-03-20T05:39:20.006Z</updated>
+    <updated>2025-03-20T17:39:25.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The French Connection]]></title>
+        <id>https://middle-earth.xenite.org/the-french-connection/</id>
+        <link href="https://middle-earth.xenite.org/the-french-connection/"/>
+        <updated>2025-03-20T17:39:25.074Z</updated>
+        <content type="html"><![CDATA[Why did Tolkien use the word ‘corsair’ for his pirates? He needed special pirates with a storied history as rich and detailed as Middle-earth itself. […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Do We Know About The Dwarves Of Dunland?]]></title>
         <id>https://middle-earth.xenite.org/what-do-we-know-about-the-dwarves-of-dunland/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/why-didnt-amazon-get-rights-to-use-silmarillion-material/"/>
         <updated>2025-03-19T05:39:22.229Z</updated>
         <content type="html"><![CDATA[Q: Why Didn’t Amazon Get Rights To Use Silmarillion Material? ANSWER: A reader submitted this question in April 2024: Apparently Amazon is in direct contact […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Might Have Happened If Isildur Survived?]]></title>
-        <id>https://middle-earth.xenite.org/what-might-have-happened-if-isildur-survived/</id>
-        <link href="https://middle-earth.xenite.org/what-might-have-happened-if-isildur-survived/"/>
-        <updated>2025-03-19T05:39:22.232Z</updated>
-        <content type="html"><![CDATA[Q: What Might Have Happened If Isildur Survived? ANSWER: This is one of those questions for which there is no “right” answer. I received the […]]]></content>
     </entry>
 </feed>
