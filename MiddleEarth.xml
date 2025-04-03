@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://middle-earth.xenite.org</id>
     <title>Middle-earth &amp; J.R.R. Tolkien Blog</title>
-    <updated>2025-04-03T05:40:01.896Z</updated>
+    <updated>2025-04-03T17:39:21.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://middle-earth.xenite.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Where In The Wild Is Gildor Inglorion?]]></title>
+        <id>https://middle-earth.xenite.org/where-in-the-wild-is-gildor-inglorion/</id>
+        <link href="https://middle-earth.xenite.org/where-in-the-wild-is-gildor-inglorion/"/>
+        <updated>2025-04-03T17:39:20.861Z</updated>
+        <content type="html"><![CDATA[An Elf and a Ranger were camping out in Eriador one night. As they lay in their blankets, the Elf nudged the Ranger and said, […]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Politics: Just Politics]]></title>
         <id>https://middle-earth.xenite.org/politics-just-politics/</id>
@@ -109,12 +116,5 @@
         <link href="https://middle-earth.xenite.org/was-j-r-r-tolkien-woke/"/>
         <updated>2025-04-03T05:40:01.207Z</updated>
         <content type="html"><![CDATA[Q: Was J.R.R. Tolkien Woke? ANSWER: I saw someone drop a comment on social media to the effect of “at least Tolkien isn’t woke”. That’s […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Didn’t Gandalf’s Return Cause A Big Stir?]]></title>
-        <id>https://middle-earth.xenite.org/why-didnt-gandalfs-return-cause-a-big-stir/</id>
-        <link href="https://middle-earth.xenite.org/why-didnt-gandalfs-return-cause-a-big-stir/"/>
-        <updated>2025-04-03T05:40:01.209Z</updated>
-        <content type="html"><![CDATA[Q: Why Didn’t Gandalf’s Return Cause A Big Stir? ANSWER: A reader submitted this question in August 2024: Michael, I was wondering about Gandalf’s fall, […]]]></content>
     </entry>
 </feed>

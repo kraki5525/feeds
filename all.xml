@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraki5525.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-03T05:40:01.908Z</updated>
+    <updated>2025-04-03T17:39:21.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Roman baths (Wikipedia — did you know?)]]></title>
@@ -66,6 +66,13 @@
         <link href="https://en.wikipedia.org/wiki/Anne_Woods_(gurner)"/>
         <updated>2025-04-03T05:39:55.836Z</updated>
         <content type="html"><![CDATA[... that "<b><a href="/wiki/Anne_Woods_(gurner)" title="Anne Woods (gurner)">the world's ugliest woman</a></b>" won the women's world <a href="/wiki/Gurn" title="Gurn">gurning</a> title 28 times?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where In The Wild Is Gildor Inglorion? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
+        <id>https://middle-earth.xenite.org/where-in-the-wild-is-gildor-inglorion/</id>
+        <link href="https://middle-earth.xenite.org/where-in-the-wild-is-gildor-inglorion/"/>
+        <updated>2025-04-03T17:39:20.861Z</updated>
+        <content type="html"><![CDATA[An Elf and a Ranger were camping out in Eriador one night. As they lay in their blankets, the Elf nudged the Ranger and said, […]]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Politics: Just Politics (Middle-earth & J.R.R. Tolkien Blog)]]></title>
@@ -171,12 +178,5 @@
         <link href="https://middle-earth.xenite.org/was-j-r-r-tolkien-woke/"/>
         <updated>2025-04-03T05:40:01.207Z</updated>
         <content type="html"><![CDATA[Q: Was J.R.R. Tolkien Woke? ANSWER: I saw someone drop a comment on social media to the effect of “at least Tolkien isn’t woke”. That’s […]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Didn’t Gandalf’s Return Cause A Big Stir? (Middle-earth & J.R.R. Tolkien Blog)]]></title>
-        <id>https://middle-earth.xenite.org/why-didnt-gandalfs-return-cause-a-big-stir/</id>
-        <link href="https://middle-earth.xenite.org/why-didnt-gandalfs-return-cause-a-big-stir/"/>
-        <updated>2025-04-03T05:40:01.209Z</updated>
-        <content type="html"><![CDATA[Q: Why Didn’t Gandalf’s Return Cause A Big Stir? ANSWER: A reader submitted this question in August 2024: Michael, I was wondering about Gandalf’s fall, […]]]></content>
     </entry>
 </feed>
